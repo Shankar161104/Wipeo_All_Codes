@@ -1,0 +1,7 @@
+C:\Users\shankar\source\repos\Wipro_Loops\Wipro_Loops\bin\Debug\Wipro_Loops.exe.config
+C:\Users\shankar\source\repos\Wipro_Loops\Wipro_Loops\bin\Debug\Wipro_Loops.exe
+C:\Users\shankar\source\repos\Wipro_Loops\Wipro_Loops\bin\Debug\Wipro_Loops.pdb
+C:\Users\shankar\source\repos\Wipro_Loops\Wipro_Loops\obj\Debug\Wipro_Loops.csproj.AssemblyReference.cache
+C:\Users\shankar\source\repos\Wipro_Loops\Wipro_Loops\obj\Debug\Wipro_Loops.csproj.CoreCompileInputs.cache
+C:\Users\shankar\source\repos\Wipro_Loops\Wipro_Loops\obj\Debug\Wipro_Loops.exe
+C:\Users\shankar\source\repos\Wipro_Loops\Wipro_Loops\obj\Debug\Wipro_Loops.pdb

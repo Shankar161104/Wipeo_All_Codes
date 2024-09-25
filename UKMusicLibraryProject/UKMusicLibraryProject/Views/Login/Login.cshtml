@@ -1,0 +1,51 @@
+﻿@model UKMusicLibraryProject.ViewModel.UserLoginViewModel;
+
+<section id="aboutUs" class="center-login">
+    <!--About Us Section-->
+    <div class="inner_wrapper about-us-container fadeInLeft animated wow" style="padding-top: 50px;">
+        <div class="container">
+            <h2 class="text-center mb-4" style="font-weight: bold; color: #333;">Artist Portal - Login</h2>
+            <div class="inner_section">
+                <div class="row justify-content-center">
+                    <div class="col-md-6">
+                        <div class="login-box p-4 shadow-lg rounded bg-light">
+                            <form asp-action="Login">
+                                <!-- Email Input -->
+                                <div class="form-group">
+                                    <label asp-for="Email" class="font-weight-bold">Email</label>
+                                    <input type="text" asp-for="Email" placeholder="Enter your email" class="form-control" autocomplete="off" />
+                                    <span asp-validation-for="Email" class="text-danger"></span>
+                                </div>
+
+                                <!-- Password Input -->
+                                <div class="form-group">
+                                    <label asp-for="Password" class="font-weight-bold">Password</label>
+                                    <input type="password" asp-for="Password" placeholder="Enter your password" class="form-control" autocomplete="off" />
+                                    <span asp-validation-for="Password" class="text-danger"></span>
+                                </div>
+
+                                <!-- Sign In Button -->
+                                <div class="text-center">
+                                    <input type="submit" class="btn btn-primary btn-block font-weight-bold" value="Sign In" />
+                                </div>
+                            </form>
+
+                            <!-- Signup Link -->
+                            <div class="text-center mt-4">
+                                <span>Don't have an account?</span> 
+                                <a href="User/AddUser" class="font-weight-bold text-decoration-none" style="color: #007bff;">Sign up</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<style>
+    .login-box {
+        background-color: white;
+        border-radius: 10px;
+        padding: 20px;
+        border:

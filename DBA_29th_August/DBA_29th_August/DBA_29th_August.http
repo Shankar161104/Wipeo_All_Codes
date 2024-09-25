@@ -1,0 +1,6 @@
+@DBA_29th_August_HostAddress = http://localhost:5161
+
+GET {{DBA_29th_August_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

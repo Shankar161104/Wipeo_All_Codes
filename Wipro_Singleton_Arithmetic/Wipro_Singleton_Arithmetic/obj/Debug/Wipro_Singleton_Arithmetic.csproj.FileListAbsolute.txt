@@ -1,0 +1,7 @@
+C:\Users\shankar\source\repos\Wipro_Singleton_Arithmetic\Wipro_Singleton_Arithmetic\bin\Debug\Wipro_Singleton_Arithmetic.exe.config
+C:\Users\shankar\source\repos\Wipro_Singleton_Arithmetic\Wipro_Singleton_Arithmetic\bin\Debug\Wipro_Singleton_Arithmetic.exe
+C:\Users\shankar\source\repos\Wipro_Singleton_Arithmetic\Wipro_Singleton_Arithmetic\bin\Debug\Wipro_Singleton_Arithmetic.pdb
+C:\Users\shankar\source\repos\Wipro_Singleton_Arithmetic\Wipro_Singleton_Arithmetic\obj\Debug\Wipro_Singleton_Arithmetic.csproj.AssemblyReference.cache
+C:\Users\shankar\source\repos\Wipro_Singleton_Arithmetic\Wipro_Singleton_Arithmetic\obj\Debug\Wipro_Singleton_Arithmetic.csproj.CoreCompileInputs.cache
+C:\Users\shankar\source\repos\Wipro_Singleton_Arithmetic\Wipro_Singleton_Arithmetic\obj\Debug\Wipro_Singleton_Arithmetic.exe
+C:\Users\shankar\source\repos\Wipro_Singleton_Arithmetic\Wipro_Singleton_Arithmetic\obj\Debug\Wipro_Singleton_Arithmetic.pdb

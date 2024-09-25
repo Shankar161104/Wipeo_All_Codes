@@ -1,0 +1,7 @@
+C:\Users\shankar\source\repos\Wipro_male_female\Wipro_male_female\bin\Debug\Wipro_male_female.exe.config
+C:\Users\shankar\source\repos\Wipro_male_female\Wipro_male_female\bin\Debug\Wipro_male_female.exe
+C:\Users\shankar\source\repos\Wipro_male_female\Wipro_male_female\bin\Debug\Wipro_male_female.pdb
+C:\Users\shankar\source\repos\Wipro_male_female\Wipro_male_female\obj\Debug\Wipro_male_female.csproj.AssemblyReference.cache
+C:\Users\shankar\source\repos\Wipro_male_female\Wipro_male_female\obj\Debug\Wipro_male_female.csproj.CoreCompileInputs.cache
+C:\Users\shankar\source\repos\Wipro_male_female\Wipro_male_female\obj\Debug\Wipro_male_female.exe
+C:\Users\shankar\source\repos\Wipro_male_female\Wipro_male_female\obj\Debug\Wipro_male_female.pdb

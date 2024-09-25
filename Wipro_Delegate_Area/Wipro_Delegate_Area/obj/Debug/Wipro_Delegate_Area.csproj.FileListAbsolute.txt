@@ -1,0 +1,7 @@
+C:\Users\shankar\source\repos\Wipro_Delegate_Area\Wipro_Delegate_Area\bin\Debug\Wipro_Delegate_Area.exe.config
+C:\Users\shankar\source\repos\Wipro_Delegate_Area\Wipro_Delegate_Area\bin\Debug\Wipro_Delegate_Area.exe
+C:\Users\shankar\source\repos\Wipro_Delegate_Area\Wipro_Delegate_Area\bin\Debug\Wipro_Delegate_Area.pdb
+C:\Users\shankar\source\repos\Wipro_Delegate_Area\Wipro_Delegate_Area\obj\Debug\Wipro_Delegate_Area.csproj.AssemblyReference.cache
+C:\Users\shankar\source\repos\Wipro_Delegate_Area\Wipro_Delegate_Area\obj\Debug\Wipro_Delegate_Area.csproj.CoreCompileInputs.cache
+C:\Users\shankar\source\repos\Wipro_Delegate_Area\Wipro_Delegate_Area\obj\Debug\Wipro_Delegate_Area.exe
+C:\Users\shankar\source\repos\Wipro_Delegate_Area\Wipro_Delegate_Area\obj\Debug\Wipro_Delegate_Area.pdb

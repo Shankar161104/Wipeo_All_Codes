@@ -1,0 +1,30 @@
+﻿@using Wipro_MVC_ListPerson_02nd.Models
+@{
+   
+    var obj = ViewData["Person"] as List<Person>;
+}
+
+<h1>List of Persons</h1>
+
+<table>
+    <tr>
+        <th>Person ID</th>
+        <th>Person Name</th>
+        <th>Person Age</th>
+        <th>Person Email</th>
+        <th>Person City</th>
+    </tr>
+    @{
+        foreach (var person in obj)
+        {
+            <tr>
+                <td>@person.PersonID</td>
+                <td>@person.PersonName</td>
+                <td>@person.PersonAge</td>
+                <td>@person.PersonEmail</td>
+                <td>@person.PersonCity</td>
+            </tr>
+        }
+    }
+</table>
+

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Wipro_ListEmployee_viewBag.props" />
+</Project>

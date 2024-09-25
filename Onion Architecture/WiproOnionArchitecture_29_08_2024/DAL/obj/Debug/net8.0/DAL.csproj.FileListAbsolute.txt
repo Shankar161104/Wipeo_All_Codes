@@ -1,0 +1,11 @@
+C:\Users\shankar\source\repos\WiproOnionArchitecture_29_08_2024\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\shankar\source\repos\WiproOnionArchitecture_29_08_2024\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\shankar\source\repos\WiproOnionArchitecture_29_08_2024\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\shankar\source\repos\WiproOnionArchitecture_29_08_2024\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shankar\source\repos\WiproOnionArchitecture_29_08_2024\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\shankar\source\repos\WiproOnionArchitecture_29_08_2024\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\shankar\source\repos\WiproOnionArchitecture_29_08_2024\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\shankar\source\repos\WiproOnionArchitecture_29_08_2024\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\shankar\source\repos\WiproOnionArchitecture_29_08_2024\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\shankar\source\repos\WiproOnionArchitecture_29_08_2024\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\shankar\source\repos\WiproOnionArchitecture_29_08_2024\DAL\obj\Debug\net8.0\ref\DAL.dll

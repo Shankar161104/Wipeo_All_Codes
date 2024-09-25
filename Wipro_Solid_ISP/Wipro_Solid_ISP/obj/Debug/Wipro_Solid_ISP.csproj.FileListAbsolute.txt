@@ -1,0 +1,7 @@
+C:\Users\shankar\source\repos\Wipro_Solid_ISP\Wipro_Solid_ISP\bin\Debug\Wipro_Solid_ISP.exe.config
+C:\Users\shankar\source\repos\Wipro_Solid_ISP\Wipro_Solid_ISP\bin\Debug\Wipro_Solid_ISP.exe
+C:\Users\shankar\source\repos\Wipro_Solid_ISP\Wipro_Solid_ISP\bin\Debug\Wipro_Solid_ISP.pdb
+C:\Users\shankar\source\repos\Wipro_Solid_ISP\Wipro_Solid_ISP\obj\Debug\Wipro_Solid_ISP.csproj.AssemblyReference.cache
+C:\Users\shankar\source\repos\Wipro_Solid_ISP\Wipro_Solid_ISP\obj\Debug\Wipro_Solid_ISP.csproj.CoreCompileInputs.cache
+C:\Users\shankar\source\repos\Wipro_Solid_ISP\Wipro_Solid_ISP\obj\Debug\Wipro_Solid_ISP.exe
+C:\Users\shankar\source\repos\Wipro_Solid_ISP\Wipro_Solid_ISP\obj\Debug\Wipro_Solid_ISP.pdb

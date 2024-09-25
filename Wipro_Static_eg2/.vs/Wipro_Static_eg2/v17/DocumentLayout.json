@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shankar\\source\\repos\\Wipro_Static_eg2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7C90F6-3F80-4990-BEFF-8D218888F4D0}|Wipro_Static_eg2\\Wipro_Static_eg2.csproj|c:\\users\\shankar\\source\\repos\\wipro_static_eg2\\wipro_static_eg2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF7C90F6-3F80-4990-BEFF-8D218888F4D0}|Wipro_Static_eg2\\Wipro_Static_eg2.csproj|solutionrelative:wipro_static_eg2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7C90F6-3F80-4990-BEFF-8D218888F4D0}|Wipro_Static_eg2\\Wipro_Static_eg2.csproj|c:\\users\\shankar\\source\\repos\\wipro_static_eg2\\wipro_static_eg2\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF7C90F6-3F80-4990-BEFF-8D218888F4D0}|Wipro_Static_eg2\\Wipro_Static_eg2.csproj|solutionrelative:wipro_static_eg2\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Static_eg2\\Wipro_Static_eg2\\Company.cs",
+              "RelativeDocumentMoniker": "Wipro_Static_eg2\\Company.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Static_eg2\\Wipro_Static_eg2\\Company.cs",
+              "RelativeToolTip": "Wipro_Static_eg2\\Company.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBMAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:55:31.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Static_eg2\\Wipro_Static_eg2\\Program.cs",
+              "RelativeDocumentMoniker": "Wipro_Static_eg2\\Program.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Static_eg2\\Wipro_Static_eg2\\Program.cs",
+              "RelativeToolTip": "Wipro_Static_eg2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:55:05.812Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

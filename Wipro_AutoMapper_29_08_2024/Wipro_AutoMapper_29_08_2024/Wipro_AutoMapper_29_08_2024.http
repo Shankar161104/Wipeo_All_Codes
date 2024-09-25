@@ -1,0 +1,6 @@
+@Wipro_AutoMapper_29_08_2024_HostAddress = http://localhost:5022
+
+GET {{Wipro_AutoMapper_29_08_2024_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

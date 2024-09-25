@@ -1,0 +1,7 @@
+C:\Users\shankar\source\repos\Wipro_print_array\Wipro_print_array\bin\Debug\Wipro_print_array.exe.config
+C:\Users\shankar\source\repos\Wipro_print_array\Wipro_print_array\bin\Debug\Wipro_print_array.exe
+C:\Users\shankar\source\repos\Wipro_print_array\Wipro_print_array\bin\Debug\Wipro_print_array.pdb
+C:\Users\shankar\source\repos\Wipro_print_array\Wipro_print_array\obj\Debug\Wipro_print_array.csproj.AssemblyReference.cache
+C:\Users\shankar\source\repos\Wipro_print_array\Wipro_print_array\obj\Debug\Wipro_print_array.csproj.CoreCompileInputs.cache
+C:\Users\shankar\source\repos\Wipro_print_array\Wipro_print_array\obj\Debug\Wipro_print_array.exe
+C:\Users\shankar\source\repos\Wipro_print_array\Wipro_print_array\obj\Debug\Wipro_print_array.pdb

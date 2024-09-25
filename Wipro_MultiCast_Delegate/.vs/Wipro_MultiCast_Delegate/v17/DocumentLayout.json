@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shankar\\source\\repos\\Wipro_MultiCast_Delegate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95345C85-D300-43F2-AE99-9B00DB39D492}|Wipro_MultiCast_Delegate\\Wipro_MultiCast_Delegate.csproj|c:\\users\\shankar\\source\\repos\\wipro_multicast_delegate\\wipro_multicast_delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95345C85-D300-43F2-AE99-9B00DB39D492}|Wipro_MultiCast_Delegate\\Wipro_MultiCast_Delegate.csproj|solutionrelative:wipro_multicast_delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_MultiCast_Delegate\\Wipro_MultiCast_Delegate\\Program.cs",
+              "RelativeDocumentMoniker": "Wipro_MultiCast_Delegate\\Program.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_MultiCast_Delegate\\Wipro_MultiCast_Delegate\\Program.cs",
+              "RelativeToolTip": "Wipro_MultiCast_Delegate\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T07:43:24.559Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

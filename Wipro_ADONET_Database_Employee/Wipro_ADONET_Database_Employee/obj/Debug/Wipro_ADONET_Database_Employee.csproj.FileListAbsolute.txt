@@ -1,0 +1,7 @@
+C:\Users\shankar\source\repos\Wipro_ADONET_Database_Employee\Wipro_ADONET_Database_Employee\bin\Debug\Wipro_ADONET_Database_Employee.exe.config
+C:\Users\shankar\source\repos\Wipro_ADONET_Database_Employee\Wipro_ADONET_Database_Employee\bin\Debug\Wipro_ADONET_Database_Employee.exe
+C:\Users\shankar\source\repos\Wipro_ADONET_Database_Employee\Wipro_ADONET_Database_Employee\bin\Debug\Wipro_ADONET_Database_Employee.pdb
+C:\Users\shankar\source\repos\Wipro_ADONET_Database_Employee\Wipro_ADONET_Database_Employee\obj\Debug\Wipro_ADONET_Database_Employee.csproj.AssemblyReference.cache
+C:\Users\shankar\source\repos\Wipro_ADONET_Database_Employee\Wipro_ADONET_Database_Employee\obj\Debug\Wipro_ADONET_Database_Employee.csproj.CoreCompileInputs.cache
+C:\Users\shankar\source\repos\Wipro_ADONET_Database_Employee\Wipro_ADONET_Database_Employee\obj\Debug\Wipro_ADONET_Database_Employee.exe
+C:\Users\shankar\source\repos\Wipro_ADONET_Database_Employee\Wipro_ADONET_Database_Employee\obj\Debug\Wipro_ADONET_Database_Employee.pdb

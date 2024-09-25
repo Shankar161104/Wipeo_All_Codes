@@ -1,0 +1,29 @@
+﻿@model IEnumerable<Wipro_StronglyTyped_Student_02nd.Models.Student>;
+<table>
+    <thead>
+        <tr>
+            <th>StudentID</th>
+            <th>StudentName</th>
+            <th>StudentGender</th>
+            <th>StudentSection</th>
+            <th>StudentBranch</th>
+
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach(var obj in Model)
+        {
+            <tr>
+                <td>@obj.StudentID</td>
+                <td>@obj.StudentName</td>
+                <td>@obj.StudentGender</td>
+                <td>@obj.StudentBranch</td>
+                <td>@obj.StudentSection</td>
+                
+            </tr>
+        }
+    </tbody>
+
+
+</table>

@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shankar\\source\\repos\\Wipro_Factory_Abstract_Case_Study\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EADEA714-F018-4AF9-8795-36A9BD125A32}|Wipro_Factory_Abstract_Case_Study\\Wipro_Factory_Abstract_Case_Study.csproj|c:\\users\\shankar\\source\\repos\\wipro_factory_abstract_case_study\\wipro_factory_abstract_case_study\\dotnetteams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADEA714-F018-4AF9-8795-36A9BD125A32}|Wipro_Factory_Abstract_Case_Study\\Wipro_Factory_Abstract_Case_Study.csproj|solutionrelative:wipro_factory_abstract_case_study\\dotnetteams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADEA714-F018-4AF9-8795-36A9BD125A32}|Wipro_Factory_Abstract_Case_Study\\Wipro_Factory_Abstract_Case_Study.csproj|c:\\users\\shankar\\source\\repos\\wipro_factory_abstract_case_study\\wipro_factory_abstract_case_study\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADEA714-F018-4AF9-8795-36A9BD125A32}|Wipro_Factory_Abstract_Case_Study\\Wipro_Factory_Abstract_Case_Study.csproj|solutionrelative:wipro_factory_abstract_case_study\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADEA714-F018-4AF9-8795-36A9BD125A32}|Wipro_Factory_Abstract_Case_Study\\Wipro_Factory_Abstract_Case_Study.csproj|C:\\Users\\shankar\\source\\repos\\Wipro_Factory_Abstract_Case_Study\\wipro_factory_abstract_case_study\\skillsets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADEA714-F018-4AF9-8795-36A9BD125A32}|Wipro_Factory_Abstract_Case_Study\\Wipro_Factory_Abstract_Case_Study.csproj|solutionrelative:wipro_factory_abstract_case_study\\skillsets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADEA714-F018-4AF9-8795-36A9BD125A32}|Wipro_Factory_Abstract_Case_Study\\Wipro_Factory_Abstract_Case_Study.csproj|C:\\Users\\shankar\\source\\repos\\Wipro_Factory_Abstract_Case_Study\\wipro_factory_abstract_case_study\\silverlightteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADEA714-F018-4AF9-8795-36A9BD125A32}|Wipro_Factory_Abstract_Case_Study\\Wipro_Factory_Abstract_Case_Study.csproj|solutionrelative:wipro_factory_abstract_case_study\\silverlightteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADEA714-F018-4AF9-8795-36A9BD125A32}|Wipro_Factory_Abstract_Case_Study\\Wipro_Factory_Abstract_Case_Study.csproj|C:\\Users\\shankar\\source\\repos\\Wipro_Factory_Abstract_Case_Study\\wipro_factory_abstract_case_study\\dotnetteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADEA714-F018-4AF9-8795-36A9BD125A32}|Wipro_Factory_Abstract_Case_Study\\Wipro_Factory_Abstract_Case_Study.csproj|solutionrelative:wipro_factory_abstract_case_study\\dotnetteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADEA714-F018-4AF9-8795-36A9BD125A32}|Wipro_Factory_Abstract_Case_Study\\Wipro_Factory_Abstract_Case_Study.csproj|C:\\Users\\shankar\\source\\repos\\Wipro_Factory_Abstract_Case_Study\\wipro_factory_abstract_case_study\\idotnetteamfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADEA714-F018-4AF9-8795-36A9BD125A32}|Wipro_Factory_Abstract_Case_Study\\Wipro_Factory_Abstract_Case_Study.csproj|solutionrelative:wipro_factory_abstract_case_study\\idotnetteamfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shankar\\source\\repos\\Wipro_Factory_Abstract_Case_Study\\Wipro_Factory_Abstract_Case_Study\\GetDotNetTeam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Wipro_Factory_Abstract_Case_Study\\GetDotNetTeam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DotNetTeams.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Factory_Abstract_Case_Study\\Wipro_Factory_Abstract_Case_Study\\DotNetTeams.cs",
+              "RelativeDocumentMoniker": "Wipro_Factory_Abstract_Case_Study\\DotNetTeams.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Factory_Abstract_Case_Study\\Wipro_Factory_Abstract_Case_Study\\DotNetTeams.cs",
+              "RelativeToolTip": "Wipro_Factory_Abstract_Case_Study\\DotNetTeams.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T08:12:20.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetDotNetTeam.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Factory_Abstract_Case_Study\\Wipro_Factory_Abstract_Case_Study\\GetDotNetTeam.cs",
+              "RelativeDocumentMoniker": "Wipro_Factory_Abstract_Case_Study\\GetDotNetTeam.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Factory_Abstract_Case_Study\\Wipro_Factory_Abstract_Case_Study\\GetDotNetTeam.cs",
+              "RelativeToolTip": "Wipro_Factory_Abstract_Case_Study\\GetDotNetTeam.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAUwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T03:58:25.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Factory_Abstract_Case_Study\\Wipro_Factory_Abstract_Case_Study\\Program.cs",
+              "RelativeDocumentMoniker": "Wipro_Factory_Abstract_Case_Study\\Program.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Factory_Abstract_Case_Study\\Wipro_Factory_Abstract_Case_Study\\Program.cs",
+              "RelativeToolTip": "Wipro_Factory_Abstract_Case_Study\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T03:50:29.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SkillSets.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Factory_Abstract_Case_Study\\Wipro_Factory_Abstract_Case_Study\\SkillSets.cs",
+              "RelativeDocumentMoniker": "Wipro_Factory_Abstract_Case_Study\\SkillSets.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Factory_Abstract_Case_Study\\Wipro_Factory_Abstract_Case_Study\\SkillSets.cs*",
+              "RelativeToolTip": "Wipro_Factory_Abstract_Case_Study\\SkillSets.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T04:03:49.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SilverLightTeam.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Factory_Abstract_Case_Study\\Wipro_Factory_Abstract_Case_Study\\SilverLightTeam.cs",
+              "RelativeDocumentMoniker": "Wipro_Factory_Abstract_Case_Study\\SilverLightTeam.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Factory_Abstract_Case_Study\\Wipro_Factory_Abstract_Case_Study\\SilverLightTeam.cs*",
+              "RelativeToolTip": "Wipro_Factory_Abstract_Case_Study\\SilverLightTeam.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T03:54:31.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DotNetTeam.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Factory_Abstract_Case_Study\\Wipro_Factory_Abstract_Case_Study\\DotNetTeam.cs",
+              "RelativeDocumentMoniker": "Wipro_Factory_Abstract_Case_Study\\DotNetTeam.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Factory_Abstract_Case_Study\\Wipro_Factory_Abstract_Case_Study\\DotNetTeam.cs*",
+              "RelativeToolTip": "Wipro_Factory_Abstract_Case_Study\\DotNetTeam.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T03:52:57.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDotNetTeamFactory.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Factory_Abstract_Case_Study\\Wipro_Factory_Abstract_Case_Study\\IDotNetTeamFactory.cs",
+              "RelativeDocumentMoniker": "Wipro_Factory_Abstract_Case_Study\\IDotNetTeamFactory.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Factory_Abstract_Case_Study\\Wipro_Factory_Abstract_Case_Study\\IDotNetTeamFactory.cs*",
+              "RelativeToolTip": "Wipro_Factory_Abstract_Case_Study\\IDotNetTeamFactory.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T03:51:58.741Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

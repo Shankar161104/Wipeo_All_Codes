@@ -1,0 +1,7 @@
+C:\Users\shankar\source\repos\Wipro_Call_by_value\Wipro_Call_by_value\bin\Debug\Wipro_Call_by_value.exe.config
+C:\Users\shankar\source\repos\Wipro_Call_by_value\Wipro_Call_by_value\bin\Debug\Wipro_Call_by_value.exe
+C:\Users\shankar\source\repos\Wipro_Call_by_value\Wipro_Call_by_value\bin\Debug\Wipro_Call_by_value.pdb
+C:\Users\shankar\source\repos\Wipro_Call_by_value\Wipro_Call_by_value\obj\Debug\Wipro_Call_by_value.csproj.AssemblyReference.cache
+C:\Users\shankar\source\repos\Wipro_Call_by_value\Wipro_Call_by_value\obj\Debug\Wipro_Call_by_value.csproj.CoreCompileInputs.cache
+C:\Users\shankar\source\repos\Wipro_Call_by_value\Wipro_Call_by_value\obj\Debug\Wipro_Call_by_value.exe
+C:\Users\shankar\source\repos\Wipro_Call_by_value\Wipro_Call_by_value\obj\Debug\Wipro_Call_by_value.pdb

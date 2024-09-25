@@ -1,0 +1,7 @@
+C:\Users\shankar\source\repos\IsolatedLandAreas\IsolatedLandAreas\bin\Debug\IsolatedLandAreas.exe.config
+C:\Users\shankar\source\repos\IsolatedLandAreas\IsolatedLandAreas\bin\Debug\IsolatedLandAreas.exe
+C:\Users\shankar\source\repos\IsolatedLandAreas\IsolatedLandAreas\bin\Debug\IsolatedLandAreas.pdb
+C:\Users\shankar\source\repos\IsolatedLandAreas\IsolatedLandAreas\obj\Debug\IsolatedLandAreas.csproj.AssemblyReference.cache
+C:\Users\shankar\source\repos\IsolatedLandAreas\IsolatedLandAreas\obj\Debug\IsolatedLandAreas.csproj.CoreCompileInputs.cache
+C:\Users\shankar\source\repos\IsolatedLandAreas\IsolatedLandAreas\obj\Debug\IsolatedLandAreas.exe
+C:\Users\shankar\source\repos\IsolatedLandAreas\IsolatedLandAreas\obj\Debug\IsolatedLandAreas.pdb

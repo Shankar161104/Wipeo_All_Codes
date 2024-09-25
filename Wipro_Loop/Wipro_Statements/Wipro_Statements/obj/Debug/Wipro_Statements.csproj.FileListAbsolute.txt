@@ -1,0 +1,7 @@
+C:\Users\shankar\source\repos\Wipro_Statements\Wipro_Statements\bin\Debug\Wipro_Statements.exe.config
+C:\Users\shankar\source\repos\Wipro_Statements\Wipro_Statements\bin\Debug\Wipro_Statements.exe
+C:\Users\shankar\source\repos\Wipro_Statements\Wipro_Statements\bin\Debug\Wipro_Statements.pdb
+C:\Users\shankar\source\repos\Wipro_Statements\Wipro_Statements\obj\Debug\Wipro_Statements.csproj.AssemblyReference.cache
+C:\Users\shankar\source\repos\Wipro_Statements\Wipro_Statements\obj\Debug\Wipro_Statements.csproj.CoreCompileInputs.cache
+C:\Users\shankar\source\repos\Wipro_Statements\Wipro_Statements\obj\Debug\Wipro_Statements.exe
+C:\Users\shankar\source\repos\Wipro_Statements\Wipro_Statements\obj\Debug\Wipro_Statements.pdb

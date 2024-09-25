@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shankar\\source\\repos\\Wipro_Practice_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{727BA29D-6103-4FBC-B125-143EF9BD517E}|Wipro_Practice_Project\\Wipro_Practice_Project.csproj|c:\\users\\shankar\\source\\repos\\wipro_practice_project\\wipro_practice_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727BA29D-6103-4FBC-B125-143EF9BD517E}|Wipro_Practice_Project\\Wipro_Practice_Project.csproj|solutionrelative:wipro_practice_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727BA29D-6103-4FBC-B125-143EF9BD517E}|Wipro_Practice_Project\\Wipro_Practice_Project.csproj|c:\\users\\shankar\\source\\repos\\wipro_practice_project\\wipro_practice_project\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727BA29D-6103-4FBC-B125-143EF9BD517E}|Wipro_Practice_Project\\Wipro_Practice_Project.csproj|solutionrelative:wipro_practice_project\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727BA29D-6103-4FBC-B125-143EF9BD517E}|Wipro_Practice_Project\\Wipro_Practice_Project.csproj|c:\\users\\shankar\\source\\repos\\wipro_practice_project\\wipro_practice_project\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727BA29D-6103-4FBC-B125-143EF9BD517E}|Wipro_Practice_Project\\Wipro_Practice_Project.csproj|solutionrelative:wipro_practice_project\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Practice_Project\\Wipro_Practice_Project\\Department.cs",
+              "RelativeDocumentMoniker": "Wipro_Practice_Project\\Department.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Practice_Project\\Wipro_Practice_Project\\Department.cs",
+              "RelativeToolTip": "Wipro_Practice_Project\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T03:02:39.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Practice_Project\\Wipro_Practice_Project\\Employee.cs",
+              "RelativeDocumentMoniker": "Wipro_Practice_Project\\Employee.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Practice_Project\\Wipro_Practice_Project\\Employee.cs",
+              "RelativeToolTip": "Wipro_Practice_Project\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T03:02:19.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Practice_Project\\Wipro_Practice_Project\\Program.cs",
+              "RelativeDocumentMoniker": "Wipro_Practice_Project\\Program.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Practice_Project\\Wipro_Practice_Project\\Program.cs",
+              "RelativeToolTip": "Wipro_Practice_Project\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAqwDEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T02:40:27.559Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shankar\\source\\repos\\Wipro_Practice_Abstract_Eg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74AE005F-9CF7-4FBD-A646-CAA13E8472E4}|Wipro_Practice_Abstract_Eg\\Wipro_Practice_Abstract_Eg.csproj|c:\\users\\shankar\\source\\repos\\wipro_practice_abstract_eg\\wipro_practice_abstract_eg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74AE005F-9CF7-4FBD-A646-CAA13E8472E4}|Wipro_Practice_Abstract_Eg\\Wipro_Practice_Abstract_Eg.csproj|solutionrelative:wipro_practice_abstract_eg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74AE005F-9CF7-4FBD-A646-CAA13E8472E4}|Wipro_Practice_Abstract_Eg\\Wipro_Practice_Abstract_Eg.csproj|C:\\Users\\shankar\\source\\repos\\Wipro_Practice_Abstract_Eg\\wipro_practice_abstract_eg\\icheckbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74AE005F-9CF7-4FBD-A646-CAA13E8472E4}|Wipro_Practice_Abstract_Eg\\Wipro_Practice_Abstract_Eg.csproj|solutionrelative:wipro_practice_abstract_eg\\icheckbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74AE005F-9CF7-4FBD-A646-CAA13E8472E4}|Wipro_Practice_Abstract_Eg\\Wipro_Practice_Abstract_Eg.csproj|C:\\Users\\shankar\\source\\repos\\Wipro_Practice_Abstract_Eg\\wipro_practice_abstract_eg\\ibutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74AE005F-9CF7-4FBD-A646-CAA13E8472E4}|Wipro_Practice_Abstract_Eg\\Wipro_Practice_Abstract_Eg.csproj|solutionrelative:wipro_practice_abstract_eg\\ibutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74AE005F-9CF7-4FBD-A646-CAA13E8472E4}|Wipro_Practice_Abstract_Eg\\Wipro_Practice_Abstract_Eg.csproj|C:\\Users\\shankar\\source\\repos\\Wipro_Practice_Abstract_Eg\\wipro_practice_abstract_eg\\abstractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74AE005F-9CF7-4FBD-A646-CAA13E8472E4}|Wipro_Practice_Abstract_Eg\\Wipro_Practice_Abstract_Eg.csproj|solutionrelative:wipro_practice_abstract_eg\\abstractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74AE005F-9CF7-4FBD-A646-CAA13E8472E4}|Wipro_Practice_Abstract_Eg\\Wipro_Practice_Abstract_Eg.csproj|C:\\Users\\shankar\\source\\repos\\Wipro_Practice_Abstract_Eg\\wipro_practice_abstract_eg\\linuxbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74AE005F-9CF7-4FBD-A646-CAA13E8472E4}|Wipro_Practice_Abstract_Eg\\Wipro_Practice_Abstract_Eg.csproj|solutionrelative:wipro_practice_abstract_eg\\linuxbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74AE005F-9CF7-4FBD-A646-CAA13E8472E4}|Wipro_Practice_Abstract_Eg\\Wipro_Practice_Abstract_Eg.csproj|C:\\Users\\shankar\\source\\repos\\Wipro_Practice_Abstract_Eg\\wipro_practice_abstract_eg\\windowsbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74AE005F-9CF7-4FBD-A646-CAA13E8472E4}|Wipro_Practice_Abstract_Eg\\Wipro_Practice_Abstract_Eg.csproj|solutionrelative:wipro_practice_abstract_eg\\windowsbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74AE005F-9CF7-4FBD-A646-CAA13E8472E4}|Wipro_Practice_Abstract_Eg\\Wipro_Practice_Abstract_Eg.csproj|C:\\Users\\shankar\\source\\repos\\Wipro_Practice_Abstract_Eg\\wipro_practice_abstract_eg\\macosuifactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74AE005F-9CF7-4FBD-A646-CAA13E8472E4}|Wipro_Practice_Abstract_Eg\\Wipro_Practice_Abstract_Eg.csproj|solutionrelative:wipro_practice_abstract_eg\\macosuifactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74AE005F-9CF7-4FBD-A646-CAA13E8472E4}|Wipro_Practice_Abstract_Eg\\Wipro_Practice_Abstract_Eg.csproj|C:\\Users\\shankar\\source\\repos\\Wipro_Practice_Abstract_Eg\\wipro_practice_abstract_eg\\linuxfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74AE005F-9CF7-4FBD-A646-CAA13E8472E4}|Wipro_Practice_Abstract_Eg\\Wipro_Practice_Abstract_Eg.csproj|solutionrelative:wipro_practice_abstract_eg\\linuxfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74AE005F-9CF7-4FBD-A646-CAA13E8472E4}|Wipro_Practice_Abstract_Eg\\Wipro_Practice_Abstract_Eg.csproj|C:\\Users\\shankar\\source\\repos\\Wipro_Practice_Abstract_Eg\\wipro_practice_abstract_eg\\windowsfaxctory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74AE005F-9CF7-4FBD-A646-CAA13E8472E4}|Wipro_Practice_Abstract_Eg\\Wipro_Practice_Abstract_Eg.csproj|solutionrelative:wipro_practice_abstract_eg\\windowsfaxctory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74AE005F-9CF7-4FBD-A646-CAA13E8472E4}|Wipro_Practice_Abstract_Eg\\Wipro_Practice_Abstract_Eg.csproj|C:\\Users\\shankar\\source\\repos\\Wipro_Practice_Abstract_Eg\\wipro_practice_abstract_eg\\macosuibutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74AE005F-9CF7-4FBD-A646-CAA13E8472E4}|Wipro_Practice_Abstract_Eg\\Wipro_Practice_Abstract_Eg.csproj|solutionrelative:wipro_practice_abstract_eg\\macosuibutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Practice_Abstract_Eg\\Wipro_Practice_Abstract_Eg\\Program.cs",
+              "RelativeDocumentMoniker": "Wipro_Practice_Abstract_Eg\\Program.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Practice_Abstract_Eg\\Wipro_Practice_Abstract_Eg\\Program.cs",
+              "RelativeToolTip": "Wipro_Practice_Abstract_Eg\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T03:04:26.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MacOSUIFactory.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Practice_Abstract_Eg\\Wipro_Practice_Abstract_Eg\\MacOSUIFactory.cs",
+              "RelativeDocumentMoniker": "Wipro_Practice_Abstract_Eg\\MacOSUIFactory.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Practice_Abstract_Eg\\Wipro_Practice_Abstract_Eg\\MacOSUIFactory.cs",
+              "RelativeToolTip": "Wipro_Practice_Abstract_Eg\\MacOSUIFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T13:24:17.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LinuxFactory.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Practice_Abstract_Eg\\Wipro_Practice_Abstract_Eg\\LinuxFactory.cs",
+              "RelativeDocumentMoniker": "Wipro_Practice_Abstract_Eg\\LinuxFactory.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Practice_Abstract_Eg\\Wipro_Practice_Abstract_Eg\\LinuxFactory.cs",
+              "RelativeToolTip": "Wipro_Practice_Abstract_Eg\\LinuxFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T13:19:50.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WindowsFaxctory.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Practice_Abstract_Eg\\Wipro_Practice_Abstract_Eg\\WindowsFaxctory.cs",
+              "RelativeDocumentMoniker": "Wipro_Practice_Abstract_Eg\\WindowsFaxctory.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Practice_Abstract_Eg\\Wipro_Practice_Abstract_Eg\\WindowsFaxctory.cs",
+              "RelativeToolTip": "Wipro_Practice_Abstract_Eg\\WindowsFaxctory.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T13:11:21.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AbstractFactory.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Practice_Abstract_Eg\\Wipro_Practice_Abstract_Eg\\AbstractFactory.cs",
+              "RelativeDocumentMoniker": "Wipro_Practice_Abstract_Eg\\AbstractFactory.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Practice_Abstract_Eg\\Wipro_Practice_Abstract_Eg\\AbstractFactory.cs",
+              "RelativeToolTip": "Wipro_Practice_Abstract_Eg\\AbstractFactory.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAmwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T13:04:51.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LinuxButton.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Practice_Abstract_Eg\\Wipro_Practice_Abstract_Eg\\LinuxButton.cs",
+              "RelativeDocumentMoniker": "Wipro_Practice_Abstract_Eg\\LinuxButton.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Practice_Abstract_Eg\\Wipro_Practice_Abstract_Eg\\LinuxButton.cs",
+              "RelativeToolTip": "Wipro_Practice_Abstract_Eg\\LinuxButton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T13:01:22.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MacOSUIButton.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Practice_Abstract_Eg\\Wipro_Practice_Abstract_Eg\\MacOSUIButton.cs",
+              "RelativeDocumentMoniker": "Wipro_Practice_Abstract_Eg\\MacOSUIButton.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Practice_Abstract_Eg\\Wipro_Practice_Abstract_Eg\\MacOSUIButton.cs",
+              "RelativeToolTip": "Wipro_Practice_Abstract_Eg\\MacOSUIButton.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T03:11:21.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WindowsButton.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Practice_Abstract_Eg\\Wipro_Practice_Abstract_Eg\\WindowsButton.cs",
+              "RelativeDocumentMoniker": "Wipro_Practice_Abstract_Eg\\WindowsButton.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Practice_Abstract_Eg\\Wipro_Practice_Abstract_Eg\\WindowsButton.cs",
+              "RelativeToolTip": "Wipro_Practice_Abstract_Eg\\WindowsButton.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T03:08:14.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICheckBox.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Practice_Abstract_Eg\\Wipro_Practice_Abstract_Eg\\ICheckBox.cs",
+              "RelativeDocumentMoniker": "Wipro_Practice_Abstract_Eg\\ICheckBox.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Practice_Abstract_Eg\\Wipro_Practice_Abstract_Eg\\ICheckBox.cs",
+              "RelativeToolTip": "Wipro_Practice_Abstract_Eg\\ICheckBox.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T03:07:24.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IButton.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Practice_Abstract_Eg\\Wipro_Practice_Abstract_Eg\\IButton.cs",
+              "RelativeDocumentMoniker": "Wipro_Practice_Abstract_Eg\\IButton.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Practice_Abstract_Eg\\Wipro_Practice_Abstract_Eg\\IButton.cs",
+              "RelativeToolTip": "Wipro_Practice_Abstract_Eg\\IButton.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T03:05:28.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

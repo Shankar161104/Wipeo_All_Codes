@@ -1,0 +1,7 @@
+C:\Users\shankar\source\repos\Wipro_Collection_Practice\Wipro_Collection_Practice\bin\Debug\Wipro_Collection_Practice.exe.config
+C:\Users\shankar\source\repos\Wipro_Collection_Practice\Wipro_Collection_Practice\bin\Debug\Wipro_Collection_Practice.exe
+C:\Users\shankar\source\repos\Wipro_Collection_Practice\Wipro_Collection_Practice\bin\Debug\Wipro_Collection_Practice.pdb
+C:\Users\shankar\source\repos\Wipro_Collection_Practice\Wipro_Collection_Practice\obj\Debug\Wipro_Collection_Practice.csproj.AssemblyReference.cache
+C:\Users\shankar\source\repos\Wipro_Collection_Practice\Wipro_Collection_Practice\obj\Debug\Wipro_Collection_Practice.csproj.CoreCompileInputs.cache
+C:\Users\shankar\source\repos\Wipro_Collection_Practice\Wipro_Collection_Practice\obj\Debug\Wipro_Collection_Practice.exe
+C:\Users\shankar\source\repos\Wipro_Collection_Practice\Wipro_Collection_Practice\obj\Debug\Wipro_Collection_Practice.pdb

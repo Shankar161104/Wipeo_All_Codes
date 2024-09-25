@@ -1,0 +1,25 @@
+﻿@using Wipro_MVC_Customer_ViewBag_02nd.Models
+@{
+    
+    var customers = ViewBag.LstCustomer as List<Customer>;
+}
+
+<h1>List of Customers</h1>
+
+<table>
+    <tr>
+        <th>Student ID</th>
+        <th>Student Name</th>
+        <th>Student Email</th>
+    </tr>
+    @{
+        foreach (var customer in customers)
+        {
+            <tr>
+                <td>@customer.StudentID</td>
+                <td>@customer.StudentName</td>
+                <td>@customer.StudentEmail</td>
+            </tr>
+        }
+    }
+</table>

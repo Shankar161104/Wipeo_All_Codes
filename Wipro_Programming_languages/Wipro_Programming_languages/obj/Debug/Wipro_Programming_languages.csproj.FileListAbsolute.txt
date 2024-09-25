@@ -1,0 +1,7 @@
+C:\Users\shankar\source\repos\Wipro_Programming_languages\Wipro_Programming_languages\bin\Debug\Wipro_Programming_languages.exe.config
+C:\Users\shankar\source\repos\Wipro_Programming_languages\Wipro_Programming_languages\bin\Debug\Wipro_Programming_languages.exe
+C:\Users\shankar\source\repos\Wipro_Programming_languages\Wipro_Programming_languages\bin\Debug\Wipro_Programming_languages.pdb
+C:\Users\shankar\source\repos\Wipro_Programming_languages\Wipro_Programming_languages\obj\Debug\Wipro_Programming_languages.csproj.AssemblyReference.cache
+C:\Users\shankar\source\repos\Wipro_Programming_languages\Wipro_Programming_languages\obj\Debug\Wipro_Programming_languages.csproj.CoreCompileInputs.cache
+C:\Users\shankar\source\repos\Wipro_Programming_languages\Wipro_Programming_languages\obj\Debug\Wipro_Programming_languages.exe
+C:\Users\shankar\source\repos\Wipro_Programming_languages\Wipro_Programming_languages\obj\Debug\Wipro_Programming_languages.pdb

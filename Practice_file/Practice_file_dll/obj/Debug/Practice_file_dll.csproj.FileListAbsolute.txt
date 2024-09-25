@@ -1,0 +1,6 @@
+C:\Users\shankar\source\repos\Practice_file\Practice_file_dll\bin\Debug\Practice_file_dll.dll
+C:\Users\shankar\source\repos\Practice_file\Practice_file_dll\bin\Debug\Practice_file_dll.pdb
+C:\Users\shankar\source\repos\Practice_file\Practice_file_dll\obj\Debug\Practice_file_dll.csproj.AssemblyReference.cache
+C:\Users\shankar\source\repos\Practice_file\Practice_file_dll\obj\Debug\Practice_file_dll.csproj.CoreCompileInputs.cache
+C:\Users\shankar\source\repos\Practice_file\Practice_file_dll\obj\Debug\Practice_file_dll.dll
+C:\Users\shankar\source\repos\Practice_file\Practice_file_dll\obj\Debug\Practice_file_dll.pdb

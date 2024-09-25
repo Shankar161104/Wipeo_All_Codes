@@ -1,0 +1,112 @@
+﻿@model SecureFinancialManagement.ViewModel.AccountSummaryViewModel
+
+@{
+    ViewData["Title"] = "Account Summary";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-image: url('https://i.pinimg.com/564x/2a/2e/aa/2a2eaa859041fee70704328b9d91a795.jpg'); /* Background image URL */
+            background-size: cover;
+            background-position: center;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+            background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background for readability */
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+
+        .table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 2rem;
+        }
+
+            .table th, .table td {
+                padding: 0.75rem;
+                text-align: left;
+                border-bottom: 1px solid #ddd;
+            }
+
+            .table th {
+                background-color: #f4f4f4;
+                color: #333;
+            }
+
+            .table tr:nth-child(even) {
+                background-color: #f9f9f9;
+            }
+
+            .table a {
+                color: #007bff;
+                text-decoration: none;
+            }
+
+                .table a:hover {
+                    text-decoration: underline;
+                }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>@ViewData["Title"]</h1>
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Accounts.First().AccountId)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Accounts.First().AccountHolderName)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Accounts.First().Balance)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Accounts.First().CreatedDate)
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.Accounts)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.AccountId)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.AccountHolderName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Balance)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.CreatedDate.ToString("MM/dd/yyyy"))
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

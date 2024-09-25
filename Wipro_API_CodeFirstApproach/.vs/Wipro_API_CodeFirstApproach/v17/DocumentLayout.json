@@ -1,0 +1,268 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shankar\\source\\repos\\Wipro_API_CodeFirstApproach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF73EC9A-650C-47CD-A899-4921C0BD1EAE}|Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach.csproj|c:\\users\\shankar\\source\\repos\\wipro_api_codefirstapproach\\wipro_api_codefirstapproach\\repository\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF73EC9A-650C-47CD-A899-4921C0BD1EAE}|Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach.csproj|solutionrelative:wipro_api_codefirstapproach\\repository\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF73EC9A-650C-47CD-A899-4921C0BD1EAE}|Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach.csproj|c:\\users\\shankar\\source\\repos\\wipro_api_codefirstapproach\\wipro_api_codefirstapproach\\model\\vehiclemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF73EC9A-650C-47CD-A899-4921C0BD1EAE}|Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach.csproj|solutionrelative:wipro_api_codefirstapproach\\model\\vehiclemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF73EC9A-650C-47CD-A899-4921C0BD1EAE}|Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach.csproj|c:\\users\\shankar\\source\\repos\\wipro_api_codefirstapproach\\wipro_api_codefirstapproach\\model\\customermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF73EC9A-650C-47CD-A899-4921C0BD1EAE}|Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach.csproj|solutionrelative:wipro_api_codefirstapproach\\model\\customermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF73EC9A-650C-47CD-A899-4921C0BD1EAE}|Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach.csproj|c:\\users\\shankar\\source\\repos\\wipro_api_codefirstapproach\\wipro_api_codefirstapproach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF73EC9A-650C-47CD-A899-4921C0BD1EAE}|Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach.csproj|solutionrelative:wipro_api_codefirstapproach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF73EC9A-650C-47CD-A899-4921C0BD1EAE}|Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach.csproj|c:\\users\\shankar\\source\\repos\\wipro_api_codefirstapproach\\wipro_api_codefirstapproach\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BF73EC9A-650C-47CD-A899-4921C0BD1EAE}|Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach.csproj|solutionrelative:wipro_api_codefirstapproach\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF73EC9A-650C-47CD-A899-4921C0BD1EAE}|Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach.csproj|c:\\users\\shankar\\source\\repos\\wipro_api_codefirstapproach\\wipro_api_codefirstapproach\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF73EC9A-650C-47CD-A899-4921C0BD1EAE}|Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach.csproj|solutionrelative:wipro_api_codefirstapproach\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF73EC9A-650C-47CD-A899-4921C0BD1EAE}|Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach.csproj|c:\\users\\shankar\\source\\repos\\wipro_api_codefirstapproach\\wipro_api_codefirstapproach\\migrations\\20240826060125_phase1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF73EC9A-650C-47CD-A899-4921C0BD1EAE}|Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach.csproj|solutionrelative:wipro_api_codefirstapproach\\migrations\\20240826060125_phase1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF73EC9A-650C-47CD-A899-4921C0BD1EAE}|Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach.csproj|c:\\users\\shankar\\source\\repos\\wipro_api_codefirstapproach\\wipro_api_codefirstapproach\\repository\\ivehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF73EC9A-650C-47CD-A899-4921C0BD1EAE}|Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach.csproj|solutionrelative:wipro_api_codefirstapproach\\repository\\ivehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF73EC9A-650C-47CD-A899-4921C0BD1EAE}|Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach.csproj|c:\\users\\shankar\\source\\repos\\wipro_api_codefirstapproach\\wipro_api_codefirstapproach\\entity framework\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF73EC9A-650C-47CD-A899-4921C0BD1EAE}|Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach.csproj|solutionrelative:wipro_api_codefirstapproach\\entity framework\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF73EC9A-650C-47CD-A899-4921C0BD1EAE}|Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach.csproj|c:\\users\\shankar\\source\\repos\\wipro_api_codefirstapproach\\wipro_api_codefirstapproach\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF73EC9A-650C-47CD-A899-4921C0BD1EAE}|Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach.csproj|solutionrelative:wipro_api_codefirstapproach\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF73EC9A-650C-47CD-A899-4921C0BD1EAE}|Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach.csproj|c:\\users\\shankar\\source\\repos\\wipro_api_codefirstapproach\\wipro_api_codefirstapproach\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF73EC9A-650C-47CD-A899-4921C0BD1EAE}|Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach.csproj|solutionrelative:wipro_api_codefirstapproach\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF73EC9A-650C-47CD-A899-4921C0BD1EAE}|Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach.csproj|c:\\users\\shankar\\source\\repos\\wipro_api_codefirstapproach\\wipro_api_codefirstapproach\\repository\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF73EC9A-650C-47CD-A899-4921C0BD1EAE}|Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach.csproj|solutionrelative:wipro_api_codefirstapproach\\repository\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF73EC9A-650C-47CD-A899-4921C0BD1EAE}|Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach.csproj|c:\\users\\shankar\\source\\repos\\wipro_api_codefirstapproach\\wipro_api_codefirstapproach\\repository\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF73EC9A-650C-47CD-A899-4921C0BD1EAE}|Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach.csproj|solutionrelative:wipro_api_codefirstapproach\\repository\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF73EC9A-650C-47CD-A899-4921C0BD1EAE}|Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach.csproj|c:\\users\\shankar\\source\\repos\\wipro_api_codefirstapproach\\wipro_api_codefirstapproach\\model\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF73EC9A-650C-47CD-A899-4921C0BD1EAE}|Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach.csproj|solutionrelative:wipro_api_codefirstapproach\\model\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF73EC9A-650C-47CD-A899-4921C0BD1EAE}|Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach.csproj|c:\\users\\shankar\\source\\repos\\wipro_api_codefirstapproach\\wipro_api_codefirstapproach\\migrations\\20240826100749_phase2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF73EC9A-650C-47CD-A899-4921C0BD1EAE}|Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach.csproj|solutionrelative:wipro_api_codefirstapproach\\migrations\\20240826100749_phase2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240826100749_Phase2.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach\\Migrations\\20240826100749_Phase2.cs",
+              "RelativeDocumentMoniker": "Wipro_API_CodeFirstApproach\\Migrations\\20240826100749_Phase2.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach\\Migrations\\20240826100749_Phase2.cs",
+              "RelativeToolTip": "Wipro_API_CodeFirstApproach\\Migrations\\20240826100749_Phase2.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T10:07:50.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Wipro_API_CodeFirstApproach\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Wipro_API_CodeFirstApproach\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAUwFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T09:15:44.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach\\Repository\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Wipro_API_CodeFirstApproach\\Repository\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach\\Repository\\ICustomerService.cs",
+              "RelativeToolTip": "Wipro_API_CodeFirstApproach\\Repository\\ICustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T09:15:44.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach\\Repository\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Wipro_API_CodeFirstApproach\\Repository\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach\\Repository\\CustomerService.cs",
+              "RelativeToolTip": "Wipro_API_CodeFirstApproach\\Repository\\CustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T09:15:42.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerMap.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach\\Model\\CustomerMap.cs",
+              "RelativeDocumentMoniker": "Wipro_API_CodeFirstApproach\\Model\\CustomerMap.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach\\Model\\CustomerMap.cs",
+              "RelativeToolTip": "Wipro_API_CodeFirstApproach\\Model\\CustomerMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T07:04:01.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach\\Model\\Customer.cs",
+              "RelativeDocumentMoniker": "Wipro_API_CodeFirstApproach\\Model\\Customer.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach\\Model\\Customer.cs",
+              "RelativeToolTip": "Wipro_API_CodeFirstApproach\\Model\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T06:50:02.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240826060125_Phase1.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach\\Migrations\\20240826060125_Phase1.cs",
+              "RelativeDocumentMoniker": "Wipro_API_CodeFirstApproach\\Migrations\\20240826060125_Phase1.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach\\Migrations\\20240826060125_Phase1.cs",
+              "RelativeToolTip": "Wipro_API_CodeFirstApproach\\Migrations\\20240826060125_Phase1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T06:01:31.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach\\Program.cs",
+              "RelativeDocumentMoniker": "Wipro_API_CodeFirstApproach\\Program.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach\\Program.cs",
+              "RelativeToolTip": "Wipro_API_CodeFirstApproach\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T05:49:32.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach\\appsettings.json",
+              "RelativeDocumentMoniker": "Wipro_API_CodeFirstApproach\\appsettings.json",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach\\appsettings.json",
+              "RelativeToolTip": "Wipro_API_CodeFirstApproach\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-26T04:50:44.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VehicleController.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach\\Controllers\\VehicleController.cs",
+              "RelativeDocumentMoniker": "Wipro_API_CodeFirstApproach\\Controllers\\VehicleController.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach\\Controllers\\VehicleController.cs",
+              "RelativeToolTip": "Wipro_API_CodeFirstApproach\\Controllers\\VehicleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T04:51:49.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IVehicleService.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach\\Repository\\IVehicleService.cs",
+              "RelativeDocumentMoniker": "Wipro_API_CodeFirstApproach\\Repository\\IVehicleService.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach\\Repository\\IVehicleService.cs",
+              "RelativeToolTip": "Wipro_API_CodeFirstApproach\\Repository\\IVehicleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T04:26:05.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VehicleMap.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach\\Model\\VehicleMap.cs",
+              "RelativeDocumentMoniker": "Wipro_API_CodeFirstApproach\\Model\\VehicleMap.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach\\Model\\VehicleMap.cs",
+              "RelativeToolTip": "Wipro_API_CodeFirstApproach\\Model\\VehicleMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T03:50:43.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach\\Entity Framework\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Wipro_API_CodeFirstApproach\\Entity Framework\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach\\Entity Framework\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Wipro_API_CodeFirstApproach\\Entity Framework\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T03:38:42.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VehicleService.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach\\Repository\\VehicleService.cs",
+              "RelativeDocumentMoniker": "Wipro_API_CodeFirstApproach\\Repository\\VehicleService.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach\\Repository\\VehicleService.cs",
+              "RelativeToolTip": "Wipro_API_CodeFirstApproach\\Repository\\VehicleService.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T03:38:22.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach\\Model\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Wipro_API_CodeFirstApproach\\Model\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_API_CodeFirstApproach\\Wipro_API_CodeFirstApproach\\Model\\Vehicle.cs",
+              "RelativeToolTip": "Wipro_API_CodeFirstApproach\\Model\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T03:37:47.344Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

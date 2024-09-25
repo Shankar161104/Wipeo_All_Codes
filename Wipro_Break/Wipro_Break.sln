@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wipro_Break", "Wipro_Break\Wipro_Break.csproj", "{577701D1-7A81-4E46-A412-864D20FE03DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{577701D1-7A81-4E46-A412-864D20FE03DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{577701D1-7A81-4E46-A412-864D20FE03DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{577701D1-7A81-4E46-A412-864D20FE03DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{577701D1-7A81-4E46-A412-864D20FE03DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6493E703-18EF-4CAB-B08E-B1E8E2D4C897}
+	EndGlobalSection
+EndGlobal

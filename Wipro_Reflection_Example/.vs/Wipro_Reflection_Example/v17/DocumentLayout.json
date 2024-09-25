@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shankar\\source\\repos\\Wipro_Reflection_Example\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF066E50-6655-4185-B712-71419553C3EF}|Wipro_Reflection_Example\\Wipro_Reflection_Example.csproj|c:\\users\\shankar\\source\\repos\\wipro_reflection_example\\wipro_reflection_example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF066E50-6655-4185-B712-71419553C3EF}|Wipro_Reflection_Example\\Wipro_Reflection_Example.csproj|solutionrelative:wipro_reflection_example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Reflection_Example\\Wipro_Reflection_Example\\Program.cs",
+              "RelativeDocumentMoniker": "Wipro_Reflection_Example\\Program.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Reflection_Example\\Wipro_Reflection_Example\\Program.cs",
+              "RelativeToolTip": "Wipro_Reflection_Example\\Program.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAswA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T06:58:21.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shankar\\source\\repos\\Wipro_Function_passingfrom_anotherclass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1D6B2E-AA90-4E24-81F5-500382CAE8CA}|Wipro_Function_passingfrom_anotherclass\\Wipro_Function_passingfrom_anotherclass.csproj|c:\\users\\shankar\\source\\repos\\wipro_function_passingfrom_anotherclass\\wipro_function_passingfrom_anotherclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1D6B2E-AA90-4E24-81F5-500382CAE8CA}|Wipro_Function_passingfrom_anotherclass\\Wipro_Function_passingfrom_anotherclass.csproj|solutionrelative:wipro_function_passingfrom_anotherclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1D6B2E-AA90-4E24-81F5-500382CAE8CA}|Wipro_Function_passingfrom_anotherclass\\Wipro_Function_passingfrom_anotherclass.csproj|C:\\Users\\shankar\\source\\repos\\Wipro_Function_passingfrom_anotherclass\\wipro_function_passingfrom_anotherclass\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1D6B2E-AA90-4E24-81F5-500382CAE8CA}|Wipro_Function_passingfrom_anotherclass\\Wipro_Function_passingfrom_anotherclass.csproj|solutionrelative:wipro_function_passingfrom_anotherclass\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Area.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Function_passingfrom_anotherclass\\Wipro_Function_passingfrom_anotherclass\\Area.cs",
+              "RelativeDocumentMoniker": "Wipro_Function_passingfrom_anotherclass\\Area.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Function_passingfrom_anotherclass\\Wipro_Function_passingfrom_anotherclass\\Area.cs",
+              "RelativeToolTip": "Wipro_Function_passingfrom_anotherclass\\Area.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T11:03:26.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Function_passingfrom_anotherclass\\Wipro_Function_passingfrom_anotherclass\\Program.cs",
+              "RelativeDocumentMoniker": "Wipro_Function_passingfrom_anotherclass\\Program.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Function_passingfrom_anotherclass\\Wipro_Function_passingfrom_anotherclass\\Program.cs",
+              "RelativeToolTip": "Wipro_Function_passingfrom_anotherclass\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T11:02:41.009Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

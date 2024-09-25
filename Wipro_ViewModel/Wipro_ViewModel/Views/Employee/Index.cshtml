@@ -1,0 +1,38 @@
+﻿@model Wipro_ViewModel.Models.EmployeeDetailsViewModel;
+
+<head>
+
+
+
+</head>
+<body>
+    <table>
+        <tr>
+            <th>@Model.PageHeader</th>
+
+        </tr>
+        <tr>
+            <th>Employee Details</th>
+            <td>@Model.Employee.EmpID</td>
+            <td>@Model.Employee.EmpName</td>
+            <td>@Model.Employee.EmpGender</td>\
+            <td>@Model.Employee.EmpDept</td>
+            <td>@Model.Employee.EmpSal</td>
+            <td>@Model.Employee.AddressId</td>
+        </tr>
+
+        <tr>
+            <th>Address Details</th>
+            <td>@Model.Address.AddressId</td>
+            <td>@Model.Address.Pincode</td>
+            <td>@Model.Address.City</td>
+            <td>@Model.Address.state</td>
+            <td>@Model.Address.Country</td>
+        </tr>
+
+       
+
+    </table>
+
+
+</body>

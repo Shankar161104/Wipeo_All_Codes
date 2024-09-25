@@ -1,0 +1,7 @@
+C:\Users\shankar\source\repos\Wipro_Lambda_Expression\Wipro_Lambda_Expression\bin\Debug\Wipro_Lambda_Expression.exe.config
+C:\Users\shankar\source\repos\Wipro_Lambda_Expression\Wipro_Lambda_Expression\bin\Debug\Wipro_Lambda_Expression.exe
+C:\Users\shankar\source\repos\Wipro_Lambda_Expression\Wipro_Lambda_Expression\bin\Debug\Wipro_Lambda_Expression.pdb
+C:\Users\shankar\source\repos\Wipro_Lambda_Expression\Wipro_Lambda_Expression\obj\Debug\Wipro_Lambda_Expression.csproj.AssemblyReference.cache
+C:\Users\shankar\source\repos\Wipro_Lambda_Expression\Wipro_Lambda_Expression\obj\Debug\Wipro_Lambda_Expression.csproj.CoreCompileInputs.cache
+C:\Users\shankar\source\repos\Wipro_Lambda_Expression\Wipro_Lambda_Expression\obj\Debug\Wipro_Lambda_Expression.exe
+C:\Users\shankar\source\repos\Wipro_Lambda_Expression\Wipro_Lambda_Expression\obj\Debug\Wipro_Lambda_Expression.pdb

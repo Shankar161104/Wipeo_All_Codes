@@ -1,0 +1,7 @@
+C:\Users\shankar\source\repos\Wipro_Practice_Project\Wipro_Practice_Project\bin\Debug\Wipro_Practice_Project.exe.config
+C:\Users\shankar\source\repos\Wipro_Practice_Project\Wipro_Practice_Project\bin\Debug\Wipro_Practice_Project.exe
+C:\Users\shankar\source\repos\Wipro_Practice_Project\Wipro_Practice_Project\bin\Debug\Wipro_Practice_Project.pdb
+C:\Users\shankar\source\repos\Wipro_Practice_Project\Wipro_Practice_Project\obj\Debug\Wipro_Practice_Project.csproj.AssemblyReference.cache
+C:\Users\shankar\source\repos\Wipro_Practice_Project\Wipro_Practice_Project\obj\Debug\Wipro_Practice_Project.csproj.CoreCompileInputs.cache
+C:\Users\shankar\source\repos\Wipro_Practice_Project\Wipro_Practice_Project\obj\Debug\Wipro_Practice_Project.exe
+C:\Users\shankar\source\repos\Wipro_Practice_Project\Wipro_Practice_Project\obj\Debug\Wipro_Practice_Project.pdb

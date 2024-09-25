@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wipro_print_array", "Wipro_print_array\Wipro_print_array.csproj", "{7782F6A4-C607-46F9-93D8-0F0E346B302E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7782F6A4-C607-46F9-93D8-0F0E346B302E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7782F6A4-C607-46F9-93D8-0F0E346B302E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7782F6A4-C607-46F9-93D8-0F0E346B302E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7782F6A4-C607-46F9-93D8-0F0E346B302E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43B485F3-2FA9-41D8-9BF3-73A9F8DD8E84}
+	EndGlobalSection
+EndGlobal

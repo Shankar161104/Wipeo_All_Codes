@@ -1,0 +1,7 @@
+C:\Users\shankar\source\repos\Wipro_Get_and_Set\Wipro_Get_and_Set\obj\Debug\Wipro_Get_and_Set.csproj.AssemblyReference.cache
+C:\Users\shankar\source\repos\Wipro_Get_and_Set\Wipro_Get_and_Set\obj\Debug\Wipro_Get_and_Set.csproj.CoreCompileInputs.cache
+C:\Users\shankar\source\repos\Wipro_Get_and_Set\Wipro_Get_and_Set\bin\Debug\Wipro_Get_and_Set.exe.config
+C:\Users\shankar\source\repos\Wipro_Get_and_Set\Wipro_Get_and_Set\bin\Debug\Wipro_Get_and_Set.exe
+C:\Users\shankar\source\repos\Wipro_Get_and_Set\Wipro_Get_and_Set\bin\Debug\Wipro_Get_and_Set.pdb
+C:\Users\shankar\source\repos\Wipro_Get_and_Set\Wipro_Get_and_Set\obj\Debug\Wipro_Get_and_Set.exe
+C:\Users\shankar\source\repos\Wipro_Get_and_Set\Wipro_Get_and_Set\obj\Debug\Wipro_Get_and_Set.pdb

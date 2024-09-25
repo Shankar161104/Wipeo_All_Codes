@@ -1,0 +1,7 @@
+C:\Users\shankar\source\repos\Wipro_Collection_Initializer\Wipro_Collection_Initializer\bin\Debug\Wipro_Collection_Initializer.exe.config
+C:\Users\shankar\source\repos\Wipro_Collection_Initializer\Wipro_Collection_Initializer\bin\Debug\Wipro_Collection_Initializer.exe
+C:\Users\shankar\source\repos\Wipro_Collection_Initializer\Wipro_Collection_Initializer\bin\Debug\Wipro_Collection_Initializer.pdb
+C:\Users\shankar\source\repos\Wipro_Collection_Initializer\Wipro_Collection_Initializer\obj\Debug\Wipro_Collection_Initializer.csproj.AssemblyReference.cache
+C:\Users\shankar\source\repos\Wipro_Collection_Initializer\Wipro_Collection_Initializer\obj\Debug\Wipro_Collection_Initializer.csproj.CoreCompileInputs.cache
+C:\Users\shankar\source\repos\Wipro_Collection_Initializer\Wipro_Collection_Initializer\obj\Debug\Wipro_Collection_Initializer.exe
+C:\Users\shankar\source\repos\Wipro_Collection_Initializer\Wipro_Collection_Initializer\obj\Debug\Wipro_Collection_Initializer.pdb

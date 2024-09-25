@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Wipro_MVC_Customer_02nd.props" />
+</Project>

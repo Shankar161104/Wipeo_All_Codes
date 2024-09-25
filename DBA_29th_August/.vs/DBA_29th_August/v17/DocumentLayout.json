@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shankar\\source\\repos\\DBA_29th_August\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB7129C-21CD-4660-9B3E-811A367674DE}|DBA_29th_August\\DBA_29th_August.csproj|c:\\users\\shankar\\source\\repos\\dba_29th_august\\dba_29th_august\\repository\\idurgarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB7129C-21CD-4660-9B3E-811A367674DE}|DBA_29th_August\\DBA_29th_August.csproj|solutionrelative:dba_29th_august\\repository\\idurgarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB7129C-21CD-4660-9B3E-811A367674DE}|DBA_29th_August\\DBA_29th_August.csproj|c:\\users\\shankar\\source\\repos\\dba_29th_august\\dba_29th_august\\controllers\\durgacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB7129C-21CD-4660-9B3E-811A367674DE}|DBA_29th_August\\DBA_29th_August.csproj|solutionrelative:dba_29th_august\\controllers\\durgacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB7129C-21CD-4660-9B3E-811A367674DE}|DBA_29th_August\\DBA_29th_August.csproj|c:\\users\\shankar\\source\\repos\\dba_29th_august\\dba_29th_august\\repository\\durgarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB7129C-21CD-4660-9B3E-811A367674DE}|DBA_29th_August\\DBA_29th_August.csproj|solutionrelative:dba_29th_august\\repository\\durgarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB7129C-21CD-4660-9B3E-811A367674DE}|DBA_29th_August\\DBA_29th_August.csproj|c:\\users\\shankar\\source\\repos\\dba_29th_august\\dba_29th_august\\entityframework\\dfa29082024context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB7129C-21CD-4660-9B3E-811A367674DE}|DBA_29th_August\\DBA_29th_August.csproj|solutionrelative:dba_29th_august\\entityframework\\dfa29082024context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB7129C-21CD-4660-9B3E-811A367674DE}|DBA_29th_August\\DBA_29th_August.csproj|c:\\users\\shankar\\source\\repos\\dba_29th_august\\dba_29th_august\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3FB7129C-21CD-4660-9B3E-811A367674DE}|DBA_29th_August\\DBA_29th_August.csproj|solutionrelative:dba_29th_august\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB7129C-21CD-4660-9B3E-811A367674DE}|DBA_29th_August\\DBA_29th_August.csproj|c:\\users\\shankar\\source\\repos\\dba_29th_august\\dba_29th_august\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB7129C-21CD-4660-9B3E-811A367674DE}|DBA_29th_August\\DBA_29th_August.csproj|solutionrelative:dba_29th_august\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB7129C-21CD-4660-9B3E-811A367674DE}|DBA_29th_August\\DBA_29th_August.csproj|c:\\users\\shankar\\source\\repos\\dba_29th_august\\dba_29th_august\\models\\durga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB7129C-21CD-4660-9B3E-811A367674DE}|DBA_29th_August\\DBA_29th_August.csproj|solutionrelative:dba_29th_august\\models\\durga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Durga.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\DBA_29th_August\\DBA_29th_August\\Models\\Durga.cs",
+              "RelativeDocumentMoniker": "DBA_29th_August\\Models\\Durga.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\DBA_29th_August\\DBA_29th_August\\Models\\Durga.cs",
+              "RelativeToolTip": "DBA_29th_August\\Models\\Durga.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T17:16:30.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\DBA_29th_August\\DBA_29th_August\\Program.cs",
+              "RelativeDocumentMoniker": "DBA_29th_August\\Program.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\DBA_29th_August\\DBA_29th_August\\Program.cs",
+              "RelativeToolTip": "DBA_29th_August\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T17:00:39.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\DBA_29th_August\\DBA_29th_August\\appsettings.json",
+              "RelativeDocumentMoniker": "DBA_29th_August\\appsettings.json",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\DBA_29th_August\\DBA_29th_August\\appsettings.json",
+              "RelativeToolTip": "DBA_29th_August\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-29T16:58:08.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DurgaController.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\DBA_29th_August\\DBA_29th_August\\Controllers\\DurgaController.cs",
+              "RelativeDocumentMoniker": "DBA_29th_August\\Controllers\\DurgaController.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\DBA_29th_August\\DBA_29th_August\\Controllers\\DurgaController.cs",
+              "RelativeToolTip": "DBA_29th_August\\Controllers\\DurgaController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA1wCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T16:50:12.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DurgaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\DBA_29th_August\\DBA_29th_August\\Repository\\DurgaRepository.cs",
+              "RelativeDocumentMoniker": "DBA_29th_August\\Repository\\DurgaRepository.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\DBA_29th_August\\DBA_29th_August\\Repository\\DurgaRepository.cs",
+              "RelativeToolTip": "DBA_29th_August\\Repository\\DurgaRepository.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAuwCIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T16:39:48.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IDurgaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\DBA_29th_August\\DBA_29th_August\\Repository\\IDurgaRepository.cs",
+              "RelativeDocumentMoniker": "DBA_29th_August\\Repository\\IDurgaRepository.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\DBA_29th_August\\DBA_29th_August\\Repository\\IDurgaRepository.cs",
+              "RelativeToolTip": "DBA_29th_August\\Repository\\IDurgaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T16:39:30.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dfa29082024Context.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\DBA_29th_August\\DBA_29th_August\\EntityFrameWork\\Dfa29082024Context.cs",
+              "RelativeDocumentMoniker": "DBA_29th_August\\EntityFrameWork\\Dfa29082024Context.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\DBA_29th_August\\DBA_29th_August\\EntityFrameWork\\Dfa29082024Context.cs",
+              "RelativeToolTip": "DBA_29th_August\\EntityFrameWork\\Dfa29082024Context.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T16:03:49.549Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\shankar\source\repos\Wipro_Reflection\Wipro_Reflection\bin\Debug\Wipro_Reflection.exe.config
+C:\Users\shankar\source\repos\Wipro_Reflection\Wipro_Reflection\bin\Debug\Wipro_Reflection.exe
+C:\Users\shankar\source\repos\Wipro_Reflection\Wipro_Reflection\bin\Debug\Wipro_Reflection.pdb
+C:\Users\shankar\source\repos\Wipro_Reflection\Wipro_Reflection\obj\Debug\Wipro_Reflection.csproj.AssemblyReference.cache
+C:\Users\shankar\source\repos\Wipro_Reflection\Wipro_Reflection\obj\Debug\Wipro_Reflection.csproj.CoreCompileInputs.cache
+C:\Users\shankar\source\repos\Wipro_Reflection\Wipro_Reflection\obj\Debug\Wipro_Reflection.exe
+C:\Users\shankar\source\repos\Wipro_Reflection\Wipro_Reflection\obj\Debug\Wipro_Reflection.pdb

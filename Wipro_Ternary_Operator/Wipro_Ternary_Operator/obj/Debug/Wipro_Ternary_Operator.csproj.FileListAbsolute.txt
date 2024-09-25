@@ -1,0 +1,7 @@
+C:\Users\shankar\source\repos\Wipro_Ternary_Operator\Wipro_Ternary_Operator\bin\Debug\Wipro_Ternary_Operator.exe.config
+C:\Users\shankar\source\repos\Wipro_Ternary_Operator\Wipro_Ternary_Operator\bin\Debug\Wipro_Ternary_Operator.exe
+C:\Users\shankar\source\repos\Wipro_Ternary_Operator\Wipro_Ternary_Operator\bin\Debug\Wipro_Ternary_Operator.pdb
+C:\Users\shankar\source\repos\Wipro_Ternary_Operator\Wipro_Ternary_Operator\obj\Debug\Wipro_Ternary_Operator.csproj.AssemblyReference.cache
+C:\Users\shankar\source\repos\Wipro_Ternary_Operator\Wipro_Ternary_Operator\obj\Debug\Wipro_Ternary_Operator.csproj.CoreCompileInputs.cache
+C:\Users\shankar\source\repos\Wipro_Ternary_Operator\Wipro_Ternary_Operator\obj\Debug\Wipro_Ternary_Operator.exe
+C:\Users\shankar\source\repos\Wipro_Ternary_Operator\Wipro_Ternary_Operator\obj\Debug\Wipro_Ternary_Operator.pdb

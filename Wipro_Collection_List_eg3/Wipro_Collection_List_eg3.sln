@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wipro_Collection_List_eg3", "Wipro_Collection_List_eg3\Wipro_Collection_List_eg3.csproj", "{85FE5540-56E9-4804-8CB0-5FFCC1925F0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85FE5540-56E9-4804-8CB0-5FFCC1925F0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85FE5540-56E9-4804-8CB0-5FFCC1925F0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85FE5540-56E9-4804-8CB0-5FFCC1925F0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85FE5540-56E9-4804-8CB0-5FFCC1925F0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76B83E08-6767-49A4-AF8D-EF7729D168B7}
+	EndGlobalSection
+EndGlobal

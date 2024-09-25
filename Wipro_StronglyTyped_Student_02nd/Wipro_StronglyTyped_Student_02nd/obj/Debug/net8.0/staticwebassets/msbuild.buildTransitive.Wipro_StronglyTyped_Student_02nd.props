@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Wipro_StronglyTyped_Student_02nd.props" />
+</Project>

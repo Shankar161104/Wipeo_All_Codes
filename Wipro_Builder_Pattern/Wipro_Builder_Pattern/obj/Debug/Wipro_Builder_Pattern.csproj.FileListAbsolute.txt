@@ -1,0 +1,7 @@
+C:\Users\shankar\source\repos\Wipro_Builder_Pattern\Wipro_Builder_Pattern\bin\Debug\Wipro_Builder_Pattern.exe.config
+C:\Users\shankar\source\repos\Wipro_Builder_Pattern\Wipro_Builder_Pattern\bin\Debug\Wipro_Builder_Pattern.exe
+C:\Users\shankar\source\repos\Wipro_Builder_Pattern\Wipro_Builder_Pattern\bin\Debug\Wipro_Builder_Pattern.pdb
+C:\Users\shankar\source\repos\Wipro_Builder_Pattern\Wipro_Builder_Pattern\obj\Debug\Wipro_Builder_Pattern.csproj.AssemblyReference.cache
+C:\Users\shankar\source\repos\Wipro_Builder_Pattern\Wipro_Builder_Pattern\obj\Debug\Wipro_Builder_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\shankar\source\repos\Wipro_Builder_Pattern\Wipro_Builder_Pattern\obj\Debug\Wipro_Builder_Pattern.exe
+C:\Users\shankar\source\repos\Wipro_Builder_Pattern\Wipro_Builder_Pattern\obj\Debug\Wipro_Builder_Pattern.pdb

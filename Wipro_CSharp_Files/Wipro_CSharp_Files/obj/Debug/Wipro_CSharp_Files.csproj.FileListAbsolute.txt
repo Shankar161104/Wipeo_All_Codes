@@ -1,0 +1,7 @@
+C:\Users\shankar\source\repos\Wipro_CSharp_Files\Wipro_CSharp_Files\bin\Debug\Wipro_CSharp_Files.exe.config
+C:\Users\shankar\source\repos\Wipro_CSharp_Files\Wipro_CSharp_Files\bin\Debug\Wipro_CSharp_Files.exe
+C:\Users\shankar\source\repos\Wipro_CSharp_Files\Wipro_CSharp_Files\bin\Debug\Wipro_CSharp_Files.pdb
+C:\Users\shankar\source\repos\Wipro_CSharp_Files\Wipro_CSharp_Files\obj\Debug\Wipro_CSharp_Files.csproj.AssemblyReference.cache
+C:\Users\shankar\source\repos\Wipro_CSharp_Files\Wipro_CSharp_Files\obj\Debug\Wipro_CSharp_Files.csproj.CoreCompileInputs.cache
+C:\Users\shankar\source\repos\Wipro_CSharp_Files\Wipro_CSharp_Files\obj\Debug\Wipro_CSharp_Files.exe
+C:\Users\shankar\source\repos\Wipro_CSharp_Files\Wipro_CSharp_Files\obj\Debug\Wipro_CSharp_Files.pdb

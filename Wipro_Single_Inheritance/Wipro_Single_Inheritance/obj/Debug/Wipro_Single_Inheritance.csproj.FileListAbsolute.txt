@@ -1,0 +1,7 @@
+C:\Users\shankar\source\repos\Wipro_Single_Inheritance\Wipro_Single_Inheritance\bin\Debug\Wipro_Single_Inheritance.exe.config
+C:\Users\shankar\source\repos\Wipro_Single_Inheritance\Wipro_Single_Inheritance\bin\Debug\Wipro_Single_Inheritance.exe
+C:\Users\shankar\source\repos\Wipro_Single_Inheritance\Wipro_Single_Inheritance\bin\Debug\Wipro_Single_Inheritance.pdb
+C:\Users\shankar\source\repos\Wipro_Single_Inheritance\Wipro_Single_Inheritance\obj\Debug\Wipro_Single_Inheritance.csproj.AssemblyReference.cache
+C:\Users\shankar\source\repos\Wipro_Single_Inheritance\Wipro_Single_Inheritance\obj\Debug\Wipro_Single_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\shankar\source\repos\Wipro_Single_Inheritance\Wipro_Single_Inheritance\obj\Debug\Wipro_Single_Inheritance.exe
+C:\Users\shankar\source\repos\Wipro_Single_Inheritance\Wipro_Single_Inheritance\obj\Debug\Wipro_Single_Inheritance.pdb

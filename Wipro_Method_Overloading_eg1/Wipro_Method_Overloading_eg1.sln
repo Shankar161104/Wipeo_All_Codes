@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wipro_Method_Overloading_eg1", "Wipro_Method_Overloading_eg1\Wipro_Method_Overloading_eg1.csproj", "{C7B074D2-22AB-4E7A-ABA1-23E1F8420C90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7B074D2-22AB-4E7A-ABA1-23E1F8420C90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7B074D2-22AB-4E7A-ABA1-23E1F8420C90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7B074D2-22AB-4E7A-ABA1-23E1F8420C90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7B074D2-22AB-4E7A-ABA1-23E1F8420C90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF03F6C1-84AA-4004-956F-22200FBD7C18}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shankar\\source\\repos\\Wipro_Practice_Main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37DD3C9E-5749-4DD6-90F9-A6E508EF7B6F}|Wipro_Practice_Main\\Wipro_Practice_Main.csproj|c:\\users\\shankar\\source\\repos\\wipro_practice_main\\wipro_practice_main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DD3C9E-5749-4DD6-90F9-A6E508EF7B6F}|Wipro_Practice_Main\\Wipro_Practice_Main.csproj|solutionrelative:wipro_practice_main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Practice_Main\\Wipro_Practice_Main\\Program.cs",
+              "RelativeDocumentMoniker": "Wipro_Practice_Main\\Program.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Practice_Main\\Wipro_Practice_Main\\Program.cs",
+              "RelativeToolTip": "Wipro_Practice_Main\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T03:37:56.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

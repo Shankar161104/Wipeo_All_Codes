@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wipro_Arithmetic_float", "Wipro_Relational_Operators\Wipro_Arithmetic_float.csproj", "{D9015908-5A1C-4650-8A43-6C9C70C72EE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9015908-5A1C-4650-8A43-6C9C70C72EE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9015908-5A1C-4650-8A43-6C9C70C72EE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9015908-5A1C-4650-8A43-6C9C70C72EE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9015908-5A1C-4650-8A43-6C9C70C72EE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D93A8E7-45A3-4B00-A799-CF94E310143F}
+	EndGlobalSection
+EndGlobal

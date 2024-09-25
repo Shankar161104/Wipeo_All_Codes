@@ -1,0 +1,7 @@
+C:\Users\shankar\source\repos\Wipro_Delegate_Operations\Wipro_Delegate_Operations\bin\Debug\Wipro_Delegate_Operations.exe.config
+C:\Users\shankar\source\repos\Wipro_Delegate_Operations\Wipro_Delegate_Operations\bin\Debug\Wipro_Delegate_Operations.exe
+C:\Users\shankar\source\repos\Wipro_Delegate_Operations\Wipro_Delegate_Operations\bin\Debug\Wipro_Delegate_Operations.pdb
+C:\Users\shankar\source\repos\Wipro_Delegate_Operations\Wipro_Delegate_Operations\obj\Debug\Wipro_Delegate_Operations.csproj.AssemblyReference.cache
+C:\Users\shankar\source\repos\Wipro_Delegate_Operations\Wipro_Delegate_Operations\obj\Debug\Wipro_Delegate_Operations.csproj.CoreCompileInputs.cache
+C:\Users\shankar\source\repos\Wipro_Delegate_Operations\Wipro_Delegate_Operations\obj\Debug\Wipro_Delegate_Operations.exe
+C:\Users\shankar\source\repos\Wipro_Delegate_Operations\Wipro_Delegate_Operations\obj\Debug\Wipro_Delegate_Operations.pdb

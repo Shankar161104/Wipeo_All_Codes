@@ -1,0 +1,7 @@
+C:\Users\shankar\source\repos\Wipro_Continue\Wipro_Continue\bin\Debug\Wipro_Continue.exe.config
+C:\Users\shankar\source\repos\Wipro_Continue\Wipro_Continue\bin\Debug\Wipro_Continue.exe
+C:\Users\shankar\source\repos\Wipro_Continue\Wipro_Continue\bin\Debug\Wipro_Continue.pdb
+C:\Users\shankar\source\repos\Wipro_Continue\Wipro_Continue\obj\Debug\Wipro_Continue.csproj.AssemblyReference.cache
+C:\Users\shankar\source\repos\Wipro_Continue\Wipro_Continue\obj\Debug\Wipro_Continue.csproj.CoreCompileInputs.cache
+C:\Users\shankar\source\repos\Wipro_Continue\Wipro_Continue\obj\Debug\Wipro_Continue.exe
+C:\Users\shankar\source\repos\Wipro_Continue\Wipro_Continue\obj\Debug\Wipro_Continue.pdb

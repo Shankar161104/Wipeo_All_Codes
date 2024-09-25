@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shankar\\source\\repos\\Wipro_Generics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7264F74E-D846-4F6F-BE93-A4C18FBED88A}|Wipro_Generics\\Wipro_Generics.csproj|c:\\users\\shankar\\source\\repos\\wipro_generics\\wipro_generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7264F74E-D846-4F6F-BE93-A4C18FBED88A}|Wipro_Generics\\Wipro_Generics.csproj|solutionrelative:wipro_generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Generics\\Wipro_Generics\\Program.cs",
+              "RelativeDocumentMoniker": "Wipro_Generics\\Program.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Generics\\Wipro_Generics\\Program.cs",
+              "RelativeToolTip": "Wipro_Generics\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T04:40:28.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

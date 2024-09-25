@@ -1,0 +1,91 @@
+﻿@{
+    ViewData["Title"] = "Opening Page";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+    <style>
+        header, footer, nav {
+            display: none;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background: url('https://i.pinimg.com/564x/2a/2e/aa/2a2eaa859041fee70704328b9d91a795.jpg') no-repeat center center fixed; /* Background image */
+            background-size: cover; /* Cover the entire viewport */
+            color: #fff;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+
+        .container {
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .card {
+            background-color: rgba(51, 51, 51, 0.8); /* Semi-transparent background */
+            color: #fff;
+            padding: 20px;
+            margin: 10px;
+            width: 250px;
+            height: 150px;
+            border-radius: 10px;
+            text-align: center;
+            transition: transform 0.3s, background-color 0.3s;
+            cursor: pointer;
+        }
+
+            .card:hover {
+                transform: scale(1.05);
+                background-color: rgba(68, 68, 68, 0.8); /* Slightly lighter background on hover */
+            }
+
+            .card:nth-child(1):hover {
+                background-color: rgba(76, 175, 80, 0.8); /* Green */
+            }
+
+            .card:nth-child(2):hover {
+                background-color: rgba(0, 123, 255, 0.8); /* Blue */
+            }
+
+            .card:nth-child(3):hover {
+                background-color: rgba(243, 156, 18, 0.8); /* Orange */
+            }
+
+            .card:nth-child(4):hover {
+                background-color: rgba(231, 76, 60, 0.8); /* Red */
+            }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/Transaction/Index" class="card">
+            <h2>Transactions</h2>
+            <p>Manage your transactions with ease.</p>
+        </a>
+        <a href="/AuditLog/Index" class="card">
+            <h2>Audit Logs</h2>
+            <p>View and manage audit logs.</p>
+        </a>
+        <a href="/Home/AccountSummary" class="card">
+            <h2>Another Page</h2>
+            <p>Navigate to another section.</p>
+        </a>
+        <a href="/Account/Index" class="card">
+            <h2>Accounts</h2>
+            <p>Manage your accounts.</p>
+        </a>
+    </div>
+</body>
+</html>

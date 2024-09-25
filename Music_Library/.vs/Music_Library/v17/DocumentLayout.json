@@ -1,0 +1,683 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shankar\\source\\repos\\Music_Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|c:\\users\\shankar\\source\\repos\\music_library\\music_library\\apicontroller\\songapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|solutionrelative:music_library\\apicontroller\\songapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|c:\\users\\shankar\\source\\repos\\music_library\\music_library\\apicontroller\\userapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|solutionrelative:music_library\\apicontroller\\userapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|c:\\users\\shankar\\source\\repos\\music_library\\music_library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|solutionrelative:music_library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3FEDE2-5307-4056-B902-755D947C5B81}|Domain\\Domain.csproj|c:\\users\\shankar\\source\\repos\\music_library\\domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3FEDE2-5307-4056-B902-755D947C5B81}|Domain\\Domain.csproj|solutionrelative:domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3FEDE2-5307-4056-B902-755D947C5B81}|Domain\\Domain.csproj|c:\\users\\shankar\\source\\repos\\music_library\\domain\\models\\usermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3FEDE2-5307-4056-B902-755D947C5B81}|Domain\\Domain.csproj|solutionrelative:domain\\models\\usermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|c:\\users\\shankar\\source\\repos\\music_library\\music_library\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|solutionrelative:music_library\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|c:\\users\\shankar\\source\\repos\\music_library\\music_library\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|solutionrelative:music_library\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5C3D02-86F4-4261-BB4F-B435DA5F8617}|Services\\Services.csproj|c:\\users\\shankar\\source\\repos\\music_library\\services\\repository\\songrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A5C3D02-86F4-4261-BB4F-B435DA5F8617}|Services\\Services.csproj|solutionrelative:services\\repository\\songrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5C3D02-86F4-4261-BB4F-B435DA5F8617}|Services\\Services.csproj|c:\\users\\shankar\\source\\repos\\music_library\\services\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A5C3D02-86F4-4261-BB4F-B435DA5F8617}|Services\\Services.csproj|solutionrelative:services\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5C3D02-86F4-4261-BB4F-B435DA5F8617}|Services\\Services.csproj|c:\\users\\shankar\\source\\repos\\music_library\\services\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A5C3D02-86F4-4261-BB4F-B435DA5F8617}|Services\\Services.csproj|solutionrelative:services\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE19A45A-9682-4811-A512-4FAB11FBEF1F}|DAL\\DAL.csproj|c:\\users\\shankar\\source\\repos\\music_library\\dal\\entityframework\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE19A45A-9682-4811-A512-4FAB11FBEF1F}|DAL\\DAL.csproj|solutionrelative:dal\\entityframework\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE19A45A-9682-4811-A512-4FAB11FBEF1F}|DAL\\DAL.csproj|c:\\users\\shankar\\source\\repos\\music_library\\dal\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE19A45A-9682-4811-A512-4FAB11FBEF1F}|DAL\\DAL.csproj|solutionrelative:dal\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|c:\\users\\shankar\\source\\repos\\music_library\\music_library\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|solutionrelative:music_library\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3FEDE2-5307-4056-B902-755D947C5B81}|Domain\\Domain.csproj|c:\\users\\shankar\\source\\repos\\music_library\\domain\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3FEDE2-5307-4056-B902-755D947C5B81}|Domain\\Domain.csproj|solutionrelative:domain\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|c:\\users\\shankar\\source\\repos\\music_library\\music_library\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|solutionrelative:music_library\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|c:\\users\\shankar\\source\\repos\\music_library\\music_library\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|solutionrelative:music_library\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|c:\\users\\shankar\\source\\repos\\music_library\\music_library\\dto\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|solutionrelative:music_library\\dto\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|c:\\users\\shankar\\source\\repos\\music_library\\music_library\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|solutionrelative:music_library\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|c:\\users\\shankar\\source\\repos\\music_library\\music_library\\dto\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|solutionrelative:music_library\\dto\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE19A45A-9682-4811-A512-4FAB11FBEF1F}|DAL\\DAL.csproj|c:\\users\\shankar\\source\\repos\\music_library\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CE19A45A-9682-4811-A512-4FAB11FBEF1F}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|c:\\users\\shankar\\source\\repos\\music_library\\music_library\\views\\home\\openingpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|solutionrelative:music_library\\views\\home\\openingpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|c:\\users\\shankar\\source\\repos\\music_library\\music_library\\views\\song\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|solutionrelative:music_library\\views\\song\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|c:\\users\\shankar\\source\\repos\\music_library\\music_library\\views\\home\\openingpage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|solutionrelative:music_library\\views\\home\\openingpage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|c:\\users\\shankar\\source\\repos\\music_library\\music_library\\controllers\\songcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|solutionrelative:music_library\\controllers\\songcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|c:\\users\\shankar\\source\\repos\\music_library\\music_library\\dto\\songdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|solutionrelative:music_library\\dto\\songdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3FEDE2-5307-4056-B902-755D947C5B81}|Domain\\Domain.csproj|c:\\users\\shankar\\source\\repos\\music_library\\domain\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3FEDE2-5307-4056-B902-755D947C5B81}|Domain\\Domain.csproj|solutionrelative:domain\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|c:\\users\\shankar\\source\\repos\\music_library\\music_library\\dto\\albumdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|solutionrelative:music_library\\dto\\albumdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|c:\\users\\shankar\\source\\repos\\music_library\\music_library\\music_library.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|solutionrelative:music_library\\music_library.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|c:\\users\\shankar\\source\\repos\\music_library\\music_library\\migrations\\20240907193858_music2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|solutionrelative:music_library\\migrations\\20240907193858_music2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|c:\\users\\shankar\\source\\repos\\music_library\\music_library\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|solutionrelative:music_library\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|c:\\users\\shankar\\source\\repos\\music_library\\music_library\\migrations\\20240906171259_music1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|solutionrelative:music_library\\migrations\\20240906171259_music1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5C3D02-86F4-4261-BB4F-B435DA5F8617}|Services\\Services.csproj|c:\\users\\shankar\\source\\repos\\music_library\\services\\repository\\ialbumrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A5C3D02-86F4-4261-BB4F-B435DA5F8617}|Services\\Services.csproj|solutionrelative:services\\repository\\ialbumrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5C3D02-86F4-4261-BB4F-B435DA5F8617}|Services\\Services.csproj|c:\\users\\shankar\\source\\repos\\music_library\\services\\repository\\albumrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A5C3D02-86F4-4261-BB4F-B435DA5F8617}|Services\\Services.csproj|solutionrelative:services\\repository\\albumrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5C3D02-86F4-4261-BB4F-B435DA5F8617}|Services\\Services.csproj|c:\\users\\shankar\\source\\repos\\music_library\\services\\repository\\isongrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A5C3D02-86F4-4261-BB4F-B435DA5F8617}|Services\\Services.csproj|solutionrelative:services\\repository\\isongrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3FEDE2-5307-4056-B902-755D947C5B81}|Domain\\Domain.csproj|c:\\users\\shankar\\source\\repos\\music_library\\domain\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3FEDE2-5307-4056-B902-755D947C5B81}|Domain\\Domain.csproj|solutionrelative:domain\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3FEDE2-5307-4056-B902-755D947C5B81}|Domain\\Domain.csproj|c:\\users\\shankar\\source\\repos\\music_library\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6A3FEDE2-5307-4056-B902-755D947C5B81}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|c:\\users\\shankar\\source\\repos\\music_library\\music_library\\migrations\\20240907201001_music3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|solutionrelative:music_library\\migrations\\20240907201001_music3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|c:\\users\\shankar\\source\\repos\\music_library\\music_library\\migrations\\20240908061952_music5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|solutionrelative:music_library\\migrations\\20240908061952_music5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|c:\\users\\shankar\\source\\repos\\music_library\\music_library\\migrations\\20240908055518_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|solutionrelative:music_library\\migrations\\20240908055518_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|c:\\users\\shankar\\source\\repos\\music_library\\music_library\\migrations\\20240908050912_music4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0E1CFF-EBF1-43B9-851E-5DCE623B21B9}|Music_Library\\Music_Library.csproj|solutionrelative:music_library\\migrations\\20240908050912_music4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\Program.cs",
+              "RelativeDocumentMoniker": "Music_Library\\Program.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\Program.cs",
+              "RelativeToolTip": "Music_Library\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T16:51:58.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Domain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Domain\\Models\\User.cs",
+              "RelativeToolTip": "Domain\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T15:28:40.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Services\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Repository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Services\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "Services\\Repository\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T16:12:45.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Music_Library\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Music_Library\\Controllers\\UserController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAA5wIUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T18:49:21.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Music_Library\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Music_Library\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAYwGoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T06:35:27.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserMap.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Domain\\Models\\UserMap.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\UserMap.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Domain\\Models\\UserMap.cs",
+              "RelativeToolTip": "Domain\\Models\\UserMap.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAzwBIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T19:29:14.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\APIController\\UserAPIController.cs",
+              "RelativeDocumentMoniker": "Music_Library\\APIController\\UserAPIController.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\APIController\\UserAPIController.cs",
+              "RelativeToolTip": "Music_Library\\APIController\\UserAPIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T17:16:30.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SongAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\APIController\\SongAPIController.cs",
+              "RelativeDocumentMoniker": "Music_Library\\APIController\\SongAPIController.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\APIController\\SongAPIController.cs",
+              "RelativeToolTip": "Music_Library\\APIController\\SongAPIController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T18:36:58.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Music_Library\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Music_Library\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T07:52:59.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Domain\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Domain\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "Domain\\Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T05:23:55.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Seed.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Music_Library\\DAL\\Data\\Seed.cs",
+              "RelativeDocumentMoniker": "DAL\\Data\\Seed.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Music_Library\\DAL\\Data\\Seed.cs",
+              "RelativeToolTip": "DAL\\Data\\Seed.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T05:36:04.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Music_Library\\DAL\\EntityFrameWork\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\EntityFrameWork\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Music_Library\\DAL\\EntityFrameWork\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DAL\\EntityFrameWork\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T16:04:07.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Services\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Services\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Services\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T16:12:56.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SongRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Services\\Repository\\SongRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Repository\\SongRepository.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Services\\Repository\\SongRepository.cs",
+              "RelativeToolTip": "Services\\Repository\\SongRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T16:13:28.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\DTO\\UpdateUserDto.cs",
+              "RelativeDocumentMoniker": "Music_Library\\DTO\\UpdateUserDto.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\DTO\\UpdateUserDto.cs",
+              "RelativeToolTip": "Music_Library\\DTO\\UpdateUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T06:12:26.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Music_Library\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Music_Library\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T05:18:35.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Music_Library\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Music_Library\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAADIAAAAAAAAAAAAqwE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T05:26:05.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20240908061952_Music5.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\Migrations\\20240908061952_Music5.cs",
+              "RelativeDocumentMoniker": "Music_Library\\Migrations\\20240908061952_Music5.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\Migrations\\20240908061952_Music5.cs",
+              "RelativeToolTip": "Music_Library\\Migrations\\20240908061952_Music5.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T06:19:52.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\DTO\\UserDto.cs",
+              "RelativeDocumentMoniker": "Music_Library\\DTO\\UserDto.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\DTO\\UserDto.cs",
+              "RelativeToolTip": "Music_Library\\DTO\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T19:48:27.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\DTO\\CreateUserDto.cs",
+              "RelativeDocumentMoniker": "Music_Library\\DTO\\CreateUserDto.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\DTO\\CreateUserDto.cs",
+              "RelativeToolTip": "Music_Library\\DTO\\CreateUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T06:13:17.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OpeningPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\Views\\Home\\OpeningPage.cshtml",
+              "RelativeDocumentMoniker": "Music_Library\\Views\\Home\\OpeningPage.cshtml",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\Views\\Home\\OpeningPage.cshtml",
+              "RelativeToolTip": "Music_Library\\Views\\Home\\OpeningPage.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T07:59:24.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\Views\\Song\\Index.cshtml",
+              "RelativeDocumentMoniker": "Music_Library\\Views\\Song\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\Views\\Song\\Index.cshtml",
+              "RelativeToolTip": "Music_Library\\Views\\Song\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T20:26:56.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Music_Library\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Music_Library\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-06T16:03:19.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ViewState": "AQIAACkAAAAAAAAAAAApwDUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-09-08T05:54:15.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20240908055518_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\Migrations\\20240908055518_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Music_Library\\Migrations\\20240908055518_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\Migrations\\20240908055518_InitialCreate.cs",
+              "RelativeToolTip": "Music_Library\\Migrations\\20240908055518_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T05:55:20.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20240908050912_Music4.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\Migrations\\20240908050912_Music4.cs",
+              "RelativeDocumentMoniker": "Music_Library\\Migrations\\20240908050912_Music4.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\Migrations\\20240908050912_Music4.cs",
+              "RelativeToolTip": "Music_Library\\Migrations\\20240908050912_Music4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T05:09:13.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OpeningPage1.cshtml",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\Views\\Home\\OpeningPage1.cshtml",
+              "RelativeDocumentMoniker": "Music_Library\\Views\\Home\\OpeningPage1.cshtml",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\Views\\Home\\OpeningPage1.cshtml",
+              "RelativeToolTip": "Music_Library\\Views\\Home\\OpeningPage1.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T04:21:26.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Song.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Domain\\Models\\Song.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Song.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Domain\\Models\\Song.cs",
+              "RelativeToolTip": "Domain\\Models\\Song.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T15:28:51.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SongController.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\Controllers\\SongController.cs",
+              "RelativeDocumentMoniker": "Music_Library\\Controllers\\SongController.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\Controllers\\SongController.cs",
+              "RelativeToolTip": "Music_Library\\Controllers\\SongController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCQAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T20:23:51.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SongDto.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\DTO\\SongDto.cs",
+              "RelativeDocumentMoniker": "Music_Library\\DTO\\SongDto.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\DTO\\SongDto.cs",
+              "RelativeToolTip": "Music_Library\\DTO\\SongDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T19:48:42.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20240907201001_Music3.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\Migrations\\20240907201001_Music3.cs",
+              "RelativeDocumentMoniker": "Music_Library\\Migrations\\20240907201001_Music3.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\Migrations\\20240907201001_Music3.cs",
+              "RelativeToolTip": "Music_Library\\Migrations\\20240907201001_Music3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T20:10:02.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AlbumDto.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\DTO\\AlbumDto.cs",
+              "RelativeDocumentMoniker": "Music_Library\\DTO\\AlbumDto.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\DTO\\AlbumDto.cs",
+              "RelativeToolTip": "Music_Library\\DTO\\AlbumDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T19:49:11.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Music_Library.csproj",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\Music_Library.csproj",
+              "RelativeDocumentMoniker": "Music_Library\\Music_Library.csproj",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\Music_Library.csproj",
+              "RelativeToolTip": "Music_Library\\Music_Library.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-07T19:47:55.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20240907193858_Music2.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\Migrations\\20240907193858_Music2.cs",
+              "RelativeDocumentMoniker": "Music_Library\\Migrations\\20240907193858_Music2.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\Migrations\\20240907193858_Music2.cs",
+              "RelativeToolTip": "Music_Library\\Migrations\\20240907193858_Music2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T19:38:59.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\appsettings.json",
+              "RelativeDocumentMoniker": "Music_Library\\appsettings.json",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\appsettings.json",
+              "RelativeToolTip": "Music_Library\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-06T16:48:58.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20240906171259_Music1.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\Migrations\\20240906171259_Music1.cs",
+              "RelativeDocumentMoniker": "Music_Library\\Migrations\\20240906171259_Music1.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Music_Library\\Migrations\\20240906171259_Music1.cs",
+              "RelativeToolTip": "Music_Library\\Migrations\\20240906171259_Music1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T17:13:00.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IAlbumRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Services\\Repository\\IAlbumRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Repository\\IAlbumRepository.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Services\\Repository\\IAlbumRepository.cs",
+              "RelativeToolTip": "Services\\Repository\\IAlbumRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T16:34:12.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ISongRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Services\\Repository\\ISongRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Repository\\ISongRepository.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Services\\Repository\\ISongRepository.cs",
+              "RelativeToolTip": "Services\\Repository\\ISongRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T16:13:13.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AlbumRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Services\\Repository\\AlbumRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Repository\\AlbumRepository.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Services\\Repository\\AlbumRepository.cs",
+              "RelativeToolTip": "Services\\Repository\\AlbumRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T16:42:09.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Domain\\Models\\Album.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Album.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Domain\\Models\\Album.cs",
+              "RelativeToolTip": "Domain\\Models\\Album.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwA0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T15:29:02.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Music_Library\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-06T15:28:11.785Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

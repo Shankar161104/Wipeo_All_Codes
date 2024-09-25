@@ -1,0 +1,20 @@
+﻿@{
+    
+    var countries = ViewBag.Countries as List<string>;
+}
+
+<h1>List of Countries</h1>
+
+<table>
+    <tr>
+        <th>Country Name</th>
+    </tr>
+    @{
+        foreach (var country in countries)
+        {
+            <tr>
+                <td>@country</td>
+            </tr>
+        }
+    }
+</table>

@@ -1,0 +1,7 @@
+C:\Users\shankar\source\repos\Wipro_Collection_List_eg3\Wipro_Collection_List_eg3\bin\Debug\Wipro_Collection_List_eg3.exe.config
+C:\Users\shankar\source\repos\Wipro_Collection_List_eg3\Wipro_Collection_List_eg3\bin\Debug\Wipro_Collection_List_eg3.exe
+C:\Users\shankar\source\repos\Wipro_Collection_List_eg3\Wipro_Collection_List_eg3\bin\Debug\Wipro_Collection_List_eg3.pdb
+C:\Users\shankar\source\repos\Wipro_Collection_List_eg3\Wipro_Collection_List_eg3\obj\Debug\Wipro_Collection_List_eg3.csproj.AssemblyReference.cache
+C:\Users\shankar\source\repos\Wipro_Collection_List_eg3\Wipro_Collection_List_eg3\obj\Debug\Wipro_Collection_List_eg3.csproj.CoreCompileInputs.cache
+C:\Users\shankar\source\repos\Wipro_Collection_List_eg3\Wipro_Collection_List_eg3\obj\Debug\Wipro_Collection_List_eg3.exe
+C:\Users\shankar\source\repos\Wipro_Collection_List_eg3\Wipro_Collection_List_eg3\obj\Debug\Wipro_Collection_List_eg3.pdb

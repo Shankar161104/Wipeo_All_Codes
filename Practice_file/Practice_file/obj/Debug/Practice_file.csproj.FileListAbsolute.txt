@@ -1,0 +1,10 @@
+C:\Users\shankar\source\repos\Practice_file\Practice_file\bin\Debug\Practice_file.exe.config
+C:\Users\shankar\source\repos\Practice_file\Practice_file\bin\Debug\Practice_file.exe
+C:\Users\shankar\source\repos\Practice_file\Practice_file\bin\Debug\Practice_file.pdb
+C:\Users\shankar\source\repos\Practice_file\Practice_file\obj\Debug\Practice_file.csproj.AssemblyReference.cache
+C:\Users\shankar\source\repos\Practice_file\Practice_file\obj\Debug\Practice_file.csproj.CoreCompileInputs.cache
+C:\Users\shankar\source\repos\Practice_file\Practice_file\obj\Debug\Practice_file.exe
+C:\Users\shankar\source\repos\Practice_file\Practice_file\obj\Debug\Practice_file.pdb
+C:\Users\shankar\source\repos\Practice_file\Practice_file\bin\Debug\Practice_file_dll.dll
+C:\Users\shankar\source\repos\Practice_file\Practice_file\bin\Debug\Practice_file_dll.pdb
+C:\Users\shankar\source\repos\Practice_file\Practice_file\obj\Debug\Practice.D60547E8.Up2Date

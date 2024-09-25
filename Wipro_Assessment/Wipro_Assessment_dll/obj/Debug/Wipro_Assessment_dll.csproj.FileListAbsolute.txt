@@ -1,0 +1,6 @@
+C:\Users\shankar\source\repos\Wipro_Assessment\Wipro_Assessment_dll\bin\Debug\Wipro_Assessment_dll.dll
+C:\Users\shankar\source\repos\Wipro_Assessment\Wipro_Assessment_dll\bin\Debug\Wipro_Assessment_dll.pdb
+C:\Users\shankar\source\repos\Wipro_Assessment\Wipro_Assessment_dll\obj\Debug\Wipro_Assessment_dll.csproj.AssemblyReference.cache
+C:\Users\shankar\source\repos\Wipro_Assessment\Wipro_Assessment_dll\obj\Debug\Wipro_Assessment_dll.csproj.CoreCompileInputs.cache
+C:\Users\shankar\source\repos\Wipro_Assessment\Wipro_Assessment_dll\obj\Debug\Wipro_Assessment_dll.dll
+C:\Users\shankar\source\repos\Wipro_Assessment\Wipro_Assessment_dll\obj\Debug\Wipro_Assessment_dll.pdb

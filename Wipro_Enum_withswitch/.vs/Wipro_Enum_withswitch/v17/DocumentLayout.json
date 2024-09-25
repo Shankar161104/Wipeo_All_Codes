@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shankar\\source\\repos\\Wipro_Enum_withswitch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA982E8-2634-40BA-B7F8-A31BDA0EE682}|Wipro_Enum_withswitch\\Wipro_Enum_withswitch.csproj|c:\\users\\shankar\\source\\repos\\wipro_enum_withswitch\\wipro_enum_withswitch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DA982E8-2634-40BA-B7F8-A31BDA0EE682}|Wipro_Enum_withswitch\\Wipro_Enum_withswitch.csproj|solutionrelative:wipro_enum_withswitch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Enum_withswitch\\Wipro_Enum_withswitch\\Program.cs",
+              "RelativeDocumentMoniker": "Wipro_Enum_withswitch\\Program.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Enum_withswitch\\Wipro_Enum_withswitch\\Program.cs",
+              "RelativeToolTip": "Wipro_Enum_withswitch\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T06:22:23.331Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

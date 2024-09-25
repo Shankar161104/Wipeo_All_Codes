@@ -1,0 +1,7 @@
+C:\Users\shankar\source\repos\Wipro_Area_Anonymous_Delegate\Wipro_Area_Anonymous_Delegate\bin\Debug\Wipro_Area_Anonymous_Delegate.exe.config
+C:\Users\shankar\source\repos\Wipro_Area_Anonymous_Delegate\Wipro_Area_Anonymous_Delegate\bin\Debug\Wipro_Area_Anonymous_Delegate.exe
+C:\Users\shankar\source\repos\Wipro_Area_Anonymous_Delegate\Wipro_Area_Anonymous_Delegate\bin\Debug\Wipro_Area_Anonymous_Delegate.pdb
+C:\Users\shankar\source\repos\Wipro_Area_Anonymous_Delegate\Wipro_Area_Anonymous_Delegate\obj\Debug\Wipro_Area_Anonymous_Delegate.csproj.AssemblyReference.cache
+C:\Users\shankar\source\repos\Wipro_Area_Anonymous_Delegate\Wipro_Area_Anonymous_Delegate\obj\Debug\Wipro_Area_Anonymous_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\shankar\source\repos\Wipro_Area_Anonymous_Delegate\Wipro_Area_Anonymous_Delegate\obj\Debug\Wipro_Area_Anonymous_Delegate.exe
+C:\Users\shankar\source\repos\Wipro_Area_Anonymous_Delegate\Wipro_Area_Anonymous_Delegate\obj\Debug\Wipro_Area_Anonymous_Delegate.pdb

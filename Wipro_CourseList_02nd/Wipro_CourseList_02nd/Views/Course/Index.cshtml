@@ -1,0 +1,23 @@
+﻿<h1>List Of Courses</h1>
+
+<ul>
+    @{
+        foreach(var obj in (List<string>)ViewData["Course"])
+        {
+                         <li>@obj</li>
+
+        }
+    }
+</ul>
+
+<ol>
+    @{
+        foreach (var obj in (List<string>)ViewData["Course"])
+        {
+            <li>@obj</li>
+
+        }
+    }
+</ol>
+
+

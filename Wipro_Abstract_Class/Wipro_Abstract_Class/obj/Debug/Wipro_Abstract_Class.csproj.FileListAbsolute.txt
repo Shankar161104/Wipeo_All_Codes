@@ -1,0 +1,7 @@
+C:\Users\shankar\source\repos\Wipro_Abstract_Class\Wipro_Abstract_Class\bin\Debug\Wipro_Abstract_Class.exe.config
+C:\Users\shankar\source\repos\Wipro_Abstract_Class\Wipro_Abstract_Class\bin\Debug\Wipro_Abstract_Class.exe
+C:\Users\shankar\source\repos\Wipro_Abstract_Class\Wipro_Abstract_Class\bin\Debug\Wipro_Abstract_Class.pdb
+C:\Users\shankar\source\repos\Wipro_Abstract_Class\Wipro_Abstract_Class\obj\Debug\Wipro_Abstract_Class.csproj.AssemblyReference.cache
+C:\Users\shankar\source\repos\Wipro_Abstract_Class\Wipro_Abstract_Class\obj\Debug\Wipro_Abstract_Class.csproj.CoreCompileInputs.cache
+C:\Users\shankar\source\repos\Wipro_Abstract_Class\Wipro_Abstract_Class\obj\Debug\Wipro_Abstract_Class.exe
+C:\Users\shankar\source\repos\Wipro_Abstract_Class\Wipro_Abstract_Class\obj\Debug\Wipro_Abstract_Class.pdb

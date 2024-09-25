@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Wipro_MVC_ListPerson_02nd.props" />
+</Project>

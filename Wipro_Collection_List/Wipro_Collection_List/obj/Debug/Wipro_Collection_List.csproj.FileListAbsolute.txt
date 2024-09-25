@@ -1,0 +1,7 @@
+C:\Users\shankar\source\repos\Wipro_Collection_List\Wipro_Collection_List\bin\Debug\Wipro_Collection_List.exe.config
+C:\Users\shankar\source\repos\Wipro_Collection_List\Wipro_Collection_List\bin\Debug\Wipro_Collection_List.exe
+C:\Users\shankar\source\repos\Wipro_Collection_List\Wipro_Collection_List\bin\Debug\Wipro_Collection_List.pdb
+C:\Users\shankar\source\repos\Wipro_Collection_List\Wipro_Collection_List\obj\Debug\Wipro_Collection_List.csproj.AssemblyReference.cache
+C:\Users\shankar\source\repos\Wipro_Collection_List\Wipro_Collection_List\obj\Debug\Wipro_Collection_List.csproj.CoreCompileInputs.cache
+C:\Users\shankar\source\repos\Wipro_Collection_List\Wipro_Collection_List\obj\Debug\Wipro_Collection_List.exe
+C:\Users\shankar\source\repos\Wipro_Collection_List\Wipro_Collection_List\obj\Debug\Wipro_Collection_List.pdb

@@ -1,0 +1,7 @@
+C:\Users\shankar\source\repos\Wipro_Generic_Method\Wipro_Generic_Method\bin\Debug\Wipro_Generic_Method.exe.config
+C:\Users\shankar\source\repos\Wipro_Generic_Method\Wipro_Generic_Method\bin\Debug\Wipro_Generic_Method.exe
+C:\Users\shankar\source\repos\Wipro_Generic_Method\Wipro_Generic_Method\bin\Debug\Wipro_Generic_Method.pdb
+C:\Users\shankar\source\repos\Wipro_Generic_Method\Wipro_Generic_Method\obj\Debug\Wipro_Generic_Method.csproj.AssemblyReference.cache
+C:\Users\shankar\source\repos\Wipro_Generic_Method\Wipro_Generic_Method\obj\Debug\Wipro_Generic_Method.csproj.CoreCompileInputs.cache
+C:\Users\shankar\source\repos\Wipro_Generic_Method\Wipro_Generic_Method\obj\Debug\Wipro_Generic_Method.exe
+C:\Users\shankar\source\repos\Wipro_Generic_Method\Wipro_Generic_Method\obj\Debug\Wipro_Generic_Method.pdb

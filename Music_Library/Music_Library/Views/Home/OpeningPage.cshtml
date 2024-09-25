@@ -1,0 +1,66 @@
+﻿@{
+    ViewData["Title"] = "Welcome to the Music Library";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <style>
+        html, body {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-image: url('https://i.pinimg.com/564x/02/42/32/02423280c5e6a3d92b44f49289259673.jpg'); /* Replace with your image URL */
+            background-size: cover;
+            background-position: center;
+        }
+
+        .welcome-container {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            width: 80%;
+            max-width: 600px;
+            height: 50vh;
+            background-color: rgba(200, 245, 245, 0.8); /* Semi-transparent background to make text readable */
+            border-radius: 10px;
+            padding: 20px;
+            box-sizing: border-box; /* Ensures padding is included in width/height */
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+
+        .welcome-content {
+            text-align: center;
+        }
+
+        .welcome-button {
+            margin-top: 20px;
+        }
+
+        #p1 {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="welcome-container">
+        <div class="welcome-content">
+            <h1>Welcome to the Music Library</h1>
+            <p>Your gateway to a world of music!</p>
+            <p id="p1">Music can heal anyone, even Vishnu, the Supreme God listens to music played by Gandharvas</p>
+            <a href="/Home/OpeningPage1" class="btn btn-primary welcome-button">Enter Music Library</a>
+        </div>
+    </div>
+</body>
+</html>

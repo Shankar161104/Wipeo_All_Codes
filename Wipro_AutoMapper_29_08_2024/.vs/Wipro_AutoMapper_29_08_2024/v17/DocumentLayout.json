@@ -1,0 +1,276 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shankar\\source\\repos\\Wipro_AutoMapper_29_08_2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7D6662-52A6-4672-BED4-066DF18326E8}|Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024.csproj|c:\\users\\shankar\\source\\repos\\wipro_automapper_29_08_2024\\wipro_automapper_29_08_2024\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7D6662-52A6-4672-BED4-066DF18326E8}|Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024.csproj|solutionrelative:wipro_automapper_29_08_2024\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7D6662-52A6-4672-BED4-066DF18326E8}|Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024.csproj|c:\\users\\shankar\\source\\repos\\wipro_automapper_29_08_2024\\wipro_automapper_29_08_2024\\repository\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7D6662-52A6-4672-BED4-066DF18326E8}|Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024.csproj|solutionrelative:wipro_automapper_29_08_2024\\repository\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7D6662-52A6-4672-BED4-066DF18326E8}|Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024.csproj|c:\\users\\shankar\\source\\repos\\wipro_automapper_29_08_2024\\wipro_automapper_29_08_2024\\repository\\icountryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7D6662-52A6-4672-BED4-066DF18326E8}|Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024.csproj|solutionrelative:wipro_automapper_29_08_2024\\repository\\icountryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7D6662-52A6-4672-BED4-066DF18326E8}|Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024.csproj|c:\\users\\shankar\\source\\repos\\wipro_automapper_29_08_2024\\wipro_automapper_29_08_2024\\dto\\createcountrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7D6662-52A6-4672-BED4-066DF18326E8}|Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024.csproj|solutionrelative:wipro_automapper_29_08_2024\\dto\\createcountrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7D6662-52A6-4672-BED4-066DF18326E8}|Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024.csproj|c:\\users\\shankar\\source\\repos\\wipro_automapper_29_08_2024\\wipro_automapper_29_08_2024\\dto\\createstatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7D6662-52A6-4672-BED4-066DF18326E8}|Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024.csproj|solutionrelative:wipro_automapper_29_08_2024\\dto\\createstatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7D6662-52A6-4672-BED4-066DF18326E8}|Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024.csproj|c:\\users\\shankar\\source\\repos\\wipro_automapper_29_08_2024\\wipro_automapper_29_08_2024\\dto\\statedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7D6662-52A6-4672-BED4-066DF18326E8}|Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024.csproj|solutionrelative:wipro_automapper_29_08_2024\\dto\\statedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7D6662-52A6-4672-BED4-066DF18326E8}|Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024.csproj|c:\\users\\shankar\\source\\repos\\wipro_automapper_29_08_2024\\wipro_automapper_29_08_2024\\repository\\staterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7D6662-52A6-4672-BED4-066DF18326E8}|Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024.csproj|solutionrelative:wipro_automapper_29_08_2024\\repository\\staterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7D6662-52A6-4672-BED4-066DF18326E8}|Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024.csproj|c:\\users\\shankar\\source\\repos\\wipro_automapper_29_08_2024\\wipro_automapper_29_08_2024\\repository\\istaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7D6662-52A6-4672-BED4-066DF18326E8}|Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024.csproj|solutionrelative:wipro_automapper_29_08_2024\\repository\\istaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7D6662-52A6-4672-BED4-066DF18326E8}|Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024.csproj|c:\\users\\shankar\\source\\repos\\wipro_automapper_29_08_2024\\wipro_automapper_29_08_2024\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7D6662-52A6-4672-BED4-066DF18326E8}|Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024.csproj|solutionrelative:wipro_automapper_29_08_2024\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7D6662-52A6-4672-BED4-066DF18326E8}|Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024.csproj|c:\\users\\shankar\\source\\repos\\wipro_automapper_29_08_2024\\wipro_automapper_29_08_2024\\dto\\updatecountrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7D6662-52A6-4672-BED4-066DF18326E8}|Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024.csproj|solutionrelative:wipro_automapper_29_08_2024\\dto\\updatecountrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7D6662-52A6-4672-BED4-066DF18326E8}|Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024.csproj|c:\\users\\shankar\\source\\repos\\wipro_automapper_29_08_2024\\wipro_automapper_29_08_2024\\entityframework\\wiprodfa29082024context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7D6662-52A6-4672-BED4-066DF18326E8}|Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024.csproj|solutionrelative:wipro_automapper_29_08_2024\\entityframework\\wiprodfa29082024context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7D6662-52A6-4672-BED4-066DF18326E8}|Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024.csproj|c:\\users\\shankar\\source\\repos\\wipro_automapper_29_08_2024\\wipro_automapper_29_08_2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7D6662-52A6-4672-BED4-066DF18326E8}|Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024.csproj|solutionrelative:wipro_automapper_29_08_2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7D6662-52A6-4672-BED4-066DF18326E8}|Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024.csproj|c:\\users\\shankar\\source\\repos\\wipro_automapper_29_08_2024\\wipro_automapper_29_08_2024\\controllers\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7D6662-52A6-4672-BED4-066DF18326E8}|Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024.csproj|solutionrelative:wipro_automapper_29_08_2024\\controllers\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7D6662-52A6-4672-BED4-066DF18326E8}|Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024.csproj|c:\\users\\shankar\\source\\repos\\wipro_automapper_29_08_2024\\wipro_automapper_29_08_2024\\wipro_automapper_29_08_2024.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4E7D6662-52A6-4672-BED4-066DF18326E8}|Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024.csproj|solutionrelative:wipro_automapper_29_08_2024\\wipro_automapper_29_08_2024.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7D6662-52A6-4672-BED4-066DF18326E8}|Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024.csproj|c:\\users\\shankar\\source\\repos\\wipro_automapper_29_08_2024\\wipro_automapper_29_08_2024\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E7D6662-52A6-4672-BED4-066DF18326E8}|Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024.csproj|solutionrelative:wipro_automapper_29_08_2024\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024\\DTO\\StateDTO.cs",
+              "RelativeDocumentMoniker": "Wipro_AutoMapper_29_08_2024\\DTO\\StateDTO.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024\\DTO\\StateDTO.cs",
+              "RelativeToolTip": "Wipro_AutoMapper_29_08_2024\\DTO\\StateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:18:12.487Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WiproDfa29082024Context.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024\\EntityFrameWork\\WiproDfa29082024Context.cs",
+              "RelativeDocumentMoniker": "Wipro_AutoMapper_29_08_2024\\EntityFrameWork\\WiproDfa29082024Context.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024\\EntityFrameWork\\WiproDfa29082024Context.cs",
+              "RelativeToolTip": "Wipro_AutoMapper_29_08_2024\\EntityFrameWork\\WiproDfa29082024Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T10:28:15.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateStateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024\\DTO\\CreateStateDTO.cs",
+              "RelativeDocumentMoniker": "Wipro_AutoMapper_29_08_2024\\DTO\\CreateStateDTO.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024\\DTO\\CreateStateDTO.cs",
+              "RelativeToolTip": "Wipro_AutoMapper_29_08_2024\\DTO\\CreateStateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T10:16:16.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateCountryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024\\DTO\\UpdateCountryDTO.cs",
+              "RelativeDocumentMoniker": "Wipro_AutoMapper_29_08_2024\\DTO\\UpdateCountryDTO.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024\\DTO\\UpdateCountryDTO.cs",
+              "RelativeToolTip": "Wipro_AutoMapper_29_08_2024\\DTO\\UpdateCountryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T10:15:52.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024\\AutoMapper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Wipro_AutoMapper_29_08_2024\\AutoMapper\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024\\AutoMapper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Wipro_AutoMapper_29_08_2024\\AutoMapper\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T10:13:05.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateCountryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024\\DTO\\CreateCountryDTO.cs",
+              "RelativeDocumentMoniker": "Wipro_AutoMapper_29_08_2024\\DTO\\CreateCountryDTO.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024\\DTO\\CreateCountryDTO.cs",
+              "RelativeToolTip": "Wipro_AutoMapper_29_08_2024\\DTO\\CreateCountryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T10:00:25.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "Wipro_AutoMapper_29_08_2024\\Controllers\\CountryController.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "Wipro_AutoMapper_29_08_2024\\Controllers\\CountryController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAiwCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:15:40.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StateController.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024\\Controllers\\StateController.cs",
+              "RelativeDocumentMoniker": "Wipro_AutoMapper_29_08_2024\\Controllers\\StateController.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024\\Controllers\\StateController.cs",
+              "RelativeToolTip": "Wipro_AutoMapper_29_08_2024\\Controllers\\StateController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAA8wDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:15:18.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024\\Program.cs",
+              "RelativeDocumentMoniker": "Wipro_AutoMapper_29_08_2024\\Program.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024\\Program.cs",
+              "RelativeToolTip": "Wipro_AutoMapper_29_08_2024\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:59:00.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024\\appsettings.json",
+              "RelativeDocumentMoniker": "Wipro_AutoMapper_29_08_2024\\appsettings.json",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024\\appsettings.json",
+              "RelativeToolTip": "Wipro_AutoMapper_29_08_2024\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-29T08:55:34.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StateRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024\\Repository\\StateRepository.cs",
+              "RelativeDocumentMoniker": "Wipro_AutoMapper_29_08_2024\\Repository\\StateRepository.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024\\Repository\\StateRepository.cs",
+              "RelativeToolTip": "Wipro_AutoMapper_29_08_2024\\Repository\\StateRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:14:39.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IStateRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024\\Repository\\IStateRepository.cs",
+              "RelativeDocumentMoniker": "Wipro_AutoMapper_29_08_2024\\Repository\\IStateRepository.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024\\Repository\\IStateRepository.cs",
+              "RelativeToolTip": "Wipro_AutoMapper_29_08_2024\\Repository\\IStateRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:14:19.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CountryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024\\Repository\\CountryRepository.cs",
+              "RelativeDocumentMoniker": "Wipro_AutoMapper_29_08_2024\\Repository\\CountryRepository.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024\\Repository\\CountryRepository.cs",
+              "RelativeToolTip": "Wipro_AutoMapper_29_08_2024\\Repository\\CountryRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:13:49.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICountryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024\\Repository\\ICountryRepository.cs",
+              "RelativeDocumentMoniker": "Wipro_AutoMapper_29_08_2024\\Repository\\ICountryRepository.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024\\Repository\\ICountryRepository.cs",
+              "RelativeToolTip": "Wipro_AutoMapper_29_08_2024\\Repository\\ICountryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:13:30.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Wipro_AutoMapper_29_08_2024.csproj",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024.csproj",
+              "RelativeDocumentMoniker": "Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024.csproj",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024.csproj",
+              "RelativeToolTip": "Wipro_AutoMapper_29_08_2024\\Wipro_AutoMapper_29_08_2024.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-29T08:11:11.808Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

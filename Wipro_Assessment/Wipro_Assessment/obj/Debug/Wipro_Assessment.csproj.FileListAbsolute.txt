@@ -1,0 +1,10 @@
+C:\Users\shankar\source\repos\Wipro_Assessment\Wipro_Assessment\obj\Debug\Wipro_Assessment.csproj.AssemblyReference.cache
+C:\Users\shankar\source\repos\Wipro_Assessment\Wipro_Assessment\obj\Debug\Wipro_Assessment.csproj.CoreCompileInputs.cache
+C:\Users\shankar\source\repos\Wipro_Assessment\Wipro_Assessment\bin\Debug\Wipro_Assessment.exe.config
+C:\Users\shankar\source\repos\Wipro_Assessment\Wipro_Assessment\bin\Debug\Wipro_Assessment.exe
+C:\Users\shankar\source\repos\Wipro_Assessment\Wipro_Assessment\bin\Debug\Wipro_Assessment.pdb
+C:\Users\shankar\source\repos\Wipro_Assessment\Wipro_Assessment\obj\Debug\Wipro_Assessment.exe
+C:\Users\shankar\source\repos\Wipro_Assessment\Wipro_Assessment\obj\Debug\Wipro_Assessment.pdb
+C:\Users\shankar\source\repos\Wipro_Assessment\Wipro_Assessment\bin\Debug\Wipro_Assessment_dll.dll
+C:\Users\shankar\source\repos\Wipro_Assessment\Wipro_Assessment\bin\Debug\Wipro_Assessment_dll.pdb
+C:\Users\shankar\source\repos\Wipro_Assessment\Wipro_Assessment\obj\Debug\Wipro_As.9A54D715.Up2Date

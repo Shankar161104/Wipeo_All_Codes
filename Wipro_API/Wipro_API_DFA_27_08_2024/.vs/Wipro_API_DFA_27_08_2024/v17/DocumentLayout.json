@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shankar\\source\\repos\\Wipro_API_DFA_27_08_2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0BCF06F-BB95-45B5-8687-A1CD8ABB1E00}|Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024.csproj|c:\\users\\shankar\\source\\repos\\wipro_api_dfa_27_08_2024\\wipro_api_dfa_27_08_2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0BCF06F-BB95-45B5-8687-A1CD8ABB1E00}|Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024.csproj|solutionrelative:wipro_api_dfa_27_08_2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0BCF06F-BB95-45B5-8687-A1CD8ABB1E00}|Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024.csproj|c:\\users\\shankar\\source\\repos\\wipro_api_dfa_27_08_2024\\wipro_api_dfa_27_08_2024\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B0BCF06F-BB95-45B5-8687-A1CD8ABB1E00}|Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024.csproj|solutionrelative:wipro_api_dfa_27_08_2024\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0BCF06F-BB95-45B5-8687-A1CD8ABB1E00}|Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024.csproj|c:\\users\\shankar\\source\\repos\\wipro_api_dfa_27_08_2024\\wipro_api_dfa_27_08_2024\\repository\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0BCF06F-BB95-45B5-8687-A1CD8ABB1E00}|Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024.csproj|solutionrelative:wipro_api_dfa_27_08_2024\\repository\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0BCF06F-BB95-45B5-8687-A1CD8ABB1E00}|Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024.csproj|c:\\users\\shankar\\source\\repos\\wipro_api_dfa_27_08_2024\\wipro_api_dfa_27_08_2024\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0BCF06F-BB95-45B5-8687-A1CD8ABB1E00}|Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024.csproj|solutionrelative:wipro_api_dfa_27_08_2024\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0BCF06F-BB95-45B5-8687-A1CD8ABB1E00}|Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024.csproj|c:\\users\\shankar\\source\\repos\\wipro_api_dfa_27_08_2024\\wipro_api_dfa_27_08_2024\\models\\wiprodfa26082024context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0BCF06F-BB95-45B5-8687-A1CD8ABB1E00}|Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024.csproj|solutionrelative:wipro_api_dfa_27_08_2024\\models\\wiprodfa26082024context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0BCF06F-BB95-45B5-8687-A1CD8ABB1E00}|Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024.csproj|c:\\users\\shankar\\source\\repos\\wipro_api_dfa_27_08_2024\\wipro_api_dfa_27_08_2024\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0BCF06F-BB95-45B5-8687-A1CD8ABB1E00}|Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024.csproj|solutionrelative:wipro_api_dfa_27_08_2024\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0BCF06F-BB95-45B5-8687-A1CD8ABB1E00}|Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024.csproj|c:\\users\\shankar\\source\\repos\\wipro_api_dfa_27_08_2024\\wipro_api_dfa_27_08_2024\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0BCF06F-BB95-45B5-8687-A1CD8ABB1E00}|Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024.csproj|solutionrelative:wipro_api_dfa_27_08_2024\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0BCF06F-BB95-45B5-8687-A1CD8ABB1E00}|Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024.csproj|c:\\users\\shankar\\source\\repos\\wipro_api_dfa_27_08_2024\\wipro_api_dfa_27_08_2024\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0BCF06F-BB95-45B5-8687-A1CD8ABB1E00}|Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024.csproj|solutionrelative:wipro_api_dfa_27_08_2024\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0BCF06F-BB95-45B5-8687-A1CD8ABB1E00}|Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024.csproj|c:\\users\\shankar\\source\\repos\\wipro_api_dfa_27_08_2024\\wipro_api_dfa_27_08_2024\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0BCF06F-BB95-45B5-8687-A1CD8ABB1E00}|Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024.csproj|solutionrelative:wipro_api_dfa_27_08_2024\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0BCF06F-BB95-45B5-8687-A1CD8ABB1E00}|Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024.csproj|c:\\users\\shankar\\source\\repos\\wipro_api_dfa_27_08_2024\\wipro_api_dfa_27_08_2024\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0BCF06F-BB95-45B5-8687-A1CD8ABB1E00}|Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024.csproj|solutionrelative:wipro_api_dfa_27_08_2024\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0BCF06F-BB95-45B5-8687-A1CD8ABB1E00}|Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024.csproj|c:\\users\\shankar\\source\\repos\\wipro_api_dfa_27_08_2024\\wipro_api_dfa_27_08_2024\\wipro_api_dfa_27_08_2024.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B0BCF06F-BB95-45B5-8687-A1CD8ABB1E00}|Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024.csproj|solutionrelative:wipro_api_dfa_27_08_2024\\wipro_api_dfa_27_08_2024.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0BCF06F-BB95-45B5-8687-A1CD8ABB1E00}|Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024.csproj|c:\\users\\shankar\\source\\repos\\wipro_api_dfa_27_08_2024\\wipro_api_dfa_27_08_2024\\repository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0BCF06F-BB95-45B5-8687-A1CD8ABB1E00}|Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024.csproj|solutionrelative:wipro_api_dfa_27_08_2024\\repository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Wipro_API_DFA_27_08_2024\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024\\Models\\Order.cs",
+              "RelativeToolTip": "Wipro_API_DFA_27_08_2024\\Models\\Order.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvw0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:33:19.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Wipro_API_DFA_27_08_2024\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024\\Models\\Customer.cs",
+              "RelativeToolTip": "Wipro_API_DFA_27_08_2024\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:30:55.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024\\Program.cs",
+              "RelativeDocumentMoniker": "Wipro_API_DFA_27_08_2024\\Program.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024\\Program.cs",
+              "RelativeToolTip": "Wipro_API_DFA_27_08_2024\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:06:52.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024\\appsettings.json",
+              "RelativeDocumentMoniker": "Wipro_API_DFA_27_08_2024\\appsettings.json",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024\\appsettings.json",
+              "RelativeToolTip": "Wipro_API_DFA_27_08_2024\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-27T06:05:35.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Wipro_API_DFA_27_08_2024\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Wipro_API_DFA_27_08_2024\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAcwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T05:45:27.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Wipro_API_DFA_27_08_2024\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Wipro_API_DFA_27_08_2024\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T05:45:00.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024\\Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Wipro_API_DFA_27_08_2024\\Repository\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024\\Repository\\OrderRepository.cs",
+              "RelativeToolTip": "Wipro_API_DFA_27_08_2024\\Repository\\OrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T05:13:33.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024\\Repository\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Wipro_API_DFA_27_08_2024\\Repository\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024\\Repository\\IOrderRepository.cs",
+              "RelativeToolTip": "Wipro_API_DFA_27_08_2024\\Repository\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T05:13:19.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024\\Repository\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Wipro_API_DFA_27_08_2024\\Repository\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024\\Repository\\CustomerRepository.cs",
+              "RelativeToolTip": "Wipro_API_DFA_27_08_2024\\Repository\\CustomerRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T05:12:47.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024\\Repository\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Wipro_API_DFA_27_08_2024\\Repository\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024\\Repository\\ICustomerRepository.cs",
+              "RelativeToolTip": "Wipro_API_DFA_27_08_2024\\Repository\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T05:12:22.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Wipro_API_DFA_27_08_2024.csproj",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024.csproj",
+              "RelativeDocumentMoniker": "Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024.csproj",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024.csproj",
+              "RelativeToolTip": "Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-27T05:11:20.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WiproDfa26082024Context.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024\\Models\\WiproDfa26082024Context.cs",
+              "RelativeDocumentMoniker": "Wipro_API_DFA_27_08_2024\\Models\\WiproDfa26082024Context.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_API_DFA_27_08_2024\\Wipro_API_DFA_27_08_2024\\Models\\WiproDfa26082024Context.cs",
+              "RelativeToolTip": "Wipro_API_DFA_27_08_2024\\Models\\WiproDfa26082024Context.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAwAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T05:10:12.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

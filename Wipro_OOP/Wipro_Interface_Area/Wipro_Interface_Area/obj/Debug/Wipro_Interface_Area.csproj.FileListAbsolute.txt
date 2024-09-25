@@ -1,0 +1,7 @@
+C:\Users\shankar\source\repos\Wipro_Interface_Area\Wipro_Interface_Area\bin\Debug\Wipro_Interface_Area.exe.config
+C:\Users\shankar\source\repos\Wipro_Interface_Area\Wipro_Interface_Area\bin\Debug\Wipro_Interface_Area.exe
+C:\Users\shankar\source\repos\Wipro_Interface_Area\Wipro_Interface_Area\bin\Debug\Wipro_Interface_Area.pdb
+C:\Users\shankar\source\repos\Wipro_Interface_Area\Wipro_Interface_Area\obj\Debug\Wipro_Interface_Area.csproj.AssemblyReference.cache
+C:\Users\shankar\source\repos\Wipro_Interface_Area\Wipro_Interface_Area\obj\Debug\Wipro_Interface_Area.csproj.CoreCompileInputs.cache
+C:\Users\shankar\source\repos\Wipro_Interface_Area\Wipro_Interface_Area\obj\Debug\Wipro_Interface_Area.exe
+C:\Users\shankar\source\repos\Wipro_Interface_Area\Wipro_Interface_Area\obj\Debug\Wipro_Interface_Area.pdb

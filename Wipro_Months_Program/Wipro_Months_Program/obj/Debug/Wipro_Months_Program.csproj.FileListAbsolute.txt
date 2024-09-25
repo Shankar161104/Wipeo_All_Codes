@@ -1,0 +1,7 @@
+C:\Users\shankar\source\repos\Wipro_Months_Program\Wipro_Months_Program\bin\Debug\Wipro_Months_Program.exe.config
+C:\Users\shankar\source\repos\Wipro_Months_Program\Wipro_Months_Program\bin\Debug\Wipro_Months_Program.exe
+C:\Users\shankar\source\repos\Wipro_Months_Program\Wipro_Months_Program\bin\Debug\Wipro_Months_Program.pdb
+C:\Users\shankar\source\repos\Wipro_Months_Program\Wipro_Months_Program\obj\Debug\Wipro_Months_Program.csproj.AssemblyReference.cache
+C:\Users\shankar\source\repos\Wipro_Months_Program\Wipro_Months_Program\obj\Debug\Wipro_Months_Program.csproj.CoreCompileInputs.cache
+C:\Users\shankar\source\repos\Wipro_Months_Program\Wipro_Months_Program\obj\Debug\Wipro_Months_Program.exe
+C:\Users\shankar\source\repos\Wipro_Months_Program\Wipro_Months_Program\obj\Debug\Wipro_Months_Program.pdb

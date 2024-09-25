@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wipro_Areas", "Wipro_Areas\Wipro_Areas.csproj", "{DF1E84AE-423A-4D55-B696-001A3EADE9EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wipro_Areas_dll", "Wipro_Areas.dll\Wipro_Areas_dll.csproj", "{6956FCAB-14A8-466E-9D5C-5D98275D22B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF1E84AE-423A-4D55-B696-001A3EADE9EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF1E84AE-423A-4D55-B696-001A3EADE9EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF1E84AE-423A-4D55-B696-001A3EADE9EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF1E84AE-423A-4D55-B696-001A3EADE9EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6956FCAB-14A8-466E-9D5C-5D98275D22B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6956FCAB-14A8-466E-9D5C-5D98275D22B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6956FCAB-14A8-466E-9D5C-5D98275D22B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6956FCAB-14A8-466E-9D5C-5D98275D22B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28C63203-CAF3-4145-B321-2FE1190AC74E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shankar\\source\\repos\\Wipro_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB68B5D7-2237-4942-A3B7-0218FDDC7E43}|Wipro_MVC\\Wipro_MVC.csproj|c:\\users\\shankar\\source\\repos\\wipro_mvc\\wipro_mvc\\controllers\\wiprocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB68B5D7-2237-4942-A3B7-0218FDDC7E43}|Wipro_MVC\\Wipro_MVC.csproj|solutionrelative:wipro_mvc\\controllers\\wiprocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB68B5D7-2237-4942-A3B7-0218FDDC7E43}|Wipro_MVC\\Wipro_MVC.csproj|c:\\users\\shankar\\source\\repos\\wipro_mvc\\wipro_mvc\\views\\wipro\\arithmetic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB68B5D7-2237-4942-A3B7-0218FDDC7E43}|Wipro_MVC\\Wipro_MVC.csproj|solutionrelative:wipro_mvc\\views\\wipro\\arithmetic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB68B5D7-2237-4942-A3B7-0218FDDC7E43}|Wipro_MVC\\Wipro_MVC.csproj|c:\\users\\shankar\\source\\repos\\wipro_mvc\\wipro_mvc\\views\\wipro\\studentinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB68B5D7-2237-4942-A3B7-0218FDDC7E43}|Wipro_MVC\\Wipro_MVC.csproj|solutionrelative:wipro_mvc\\views\\wipro\\studentinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB68B5D7-2237-4942-A3B7-0218FDDC7E43}|Wipro_MVC\\Wipro_MVC.csproj|c:\\users\\shankar\\source\\repos\\wipro_mvc\\wipro_mvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB68B5D7-2237-4942-A3B7-0218FDDC7E43}|Wipro_MVC\\Wipro_MVC.csproj|solutionrelative:wipro_mvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB68B5D7-2237-4942-A3B7-0218FDDC7E43}|Wipro_MVC\\Wipro_MVC.csproj|c:\\users\\shankar\\source\\repos\\wipro_mvc\\wipro_mvc\\views\\wipro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB68B5D7-2237-4942-A3B7-0218FDDC7E43}|Wipro_MVC\\Wipro_MVC.csproj|solutionrelative:wipro_mvc\\views\\wipro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentInfo.cshtml",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_MVC\\Wipro_MVC\\Views\\Wipro\\StudentInfo.cshtml",
+              "RelativeDocumentMoniker": "Wipro_MVC\\Views\\Wipro\\StudentInfo.cshtml",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_MVC\\Wipro_MVC\\Views\\Wipro\\StudentInfo.cshtml",
+              "RelativeToolTip": "Wipro_MVC\\Views\\Wipro\\StudentInfo.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T11:42:49.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_MVC\\Wipro_MVC\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Wipro_MVC\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_MVC\\Wipro_MVC\\Models\\Student.cs",
+              "RelativeToolTip": "Wipro_MVC\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T11:34:10.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Arithmetic.cshtml",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_MVC\\Wipro_MVC\\Views\\Wipro\\Arithmetic.cshtml",
+              "RelativeDocumentMoniker": "Wipro_MVC\\Views\\Wipro\\Arithmetic.cshtml",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_MVC\\Wipro_MVC\\Views\\Wipro\\Arithmetic.cshtml",
+              "RelativeToolTip": "Wipro_MVC\\Views\\Wipro\\Arithmetic.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T10:58:46.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_MVC\\Wipro_MVC\\Views\\Wipro\\Index.cshtml",
+              "RelativeDocumentMoniker": "Wipro_MVC\\Views\\Wipro\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_MVC\\Wipro_MVC\\Views\\Wipro\\Index.cshtml",
+              "RelativeToolTip": "Wipro_MVC\\Views\\Wipro\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T10:35:09.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WiproController.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_MVC\\Wipro_MVC\\Controllers\\WiproController.cs",
+              "RelativeDocumentMoniker": "Wipro_MVC\\Controllers\\WiproController.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_MVC\\Wipro_MVC\\Controllers\\WiproController.cs",
+              "RelativeToolTip": "Wipro_MVC\\Controllers\\WiproController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T10:20:56.146Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

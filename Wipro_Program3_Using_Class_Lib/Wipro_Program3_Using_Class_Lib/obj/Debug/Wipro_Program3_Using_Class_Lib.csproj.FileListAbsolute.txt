@@ -1,0 +1,10 @@
+C:\Users\shankar\source\repos\Wipro_Program3_Using_Class_Lib\Wipro_Program3_Using_Class_Lib\bin\Debug\Wipro_Program3_Using_Class_Lib.exe.config
+C:\Users\shankar\source\repos\Wipro_Program3_Using_Class_Lib\Wipro_Program3_Using_Class_Lib\bin\Debug\Wipro_Program3_Using_Class_Lib.exe
+C:\Users\shankar\source\repos\Wipro_Program3_Using_Class_Lib\Wipro_Program3_Using_Class_Lib\bin\Debug\Wipro_Program3_Using_Class_Lib.pdb
+C:\Users\shankar\source\repos\Wipro_Program3_Using_Class_Lib\Wipro_Program3_Using_Class_Lib\bin\Debug\Wipro_ClassLib.dll.dll
+C:\Users\shankar\source\repos\Wipro_Program3_Using_Class_Lib\Wipro_Program3_Using_Class_Lib\bin\Debug\Wipro_ClassLib.dll.pdb
+C:\Users\shankar\source\repos\Wipro_Program3_Using_Class_Lib\Wipro_Program3_Using_Class_Lib\obj\Debug\Wipro_Program3_Using_Class_Lib.csproj.AssemblyReference.cache
+C:\Users\shankar\source\repos\Wipro_Program3_Using_Class_Lib\Wipro_Program3_Using_Class_Lib\obj\Debug\Wipro_Program3_Using_Class_Lib.csproj.CoreCompileInputs.cache
+C:\Users\shankar\source\repos\Wipro_Program3_Using_Class_Lib\Wipro_Program3_Using_Class_Lib\obj\Debug\Wipro_Pr.05CEA1AC.Up2Date
+C:\Users\shankar\source\repos\Wipro_Program3_Using_Class_Lib\Wipro_Program3_Using_Class_Lib\obj\Debug\Wipro_Program3_Using_Class_Lib.exe
+C:\Users\shankar\source\repos\Wipro_Program3_Using_Class_Lib\Wipro_Program3_Using_Class_Lib\obj\Debug\Wipro_Program3_Using_Class_Lib.pdb

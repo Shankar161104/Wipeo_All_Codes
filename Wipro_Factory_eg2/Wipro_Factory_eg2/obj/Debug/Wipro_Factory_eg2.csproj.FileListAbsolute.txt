@@ -1,0 +1,7 @@
+C:\Users\shankar\source\repos\Wipro_Factory_eg2\Wipro_Factory_eg2\bin\Debug\Wipro_Factory_eg2.exe.config
+C:\Users\shankar\source\repos\Wipro_Factory_eg2\Wipro_Factory_eg2\bin\Debug\Wipro_Factory_eg2.exe
+C:\Users\shankar\source\repos\Wipro_Factory_eg2\Wipro_Factory_eg2\bin\Debug\Wipro_Factory_eg2.pdb
+C:\Users\shankar\source\repos\Wipro_Factory_eg2\Wipro_Factory_eg2\obj\Debug\Wipro_Factory_eg2.csproj.AssemblyReference.cache
+C:\Users\shankar\source\repos\Wipro_Factory_eg2\Wipro_Factory_eg2\obj\Debug\Wipro_Factory_eg2.csproj.CoreCompileInputs.cache
+C:\Users\shankar\source\repos\Wipro_Factory_eg2\Wipro_Factory_eg2\obj\Debug\Wipro_Factory_eg2.exe
+C:\Users\shankar\source\repos\Wipro_Factory_eg2\Wipro_Factory_eg2\obj\Debug\Wipro_Factory_eg2.pdb

@@ -1,0 +1,7 @@
+C:\Users\shankar\source\repos\Wipro_prog2\Wipro_prog2\bin\Debug\Wipro_prog2.exe.config
+C:\Users\shankar\source\repos\Wipro_prog2\Wipro_prog2\bin\Debug\Wipro_prog2.exe
+C:\Users\shankar\source\repos\Wipro_prog2\Wipro_prog2\bin\Debug\Wipro_prog2.pdb
+C:\Users\shankar\source\repos\Wipro_prog2\Wipro_prog2\obj\Debug\Wipro_prog2.csproj.AssemblyReference.cache
+C:\Users\shankar\source\repos\Wipro_prog2\Wipro_prog2\obj\Debug\Wipro_prog2.csproj.CoreCompileInputs.cache
+C:\Users\shankar\source\repos\Wipro_prog2\Wipro_prog2\obj\Debug\Wipro_prog2.exe
+C:\Users\shankar\source\repos\Wipro_prog2\Wipro_prog2\obj\Debug\Wipro_prog2.pdb

@@ -1,0 +1,7 @@
+C:\Users\shankar\source\repos\Boxing_program\Boxing_program\bin\Debug\Boxing_program.exe.config
+C:\Users\shankar\source\repos\Boxing_program\Boxing_program\bin\Debug\Boxing_program.exe
+C:\Users\shankar\source\repos\Boxing_program\Boxing_program\bin\Debug\Boxing_program.pdb
+C:\Users\shankar\source\repos\Boxing_program\Boxing_program\obj\Debug\Boxing_program.csproj.AssemblyReference.cache
+C:\Users\shankar\source\repos\Boxing_program\Boxing_program\obj\Debug\Boxing_program.csproj.CoreCompileInputs.cache
+C:\Users\shankar\source\repos\Boxing_program\Boxing_program\obj\Debug\Boxing_program.exe
+C:\Users\shankar\source\repos\Boxing_program\Boxing_program\obj\Debug\Boxing_program.pdb

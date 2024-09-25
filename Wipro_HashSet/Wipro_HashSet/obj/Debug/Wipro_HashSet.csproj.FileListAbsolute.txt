@@ -1,0 +1,7 @@
+C:\Users\shankar\source\repos\Wipro_HashSet\Wipro_HashSet\bin\Debug\Wipro_HashSet.exe.config
+C:\Users\shankar\source\repos\Wipro_HashSet\Wipro_HashSet\bin\Debug\Wipro_HashSet.exe
+C:\Users\shankar\source\repos\Wipro_HashSet\Wipro_HashSet\bin\Debug\Wipro_HashSet.pdb
+C:\Users\shankar\source\repos\Wipro_HashSet\Wipro_HashSet\obj\Debug\Wipro_HashSet.csproj.AssemblyReference.cache
+C:\Users\shankar\source\repos\Wipro_HashSet\Wipro_HashSet\obj\Debug\Wipro_HashSet.csproj.CoreCompileInputs.cache
+C:\Users\shankar\source\repos\Wipro_HashSet\Wipro_HashSet\obj\Debug\Wipro_HashSet.exe
+C:\Users\shankar\source\repos\Wipro_HashSet\Wipro_HashSet\obj\Debug\Wipro_HashSet.pdb

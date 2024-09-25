@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shankar\\source\\repos\\Wipro_Practice_ClassLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E478D36-129A-4934-A8C2-E114133D74C2}|Wipro_Practice_ClassLibrary\\Wipro_Practice_ClassLibrary.csproj|C:\\Users\\shankar\\source\\repos\\Wipro_Practice_ClassLibrary\\wipro_practice_classlibrary\\abstractarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E478D36-129A-4934-A8C2-E114133D74C2}|Wipro_Practice_ClassLibrary\\Wipro_Practice_ClassLibrary.csproj|solutionrelative:wipro_practice_classlibrary\\abstractarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E478D36-129A-4934-A8C2-E114133D74C2}|Wipro_Practice_ClassLibrary\\Wipro_Practice_ClassLibrary.csproj|C:\\Users\\shankar\\source\\repos\\Wipro_Practice_ClassLibrary\\wipro_practice_classlibrary\\iconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E478D36-129A-4934-A8C2-E114133D74C2}|Wipro_Practice_ClassLibrary\\Wipro_Practice_ClassLibrary.csproj|solutionrelative:wipro_practice_classlibrary\\iconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E478D36-129A-4934-A8C2-E114133D74C2}|Wipro_Practice_ClassLibrary\\Wipro_Practice_ClassLibrary.csproj|C:\\Users\\shankar\\source\\repos\\Wipro_Practice_ClassLibrary\\wipro_practice_classlibrary\\abstractarithmetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E478D36-129A-4934-A8C2-E114133D74C2}|Wipro_Practice_ClassLibrary\\Wipro_Practice_ClassLibrary.csproj|solutionrelative:wipro_practice_classlibrary\\abstractarithmetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E478D36-129A-4934-A8C2-E114133D74C2}|Wipro_Practice_ClassLibrary\\Wipro_Practice_ClassLibrary.csproj|C:\\Users\\shankar\\source\\repos\\Wipro_Practice_ClassLibrary\\wipro_practice_classlibrary\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E478D36-129A-4934-A8C2-E114133D74C2}|Wipro_Practice_ClassLibrary\\Wipro_Practice_ClassLibrary.csproj|solutionrelative:wipro_practice_classlibrary\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E478D36-129A-4934-A8C2-E114133D74C2}|Wipro_Practice_ClassLibrary\\Wipro_Practice_ClassLibrary.csproj|c:\\users\\shankar\\source\\repos\\wipro_practice_classlibrary\\wipro_practice_classlibrary\\arithmetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E478D36-129A-4934-A8C2-E114133D74C2}|Wipro_Practice_ClassLibrary\\Wipro_Practice_ClassLibrary.csproj|solutionrelative:wipro_practice_classlibrary\\arithmetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E478D36-129A-4934-A8C2-E114133D74C2}|Wipro_Practice_ClassLibrary\\Wipro_Practice_ClassLibrary.csproj|C:\\Users\\shankar\\source\\repos\\Wipro_Practice_ClassLibrary\\wipro_practice_classlibrary\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E478D36-129A-4934-A8C2-E114133D74C2}|Wipro_Practice_ClassLibrary\\Wipro_Practice_ClassLibrary.csproj|solutionrelative:wipro_practice_classlibrary\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Arithmetic.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Practice_ClassLibrary\\Wipro_Practice_ClassLibrary\\Arithmetic.cs",
+              "RelativeDocumentMoniker": "Wipro_Practice_ClassLibrary\\Arithmetic.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Practice_ClassLibrary\\Wipro_Practice_ClassLibrary\\Arithmetic.cs",
+              "RelativeToolTip": "Wipro_Practice_ClassLibrary\\Arithmetic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T03:39:49.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AbstractArea.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Practice_ClassLibrary\\Wipro_Practice_ClassLibrary\\AbstractArea.cs",
+              "RelativeDocumentMoniker": "Wipro_Practice_ClassLibrary\\AbstractArea.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Practice_ClassLibrary\\Wipro_Practice_ClassLibrary\\AbstractArea.cs",
+              "RelativeToolTip": "Wipro_Practice_ClassLibrary\\AbstractArea.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T03:50:41.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Practice_ClassLibrary\\Wipro_Practice_ClassLibrary\\Connection.cs",
+              "RelativeDocumentMoniker": "Wipro_Practice_ClassLibrary\\Connection.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Practice_ClassLibrary\\Wipro_Practice_ClassLibrary\\Connection.cs",
+              "RelativeToolTip": "Wipro_Practice_ClassLibrary\\Connection.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T03:54:59.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IConnection.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Practice_ClassLibrary\\Wipro_Practice_ClassLibrary\\IConnection.cs",
+              "RelativeDocumentMoniker": "Wipro_Practice_ClassLibrary\\IConnection.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Practice_ClassLibrary\\Wipro_Practice_ClassLibrary\\IConnection.cs",
+              "RelativeToolTip": "Wipro_Practice_ClassLibrary\\IConnection.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvw4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T03:53:18.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Area.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Practice_ClassLibrary\\Wipro_Practice_ClassLibrary\\Area.cs",
+              "RelativeDocumentMoniker": "Wipro_Practice_ClassLibrary\\Area.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Practice_ClassLibrary\\Wipro_Practice_ClassLibrary\\Area.cs",
+              "RelativeToolTip": "Wipro_Practice_ClassLibrary\\Area.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T03:50:15.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AbstractArithmetic.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Practice_ClassLibrary\\Wipro_Practice_ClassLibrary\\AbstractArithmetic.cs",
+              "RelativeDocumentMoniker": "Wipro_Practice_ClassLibrary\\AbstractArithmetic.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Practice_ClassLibrary\\Wipro_Practice_ClassLibrary\\AbstractArithmetic.cs",
+              "RelativeToolTip": "Wipro_Practice_ClassLibrary\\AbstractArithmetic.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T03:43:30.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

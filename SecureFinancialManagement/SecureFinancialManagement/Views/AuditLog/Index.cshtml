@@ -1,0 +1,145 @@
+﻿@model IEnumerable<SecureFinancialManagement.Models.AuditLog>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-image: url('https://i.pinimg.com/564x/2a/2e/aa/2a2eaa859041fee70704328b9d91a795.jpg'); /* Background image URL */
+            background-size: cover;
+            background-position: center;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+            background-color: rgba(255, 255, 255, 0.8); /* Optional: Semi-transparent white background for readability */
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+
+        .table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 2rem;
+        }
+
+            .table th, .table td {
+                padding: 0.75rem;
+                text-align: left;
+                border-bottom: 1px solid #ddd;
+            }
+
+            .table th {
+                background-color: #f4f4f4;
+                color: #333;
+            }
+
+            .table tr:nth-child(even) {
+                background-color: #f9f9f9;
+            }
+
+            .table a {
+                display: inline-block;
+                padding: 0.5rem 1rem;
+                border-radius: 4px;
+                text-decoration: none;
+                color: #fff;
+                font-weight: bold;
+            }
+
+                .table a.edit {
+                    background-color: #007bff; /* Blue */
+                }
+
+                    .table a.edit:hover {
+                        background-color: #0056b3; /* Darker Blue */
+                    }
+
+                .table a.details {
+                    background-color: #28a745; /* Green */
+                }
+
+                    .table a.details:hover {
+                        background-color: #1e7e34; /* Darker Green */
+                    }
+
+                .table a.delete {
+                    background-color: #dc3545; /* Red */
+                }
+
+                    .table a.delete:hover {
+                        background-color: #c82333; /* Darker Red */
+                    }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>@ViewData["Title"]</h1>
+
+        <p>
+            <a asp-action="Create" class="btn btn-primary">Create New</a>
+        </p>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.AuditLogId)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Action)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Username)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.ActionDate)
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.AuditLogId)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Action)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Username)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ActionDate)
+                        </td>
+                        <td>
+                            @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }, new { @class = "btn edit" }) |
+                            @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }, new { @class = "btn details" }) |
+                            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ }, new { @class = "btn delete" })
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

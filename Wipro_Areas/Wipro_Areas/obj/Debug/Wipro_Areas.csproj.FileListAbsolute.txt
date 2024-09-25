@@ -1,0 +1,10 @@
+C:\Users\shankar\source\repos\Wipro_Areas\Wipro_Areas\obj\Debug\Wipro_Areas.csproj.AssemblyReference.cache
+C:\Users\shankar\source\repos\Wipro_Areas\Wipro_Areas\obj\Debug\Wipro_Areas.csproj.CoreCompileInputs.cache
+C:\Users\shankar\source\repos\Wipro_Areas\Wipro_Areas\bin\Debug\Wipro_Areas.exe.config
+C:\Users\shankar\source\repos\Wipro_Areas\Wipro_Areas\bin\Debug\Wipro_Areas.exe
+C:\Users\shankar\source\repos\Wipro_Areas\Wipro_Areas\bin\Debug\Wipro_Areas.pdb
+C:\Users\shankar\source\repos\Wipro_Areas\Wipro_Areas\bin\Debug\Wipro_Areas.dll.dll
+C:\Users\shankar\source\repos\Wipro_Areas\Wipro_Areas\bin\Debug\Wipro_Areas.dll.pdb
+C:\Users\shankar\source\repos\Wipro_Areas\Wipro_Areas\obj\Debug\Wipro_Ar.8C53D219.Up2Date
+C:\Users\shankar\source\repos\Wipro_Areas\Wipro_Areas\obj\Debug\Wipro_Areas.exe
+C:\Users\shankar\source\repos\Wipro_Areas\Wipro_Areas\obj\Debug\Wipro_Areas.pdb

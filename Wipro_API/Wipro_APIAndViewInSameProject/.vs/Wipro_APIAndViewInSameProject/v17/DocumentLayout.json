@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shankar\\source\\repos\\Wipro_APIAndViewInSameProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7CBB00-7E3E-4B80-8EE7-1CAFE9A16EB9}|Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject.csproj|c:\\users\\shankar\\source\\repos\\wipro_apiandviewinsameproject\\wipro_apiandviewinsameproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D7CBB00-7E3E-4B80-8EE7-1CAFE9A16EB9}|Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject.csproj|solutionrelative:wipro_apiandviewinsameproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7CBB00-7E3E-4B80-8EE7-1CAFE9A16EB9}|Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject.csproj|c:\\users\\shankar\\source\\repos\\wipro_apiandviewinsameproject\\wipro_apiandviewinsameproject\\apicontroller\\customerapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7CBB00-7E3E-4B80-8EE7-1CAFE9A16EB9}|Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject.csproj|solutionrelative:wipro_apiandviewinsameproject\\apicontroller\\customerapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7CBB00-7E3E-4B80-8EE7-1CAFE9A16EB9}|Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject.csproj|c:\\users\\shankar\\source\\repos\\wipro_apiandviewinsameproject\\wipro_apiandviewinsameproject\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7CBB00-7E3E-4B80-8EE7-1CAFE9A16EB9}|Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject.csproj|solutionrelative:wipro_apiandviewinsameproject\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7CBB00-7E3E-4B80-8EE7-1CAFE9A16EB9}|Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject.csproj|c:\\users\\shankar\\source\\repos\\wipro_apiandviewinsameproject\\wipro_apiandviewinsameproject\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D7CBB00-7E3E-4B80-8EE7-1CAFE9A16EB9}|Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject.csproj|solutionrelative:wipro_apiandviewinsameproject\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7CBB00-7E3E-4B80-8EE7-1CAFE9A16EB9}|Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject.csproj|c:\\users\\shankar\\source\\repos\\wipro_apiandviewinsameproject\\wipro_apiandviewinsameproject\\migrations\\20240903060205_phase1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7CBB00-7E3E-4B80-8EE7-1CAFE9A16EB9}|Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject.csproj|solutionrelative:wipro_apiandviewinsameproject\\migrations\\20240903060205_phase1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7CBB00-7E3E-4B80-8EE7-1CAFE9A16EB9}|Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject.csproj|c:\\users\\shankar\\source\\repos\\wipro_apiandviewinsameproject\\wipro_apiandviewinsameproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7CBB00-7E3E-4B80-8EE7-1CAFE9A16EB9}|Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject.csproj|solutionrelative:wipro_apiandviewinsameproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7CBB00-7E3E-4B80-8EE7-1CAFE9A16EB9}|Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject.csproj|c:\\users\\shankar\\source\\repos\\wipro_apiandviewinsameproject\\wipro_apiandviewinsameproject\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D7CBB00-7E3E-4B80-8EE7-1CAFE9A16EB9}|Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject.csproj|solutionrelative:wipro_apiandviewinsameproject\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7CBB00-7E3E-4B80-8EE7-1CAFE9A16EB9}|Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject.csproj|c:\\users\\shankar\\source\\repos\\wipro_apiandviewinsameproject\\wipro_apiandviewinsameproject\\repository\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7CBB00-7E3E-4B80-8EE7-1CAFE9A16EB9}|Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject.csproj|solutionrelative:wipro_apiandviewinsameproject\\repository\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7CBB00-7E3E-4B80-8EE7-1CAFE9A16EB9}|Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject.csproj|c:\\users\\shankar\\source\\repos\\wipro_apiandviewinsameproject\\wipro_apiandviewinsameproject\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7CBB00-7E3E-4B80-8EE7-1CAFE9A16EB9}|Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject.csproj|solutionrelative:wipro_apiandviewinsameproject\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7CBB00-7E3E-4B80-8EE7-1CAFE9A16EB9}|Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject.csproj|c:\\users\\shankar\\source\\repos\\wipro_apiandviewinsameproject\\wipro_apiandviewinsameproject\\entityframework\\customerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7CBB00-7E3E-4B80-8EE7-1CAFE9A16EB9}|Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject.csproj|solutionrelative:wipro_apiandviewinsameproject\\entityframework\\customerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7CBB00-7E3E-4B80-8EE7-1CAFE9A16EB9}|Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject.csproj|c:\\users\\shankar\\source\\repos\\wipro_apiandviewinsameproject\\wipro_apiandviewinsameproject\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D7CBB00-7E3E-4B80-8EE7-1CAFE9A16EB9}|Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject.csproj|solutionrelative:wipro_apiandviewinsameproject\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7CBB00-7E3E-4B80-8EE7-1CAFE9A16EB9}|Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject.csproj|c:\\users\\shankar\\source\\repos\\wipro_apiandviewinsameproject\\wipro_apiandviewinsameproject\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D7CBB00-7E3E-4B80-8EE7-1CAFE9A16EB9}|Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject.csproj|solutionrelative:wipro_apiandviewinsameproject\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7CBB00-7E3E-4B80-8EE7-1CAFE9A16EB9}|Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject.csproj|c:\\users\\shankar\\source\\repos\\wipro_apiandviewinsameproject\\wipro_apiandviewinsameproject\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7CBB00-7E3E-4B80-8EE7-1CAFE9A16EB9}|Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject.csproj|solutionrelative:wipro_apiandviewinsameproject\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7CBB00-7E3E-4B80-8EE7-1CAFE9A16EB9}|Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject.csproj|c:\\users\\shankar\\source\\repos\\wipro_apiandviewinsameproject\\wipro_apiandviewinsameproject\\wipro_apiandviewinsameproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2D7CBB00-7E3E-4B80-8EE7-1CAFE9A16EB9}|Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject.csproj|solutionrelative:wipro_apiandviewinsameproject\\wipro_apiandviewinsameproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "Wipro_APIAndViewInSameProject\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "Wipro_APIAndViewInSameProject\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAIwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T07:05:37.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject\\APIController\\CustomerAPIController.cs",
+              "RelativeDocumentMoniker": "Wipro_APIAndViewInSameProject\\APIController\\CustomerAPIController.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject\\APIController\\CustomerAPIController.cs",
+              "RelativeToolTip": "Wipro_APIAndViewInSameProject\\APIController\\CustomerAPIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T06:10:27.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject\\Views\\Customer\\Create.cshtml",
+              "RelativeDocumentMoniker": "Wipro_APIAndViewInSameProject\\Views\\Customer\\Create.cshtml",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject\\Views\\Customer\\Create.cshtml",
+              "RelativeToolTip": "Wipro_APIAndViewInSameProject\\Views\\Customer\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T08:03:18.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240903060205_Phase1.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject\\Migrations\\20240903060205_Phase1.cs",
+              "RelativeDocumentMoniker": "Wipro_APIAndViewInSameProject\\Migrations\\20240903060205_Phase1.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject\\Migrations\\20240903060205_Phase1.cs",
+              "RelativeToolTip": "Wipro_APIAndViewInSameProject\\Migrations\\20240903060205_Phase1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T06:02:07.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject\\Program.cs",
+              "RelativeDocumentMoniker": "Wipro_APIAndViewInSameProject\\Program.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject\\Program.cs",
+              "RelativeToolTip": "Wipro_APIAndViewInSameProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T05:58:36.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject\\appsettings.json",
+              "RelativeDocumentMoniker": "Wipro_APIAndViewInSameProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject\\appsettings.json",
+              "RelativeToolTip": "Wipro_APIAndViewInSameProject\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-03T05:44:01.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Wipro_APIAndViewInSameProject\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Wipro_APIAndViewInSameProject\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAuwKUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T05:12:01.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject\\Views\\Customer\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Wipro_APIAndViewInSameProject\\Views\\Customer\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject\\Views\\Customer\\Edit.cshtml",
+              "RelativeToolTip": "Wipro_APIAndViewInSameProject\\Views\\Customer\\Edit.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAIwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T09:30:33.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject\\Views\\Customer\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Wipro_APIAndViewInSameProject\\Views\\Customer\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject\\Views\\Customer\\Delete.cshtml",
+              "RelativeToolTip": "Wipro_APIAndViewInSameProject\\Views\\Customer\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T09:46:13.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject\\EntityFrameWork\\CustomerDbContext.cs",
+              "RelativeDocumentMoniker": "Wipro_APIAndViewInSameProject\\EntityFrameWork\\CustomerDbContext.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject\\EntityFrameWork\\CustomerDbContext.cs",
+              "RelativeToolTip": "Wipro_APIAndViewInSameProject\\EntityFrameWork\\CustomerDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T04:59:13.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject\\Repository\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Wipro_APIAndViewInSameProject\\Repository\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject\\Repository\\CustomerRepository.cs",
+              "RelativeToolTip": "Wipro_APIAndViewInSameProject\\Repository\\CustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T04:50:53.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject\\Repository\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Wipro_APIAndViewInSameProject\\Repository\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject\\Repository\\ICustomerRepository.cs",
+              "RelativeToolTip": "Wipro_APIAndViewInSameProject\\Repository\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T04:50:31.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Wipro_APIAndViewInSameProject.csproj",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject.csproj",
+              "RelativeDocumentMoniker": "Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject.csproj",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject.csproj",
+              "RelativeToolTip": "Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-03T04:49:53.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Wipro_APIAndViewInSameProject\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_APIAndViewInSameProject\\Wipro_APIAndViewInSameProject\\Models\\Customer.cs",
+              "RelativeToolTip": "Wipro_APIAndViewInSameProject\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T04:49:15.893Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

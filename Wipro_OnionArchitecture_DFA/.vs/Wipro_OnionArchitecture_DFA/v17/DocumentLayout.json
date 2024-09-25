@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shankar\\source\\repos\\Wipro_OnionArchitecture_DFA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC69E95-4EEC-45FB-924F-A3E337204CA3}|DAL\\DAL.csproj|c:\\users\\shankar\\source\\repos\\wipro_onionarchitecture_dfa\\dal\\entityframework\\wiproonionarchitecturedfacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC69E95-4EEC-45FB-924F-A3E337204CA3}|DAL\\DAL.csproj|solutionrelative:dal\\entityframework\\wiproonionarchitecturedfacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DE3F381-E141-4127-B003-3063952FAC0A}|Domain\\Domain.csproj|c:\\users\\shankar\\source\\repos\\wipro_onionarchitecture_dfa\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5DE3F381-E141-4127-B003-3063952FAC0A}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC69E95-4EEC-45FB-924F-A3E337204CA3}|DAL\\DAL.csproj|c:\\users\\shankar\\source\\repos\\wipro_onionarchitecture_dfa\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AAC69E95-4EEC-45FB-924F-A3E337204CA3}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Domain",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_OnionArchitecture_DFA\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_OnionArchitecture_DFA\\Domain\\Domain.csproj*",
+              "RelativeToolTip": "Domain\\Domain.csproj*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-29T04:52:42.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WiproOnionArchitectureDfaContext.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_OnionArchitecture_DFA\\DAL\\EntityFrameWork\\WiproOnionArchitectureDfaContext.cs",
+              "RelativeDocumentMoniker": "DAL\\EntityFrameWork\\WiproOnionArchitectureDfaContext.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_OnionArchitecture_DFA\\DAL\\EntityFrameWork\\WiproOnionArchitectureDfaContext.cs*",
+              "RelativeToolTip": "DAL\\EntityFrameWork\\WiproOnionArchitectureDfaContext.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T04:46:59.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DAL",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_OnionArchitecture_DFA\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_OnionArchitecture_DFA\\DAL\\DAL.csproj*",
+              "RelativeToolTip": "DAL\\DAL.csproj*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-29T04:36:25.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

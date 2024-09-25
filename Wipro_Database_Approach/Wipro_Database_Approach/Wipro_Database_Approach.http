@@ -1,0 +1,6 @@
+@Wipro_Database_Approach_HostAddress = http://localhost:5153
+
+GET {{Wipro_Database_Approach_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

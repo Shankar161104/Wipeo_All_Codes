@@ -1,0 +1,7 @@
+C:\Users\shankar\source\repos\Wipro_While_evenorodd\Wipro_While_evenorodd\bin\Debug\Wipro_While_evenorodd.exe.config
+C:\Users\shankar\source\repos\Wipro_While_evenorodd\Wipro_While_evenorodd\bin\Debug\Wipro_While_evenorodd.exe
+C:\Users\shankar\source\repos\Wipro_While_evenorodd\Wipro_While_evenorodd\bin\Debug\Wipro_While_evenorodd.pdb
+C:\Users\shankar\source\repos\Wipro_While_evenorodd\Wipro_While_evenorodd\obj\Debug\Wipro_While_evenorodd.csproj.AssemblyReference.cache
+C:\Users\shankar\source\repos\Wipro_While_evenorodd\Wipro_While_evenorodd\obj\Debug\Wipro_While_evenorodd.csproj.CoreCompileInputs.cache
+C:\Users\shankar\source\repos\Wipro_While_evenorodd\Wipro_While_evenorodd\obj\Debug\Wipro_While_evenorodd.exe
+C:\Users\shankar\source\repos\Wipro_While_evenorodd\Wipro_While_evenorodd\obj\Debug\Wipro_While_evenorodd.pdb

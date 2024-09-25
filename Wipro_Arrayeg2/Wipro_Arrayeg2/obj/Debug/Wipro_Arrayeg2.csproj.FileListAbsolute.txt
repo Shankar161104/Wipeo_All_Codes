@@ -1,0 +1,7 @@
+C:\Users\shankar\source\repos\Wipro_Arrayeg2\Wipro_Arrayeg2\bin\Debug\Wipro_Arrayeg2.exe.config
+C:\Users\shankar\source\repos\Wipro_Arrayeg2\Wipro_Arrayeg2\bin\Debug\Wipro_Arrayeg2.exe
+C:\Users\shankar\source\repos\Wipro_Arrayeg2\Wipro_Arrayeg2\bin\Debug\Wipro_Arrayeg2.pdb
+C:\Users\shankar\source\repos\Wipro_Arrayeg2\Wipro_Arrayeg2\obj\Debug\Wipro_Arrayeg2.csproj.AssemblyReference.cache
+C:\Users\shankar\source\repos\Wipro_Arrayeg2\Wipro_Arrayeg2\obj\Debug\Wipro_Arrayeg2.csproj.CoreCompileInputs.cache
+C:\Users\shankar\source\repos\Wipro_Arrayeg2\Wipro_Arrayeg2\obj\Debug\Wipro_Arrayeg2.exe
+C:\Users\shankar\source\repos\Wipro_Arrayeg2\Wipro_Arrayeg2\obj\Debug\Wipro_Arrayeg2.pdb

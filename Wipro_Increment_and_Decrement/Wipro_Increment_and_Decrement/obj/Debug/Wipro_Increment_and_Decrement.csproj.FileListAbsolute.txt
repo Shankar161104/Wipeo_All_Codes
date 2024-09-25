@@ -1,0 +1,7 @@
+C:\Users\shankar\source\repos\Wipro_Increment_and_Decrement\Wipro_Increment_and_Decrement\bin\Debug\Wipro_Increment_and_Decrement.exe.config
+C:\Users\shankar\source\repos\Wipro_Increment_and_Decrement\Wipro_Increment_and_Decrement\bin\Debug\Wipro_Increment_and_Decrement.exe
+C:\Users\shankar\source\repos\Wipro_Increment_and_Decrement\Wipro_Increment_and_Decrement\bin\Debug\Wipro_Increment_and_Decrement.pdb
+C:\Users\shankar\source\repos\Wipro_Increment_and_Decrement\Wipro_Increment_and_Decrement\obj\Debug\Wipro_Increment_and_Decrement.csproj.AssemblyReference.cache
+C:\Users\shankar\source\repos\Wipro_Increment_and_Decrement\Wipro_Increment_and_Decrement\obj\Debug\Wipro_Increment_and_Decrement.csproj.CoreCompileInputs.cache
+C:\Users\shankar\source\repos\Wipro_Increment_and_Decrement\Wipro_Increment_and_Decrement\obj\Debug\Wipro_Increment_and_Decrement.exe
+C:\Users\shankar\source\repos\Wipro_Increment_and_Decrement\Wipro_Increment_and_Decrement\obj\Debug\Wipro_Increment_and_Decrement.pdb

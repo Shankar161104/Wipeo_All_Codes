@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shankar\\source\\repos\\Wipro_While_evenorodd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2341117-2A94-438B-9D75-5B8D9B5B93B3}|Wipro_While_evenorodd\\Wipro_While_evenorodd.csproj|c:\\users\\shankar\\source\\repos\\wipro_while_evenorodd\\wipro_while_evenorodd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2341117-2A94-438B-9D75-5B8D9B5B93B3}|Wipro_While_evenorodd\\Wipro_While_evenorodd.csproj|solutionrelative:wipro_while_evenorodd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_While_evenorodd\\Wipro_While_evenorodd\\Program.cs",
+              "RelativeDocumentMoniker": "Wipro_While_evenorodd\\Program.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_While_evenorodd\\Wipro_While_evenorodd\\Program.cs",
+              "RelativeToolTip": "Wipro_While_evenorodd\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T04:18:45.29Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

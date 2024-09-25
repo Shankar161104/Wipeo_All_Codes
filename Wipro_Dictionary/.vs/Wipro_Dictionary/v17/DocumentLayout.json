@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shankar\\source\\repos\\Wipro_Dictionary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{205F633E-263A-4A96-950D-4912321E2036}|Wipro_Dictionary\\Wipro_Dictionary.csproj|c:\\users\\shankar\\source\\repos\\wipro_dictionary\\wipro_dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{205F633E-263A-4A96-950D-4912321E2036}|Wipro_Dictionary\\Wipro_Dictionary.csproj|solutionrelative:wipro_dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Dictionary\\Wipro_Dictionary\\Program.cs",
+              "RelativeDocumentMoniker": "Wipro_Dictionary\\Program.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Dictionary\\Wipro_Dictionary\\Program.cs",
+              "RelativeToolTip": "Wipro_Dictionary\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T04:15:43.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

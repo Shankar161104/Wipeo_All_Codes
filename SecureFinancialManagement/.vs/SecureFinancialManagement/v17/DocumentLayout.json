@@ -1,0 +1,617 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|c:\\users\\shankar\\source\\repos\\securefinancialmanagement\\securefinancialmanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|solutionrelative:securefinancialmanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|c:\\users\\shankar\\source\\repos\\securefinancialmanagement\\securefinancialmanagement\\views\\home\\openingpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|solutionrelative:securefinancialmanagement\\views\\home\\openingpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|c:\\users\\shankar\\source\\repos\\securefinancialmanagement\\securefinancialmanagement\\views\\home\\accountsummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|solutionrelative:securefinancialmanagement\\views\\home\\accountsummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|c:\\users\\shankar\\source\\repos\\securefinancialmanagement\\securefinancialmanagement\\viewmodel\\accountsummaryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|solutionrelative:securefinancialmanagement\\viewmodel\\accountsummaryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|c:\\users\\shankar\\source\\repos\\securefinancialmanagement\\securefinancialmanagement\\viewmodel\\accountsummaryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|solutionrelative:securefinancialmanagement\\viewmodel\\accountsummaryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|c:\\users\\shankar\\source\\repos\\securefinancialmanagement\\securefinancialmanagement\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|solutionrelative:securefinancialmanagement\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|c:\\users\\shankar\\source\\repos\\securefinancialmanagement\\securefinancialmanagement\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|solutionrelative:securefinancialmanagement\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|c:\\users\\shankar\\source\\repos\\securefinancialmanagement\\securefinancialmanagement\\repository\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|solutionrelative:securefinancialmanagement\\repository\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|c:\\users\\shankar\\source\\repos\\securefinancialmanagement\\securefinancialmanagement\\repository\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|solutionrelative:securefinancialmanagement\\repository\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|c:\\users\\shankar\\source\\repos\\securefinancialmanagement\\securefinancialmanagement\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|solutionrelative:securefinancialmanagement\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|c:\\users\\shankar\\source\\repos\\securefinancialmanagement\\securefinancialmanagement\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|solutionrelative:securefinancialmanagement\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|c:\\users\\shankar\\source\\repos\\securefinancialmanagement\\securefinancialmanagement\\repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|solutionrelative:securefinancialmanagement\\repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|c:\\users\\shankar\\source\\repos\\securefinancialmanagement\\securefinancialmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|solutionrelative:securefinancialmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|c:\\users\\shankar\\source\\repos\\securefinancialmanagement\\securefinancialmanagement\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|solutionrelative:securefinancialmanagement\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|c:\\users\\shankar\\source\\repos\\securefinancialmanagement\\securefinancialmanagement\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|solutionrelative:securefinancialmanagement\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|c:\\users\\shankar\\source\\repos\\securefinancialmanagement\\securefinancialmanagement\\controllers\\auditlogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|solutionrelative:securefinancialmanagement\\controllers\\auditlogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|c:\\users\\shankar\\source\\repos\\securefinancialmanagement\\securefinancialmanagement\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|solutionrelative:securefinancialmanagement\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|c:\\users\\shankar\\source\\repos\\securefinancialmanagement\\securefinancialmanagement\\views\\auditlog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|solutionrelative:securefinancialmanagement\\views\\auditlog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|c:\\users\\shankar\\source\\repos\\securefinancialmanagement\\securefinancialmanagement\\views\\auditlog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|solutionrelative:securefinancialmanagement\\views\\auditlog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|c:\\users\\shankar\\source\\repos\\securefinancialmanagement\\securefinancialmanagement\\repository\\auditlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|solutionrelative:securefinancialmanagement\\repository\\auditlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|c:\\users\\shankar\\source\\repos\\securefinancialmanagement\\securefinancialmanagement\\entityframework\\financialdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|solutionrelative:securefinancialmanagement\\entityframework\\financialdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|c:\\users\\shankar\\source\\repos\\securefinancialmanagement\\securefinancialmanagement\\models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|solutionrelative:securefinancialmanagement\\models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|c:\\users\\shankar\\source\\repos\\securefinancialmanagement\\securefinancialmanagement\\repository\\iauditlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|solutionrelative:securefinancialmanagement\\repository\\iauditlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|c:\\users\\shankar\\source\\repos\\securefinancialmanagement\\securefinancialmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|solutionrelative:securefinancialmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|c:\\users\\shankar\\source\\repos\\securefinancialmanagement\\securefinancialmanagement\\views\\transaction\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|solutionrelative:securefinancialmanagement\\views\\transaction\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|c:\\users\\shankar\\source\\repos\\securefinancialmanagement\\securefinancialmanagement\\repository\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|solutionrelative:securefinancialmanagement\\repository\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|c:\\users\\shankar\\source\\repos\\securefinancialmanagement\\securefinancialmanagement\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|solutionrelative:securefinancialmanagement\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|c:\\users\\shankar\\source\\repos\\securefinancialmanagement\\securefinancialmanagement\\repository\\iuseraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|solutionrelative:securefinancialmanagement\\repository\\iuseraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|c:\\users\\shankar\\source\\repos\\securefinancialmanagement\\securefinancialmanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|solutionrelative:securefinancialmanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|c:\\users\\shankar\\source\\repos\\securefinancialmanagement\\securefinancialmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|solutionrelative:securefinancialmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|c:\\users\\shankar\\source\\repos\\securefinancialmanagement\\securefinancialmanagement\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|solutionrelative:securefinancialmanagement\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|c:\\users\\shankar\\source\\repos\\securefinancialmanagement\\securefinancialmanagement\\repository\\useraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|solutionrelative:securefinancialmanagement\\repository\\useraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|c:\\users\\shankar\\source\\repos\\securefinancialmanagement\\securefinancialmanagement\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|solutionrelative:securefinancialmanagement\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|c:\\users\\shankar\\source\\repos\\securefinancialmanagement\\securefinancialmanagement\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|solutionrelative:securefinancialmanagement\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|c:\\users\\shankar\\source\\repos\\securefinancialmanagement\\securefinancialmanagement\\securefinancialmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|solutionrelative:securefinancialmanagement\\securefinancialmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|c:\\users\\shankar\\source\\repos\\securefinancialmanagement\\securefinancialmanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|solutionrelative:securefinancialmanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|c:\\users\\shankar\\source\\repos\\securefinancialmanagement\\securefinancialmanagement\\migrations\\20240912123832_finance1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9134D6-4443-474F-A0C3-7E1A28F0A4A9}|SecureFinancialManagement\\SecureFinancialManagement.csproj|solutionrelative:securefinancialmanagement\\migrations\\20240912123832_finance1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SecureFinancialManagement\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SecureFinancialManagement\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:46:09.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "SecureFinancialManagement\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Models\\Transaction.cs",
+              "RelativeToolTip": "SecureFinancialManagement\\Models\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T11:20:45.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "SecureFinancialManagement\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Models\\Account.cs",
+              "RelativeToolTip": "SecureFinancialManagement\\Models\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T11:19:31.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Repository\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "SecureFinancialManagement\\Repository\\IAccountRepository.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Repository\\IAccountRepository.cs",
+              "RelativeToolTip": "SecureFinancialManagement\\Repository\\IAccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:03:35.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Repository\\ITransactionRepository.cs",
+              "RelativeDocumentMoniker": "SecureFinancialManagement\\Repository\\ITransactionRepository.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Repository\\ITransactionRepository.cs",
+              "RelativeToolTip": "SecureFinancialManagement\\Repository\\ITransactionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:08:45.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OpeningPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Views\\Home\\OpeningPage.cshtml",
+              "RelativeDocumentMoniker": "SecureFinancialManagement\\Views\\Home\\OpeningPage.cshtml",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Views\\Home\\OpeningPage.cshtml",
+              "RelativeToolTip": "SecureFinancialManagement\\Views\\Home\\OpeningPage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T13:36:28.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountSummaryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\ViewModel\\AccountSummaryViewModel.cs",
+              "RelativeDocumentMoniker": "SecureFinancialManagement\\ViewModel\\AccountSummaryViewModel.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\ViewModel\\AccountSummaryViewModel.cs",
+              "RelativeToolTip": "SecureFinancialManagement\\ViewModel\\AccountSummaryViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T04:46:44.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountSummary.cshtml",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Views\\Home\\AccountSummary.cshtml",
+              "RelativeDocumentMoniker": "SecureFinancialManagement\\Views\\Home\\AccountSummary.cshtml",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Views\\Home\\AccountSummary.cshtml",
+              "RelativeToolTip": "SecureFinancialManagement\\Views\\Home\\AccountSummary.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T05:08:16.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountSummaryItem.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\ViewModel\\AccountSummaryItem.cs",
+              "RelativeDocumentMoniker": "SecureFinancialManagement\\ViewModel\\AccountSummaryItem.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\ViewModel\\AccountSummaryItem.cs",
+              "RelativeToolTip": "SecureFinancialManagement\\ViewModel\\AccountSummaryItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T05:01:24.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "SecureFinancialManagement\\Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "SecureFinancialManagement\\Controllers\\TransactionController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAkwF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:44:51.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "SecureFinancialManagement\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "SecureFinancialManagement\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAwwCwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:43:57.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Repository\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "SecureFinancialManagement\\Repository\\AccountRepository.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Repository\\AccountRepository.cs",
+              "RelativeToolTip": "SecureFinancialManagement\\Repository\\AccountRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAkwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:11:33.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Views\\AuditLog\\Create.cshtml",
+              "RelativeDocumentMoniker": "SecureFinancialManagement\\Views\\AuditLog\\Create.cshtml",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Views\\AuditLog\\Create.cshtml",
+              "RelativeToolTip": "SecureFinancialManagement\\Views\\AuditLog\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T17:15:01.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "SecureFinancialManagement\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "SecureFinancialManagement\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwBUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T12:55:16.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SecureFinancialManagement\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SecureFinancialManagement\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T04:30:11.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Views\\AuditLog\\Index.cshtml",
+              "RelativeDocumentMoniker": "SecureFinancialManagement\\Views\\AuditLog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Views\\AuditLog\\Index.cshtml",
+              "RelativeToolTip": "SecureFinancialManagement\\Views\\AuditLog\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T17:01:33.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "SecureFinancialManagement\\Views\\Account\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "SecureFinancialManagement\\Views\\Account\\Index.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T04:02:51.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Views\\Account\\Create.cshtml",
+              "RelativeDocumentMoniker": "SecureFinancialManagement\\Views\\Account\\Create.cshtml",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Views\\Account\\Create.cshtml",
+              "RelativeToolTip": "SecureFinancialManagement\\Views\\Account\\Create.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAEoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T04:04:03.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuditLogController.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Controllers\\AuditLogController.cs",
+              "RelativeDocumentMoniker": "SecureFinancialManagement\\Controllers\\AuditLogController.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Controllers\\AuditLogController.cs",
+              "RelativeToolTip": "SecureFinancialManagement\\Controllers\\AuditLogController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA3wFAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:45:13.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuditLogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Repository\\AuditLogRepository.cs",
+              "RelativeDocumentMoniker": "SecureFinancialManagement\\Repository\\AuditLogRepository.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Repository\\AuditLogRepository.cs",
+              "RelativeToolTip": "SecureFinancialManagement\\Repository\\AuditLogRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:14:15.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FinancialDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\EntityFrameWork\\FinancialDbContext.cs",
+              "RelativeDocumentMoniker": "SecureFinancialManagement\\EntityFrameWork\\FinancialDbContext.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\EntityFrameWork\\FinancialDbContext.cs",
+              "RelativeToolTip": "SecureFinancialManagement\\EntityFrameWork\\FinancialDbContext.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T11:24:27.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Models\\AuditLog.cs",
+              "RelativeDocumentMoniker": "SecureFinancialManagement\\Models\\AuditLog.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Models\\AuditLog.cs",
+              "RelativeToolTip": "SecureFinancialManagement\\Models\\AuditLog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T11:21:07.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IAuditLogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Repository\\IAuditLogRepository.cs",
+              "RelativeDocumentMoniker": "SecureFinancialManagement\\Repository\\IAuditLogRepository.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Repository\\IAuditLogRepository.cs",
+              "RelativeToolTip": "SecureFinancialManagement\\Repository\\IAuditLogRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:11:02.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IUserAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Repository\\IUserAccountRepository.cs",
+              "RelativeDocumentMoniker": "SecureFinancialManagement\\Repository\\IUserAccountRepository.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Repository\\IUserAccountRepository.cs",
+              "RelativeToolTip": "SecureFinancialManagement\\Repository\\IUserAccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:16:15.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Program.cs",
+              "RelativeDocumentMoniker": "SecureFinancialManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Program.cs",
+              "RelativeToolTip": "SecureFinancialManagement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:20:07.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Repository\\TransactionRepository.cs",
+              "RelativeDocumentMoniker": "SecureFinancialManagement\\Repository\\TransactionRepository.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Repository\\TransactionRepository.cs",
+              "RelativeToolTip": "SecureFinancialManagement\\Repository\\TransactionRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAkwB4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:12:25.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Views\\Transaction\\Create.cshtml",
+              "RelativeDocumentMoniker": "SecureFinancialManagement\\Views\\Transaction\\Create.cshtml",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Views\\Transaction\\Create.cshtml",
+              "RelativeToolTip": "SecureFinancialManagement\\Views\\Transaction\\Create.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAkwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T16:45:20.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Views\\Transaction\\Index.cshtml",
+              "RelativeDocumentMoniker": "SecureFinancialManagement\\Views\\Transaction\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Views\\Transaction\\Index.cshtml",
+              "RelativeToolTip": "SecureFinancialManagement\\Views\\Transaction\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T14:32:13.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\ViewModel\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "SecureFinancialManagement\\ViewModel\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\ViewModel\\LoginViewModel.cs",
+              "RelativeToolTip": "SecureFinancialManagement\\ViewModel\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:49:53.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SecureFinancialManagement\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SecureFinancialManagement\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwDEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:50:43.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20240912123832_Finance1.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Migrations\\20240912123832_Finance1.cs",
+              "RelativeDocumentMoniker": "SecureFinancialManagement\\Migrations\\20240912123832_Finance1.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Migrations\\20240912123832_Finance1.cs",
+              "RelativeToolTip": "SecureFinancialManagement\\Migrations\\20240912123832_Finance1.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:38:32.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "SecureFinancialManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\appsettings.json",
+              "RelativeToolTip": "SecureFinancialManagement\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-12T12:18:54.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Repository\\UserAccountRepository.cs",
+              "RelativeDocumentMoniker": "SecureFinancialManagement\\Repository\\UserAccountRepository.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Repository\\UserAccountRepository.cs",
+              "RelativeToolTip": "SecureFinancialManagement\\Repository\\UserAccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:16:43.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "SecureFinancialManagement\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "SecureFinancialManagement\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwDAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:13:14.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "SecureFinancialManagement\\Repository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "SecureFinancialManagement\\Repository\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:10:22.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SecureFinancialManagement.csproj",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\SecureFinancialManagement.csproj",
+              "RelativeDocumentMoniker": "SecureFinancialManagement\\SecureFinancialManagement.csproj",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\SecureFinancialManagement.csproj",
+              "RelativeToolTip": "SecureFinancialManagement\\SecureFinancialManagement.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-12T12:02:34.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SecureFinancialManagement\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\SecureFinancialManagement\\SecureFinancialManagement\\Models\\User.cs",
+              "RelativeToolTip": "SecureFinancialManagement\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T11:19:11.287Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

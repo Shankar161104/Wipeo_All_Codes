@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shankar\\source\\repos\\MVC_Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{086B2F0C-4C09-4A0D-BD2F-D3C42A13E175}|MVC_Practice\\MVC_Practice.csproj|c:\\users\\shankar\\source\\repos\\mvc_practice\\mvc_practice\\controllers\\humancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{086B2F0C-4C09-4A0D-BD2F-D3C42A13E175}|MVC_Practice\\MVC_Practice.csproj|solutionrelative:mvc_practice\\controllers\\humancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{086B2F0C-4C09-4A0D-BD2F-D3C42A13E175}|MVC_Practice\\MVC_Practice.csproj|c:\\users\\shankar\\source\\repos\\mvc_practice\\mvc_practice\\views\\human\\arithmetichuman.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{086B2F0C-4C09-4A0D-BD2F-D3C42A13E175}|MVC_Practice\\MVC_Practice.csproj|solutionrelative:mvc_practice\\views\\human\\arithmetichuman.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{086B2F0C-4C09-4A0D-BD2F-D3C42A13E175}|MVC_Practice\\MVC_Practice.csproj|c:\\users\\shankar\\source\\repos\\mvc_practice\\mvc_practice\\models\\arithmetichuman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{086B2F0C-4C09-4A0D-BD2F-D3C42A13E175}|MVC_Practice\\MVC_Practice.csproj|solutionrelative:mvc_practice\\models\\arithmetichuman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{086B2F0C-4C09-4A0D-BD2F-D3C42A13E175}|MVC_Practice\\MVC_Practice.csproj|c:\\users\\shankar\\source\\repos\\mvc_practice\\mvc_practice\\models\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{086B2F0C-4C09-4A0D-BD2F-D3C42A13E175}|MVC_Practice\\MVC_Practice.csproj|solutionrelative:mvc_practice\\models\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{086B2F0C-4C09-4A0D-BD2F-D3C42A13E175}|MVC_Practice\\MVC_Practice.csproj|c:\\users\\shankar\\source\\repos\\mvc_practice\\mvc_practice\\models\\arithmetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{086B2F0C-4C09-4A0D-BD2F-D3C42A13E175}|MVC_Practice\\MVC_Practice.csproj|solutionrelative:mvc_practice\\models\\arithmetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{086B2F0C-4C09-4A0D-BD2F-D3C42A13E175}|MVC_Practice\\MVC_Practice.csproj|c:\\users\\shankar\\source\\repos\\mvc_practice\\mvc_practice\\views\\human\\shankar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{086B2F0C-4C09-4A0D-BD2F-D3C42A13E175}|MVC_Practice\\MVC_Practice.csproj|solutionrelative:mvc_practice\\views\\human\\shankar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{086B2F0C-4C09-4A0D-BD2F-D3C42A13E175}|MVC_Practice\\MVC_Practice.csproj|c:\\users\\shankar\\source\\repos\\mvc_practice\\mvc_practice\\views\\human\\arithmetic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{086B2F0C-4C09-4A0D-BD2F-D3C42A13E175}|MVC_Practice\\MVC_Practice.csproj|solutionrelative:mvc_practice\\views\\human\\arithmetic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArithmeticHuman.cshtml",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\MVC_Practice\\MVC_Practice\\Views\\Human\\ArithmeticHuman.cshtml",
+              "RelativeDocumentMoniker": "MVC_Practice\\Views\\Human\\ArithmeticHuman.cshtml",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\MVC_Practice\\MVC_Practice\\Views\\Human\\ArithmeticHuman.cshtml",
+              "RelativeToolTip": "MVC_Practice\\Views\\Human\\ArithmeticHuman.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-31T05:35:14.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArithmeticHuman.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\MVC_Practice\\MVC_Practice\\Models\\ArithmeticHuman.cs",
+              "RelativeDocumentMoniker": "MVC_Practice\\Models\\ArithmeticHuman.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\MVC_Practice\\MVC_Practice\\Models\\ArithmeticHuman.cs",
+              "RelativeToolTip": "MVC_Practice\\Models\\ArithmeticHuman.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T05:29:13.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Arithmetic.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\MVC_Practice\\MVC_Practice\\Models\\Arithmetic.cs",
+              "RelativeDocumentMoniker": "MVC_Practice\\Models\\Arithmetic.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\MVC_Practice\\MVC_Practice\\Models\\Arithmetic.cs",
+              "RelativeToolTip": "MVC_Practice\\Models\\Arithmetic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T05:26:01.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Shankar.cshtml",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\MVC_Practice\\MVC_Practice\\Views\\Human\\Shankar.cshtml",
+              "RelativeDocumentMoniker": "MVC_Practice\\Views\\Human\\Shankar.cshtml",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\MVC_Practice\\MVC_Practice\\Views\\Human\\Shankar.cshtml",
+              "RelativeToolTip": "MVC_Practice\\Views\\Human\\Shankar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-31T05:10:45.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Arithmetic.cshtml",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\MVC_Practice\\MVC_Practice\\Views\\Human\\Arithmetic.cshtml",
+              "RelativeDocumentMoniker": "MVC_Practice\\Views\\Human\\Arithmetic.cshtml",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\MVC_Practice\\MVC_Practice\\Views\\Human\\Arithmetic.cshtml",
+              "RelativeToolTip": "MVC_Practice\\Views\\Human\\Arithmetic.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-31T05:02:03.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HumanController.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\MVC_Practice\\MVC_Practice\\Controllers\\HumanController.cs",
+              "RelativeDocumentMoniker": "MVC_Practice\\Controllers\\HumanController.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\MVC_Practice\\MVC_Practice\\Controllers\\HumanController.cs",
+              "RelativeToolTip": "MVC_Practice\\Controllers\\HumanController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T04:57:53.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Human.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\MVC_Practice\\MVC_Practice\\Models\\Human.cs",
+              "RelativeDocumentMoniker": "MVC_Practice\\Models\\Human.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\MVC_Practice\\MVC_Practice\\Models\\Human.cs",
+              "RelativeToolTip": "MVC_Practice\\Models\\Human.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T04:56:03.385Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

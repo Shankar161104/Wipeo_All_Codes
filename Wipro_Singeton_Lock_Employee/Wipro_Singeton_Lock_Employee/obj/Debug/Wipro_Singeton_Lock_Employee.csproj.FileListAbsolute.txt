@@ -1,0 +1,7 @@
+C:\Users\shankar\source\repos\Wipro_Singeton_Lock_Employee\Wipro_Singeton_Lock_Employee\bin\Debug\Wipro_Singeton_Lock_Employee.exe.config
+C:\Users\shankar\source\repos\Wipro_Singeton_Lock_Employee\Wipro_Singeton_Lock_Employee\bin\Debug\Wipro_Singeton_Lock_Employee.exe
+C:\Users\shankar\source\repos\Wipro_Singeton_Lock_Employee\Wipro_Singeton_Lock_Employee\bin\Debug\Wipro_Singeton_Lock_Employee.pdb
+C:\Users\shankar\source\repos\Wipro_Singeton_Lock_Employee\Wipro_Singeton_Lock_Employee\obj\Debug\Wipro_Singeton_Lock_Employee.csproj.AssemblyReference.cache
+C:\Users\shankar\source\repos\Wipro_Singeton_Lock_Employee\Wipro_Singeton_Lock_Employee\obj\Debug\Wipro_Singeton_Lock_Employee.csproj.CoreCompileInputs.cache
+C:\Users\shankar\source\repos\Wipro_Singeton_Lock_Employee\Wipro_Singeton_Lock_Employee\obj\Debug\Wipro_Singeton_Lock_Employee.exe
+C:\Users\shankar\source\repos\Wipro_Singeton_Lock_Employee\Wipro_Singeton_Lock_Employee\obj\Debug\Wipro_Singeton_Lock_Employee.pdb

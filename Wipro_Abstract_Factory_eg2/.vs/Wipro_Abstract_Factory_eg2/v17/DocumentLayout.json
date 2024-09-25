@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shankar\\source\\repos\\Wipro_Abstract_Factory_eg2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8490BE7B-5287-4DB6-B8D2-9D7D4CC94EBE}|Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2.csproj|C:\\Users\\shankar\\source\\repos\\Wipro_Abstract_Factory_eg2\\wipro_abstract_factory_eg2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8490BE7B-5287-4DB6-B8D2-9D7D4CC94EBE}|Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2.csproj|solutionrelative:wipro_abstract_factory_eg2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8490BE7B-5287-4DB6-B8D2-9D7D4CC94EBE}|Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2.csproj|C:\\Users\\shankar\\source\\repos\\Wipro_Abstract_Factory_eg2\\wipro_abstract_factory_eg2\\horrorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8490BE7B-5287-4DB6-B8D2-9D7D4CC94EBE}|Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2.csproj|solutionrelative:wipro_abstract_factory_eg2\\horrorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8490BE7B-5287-4DB6-B8D2-9D7D4CC94EBE}|Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2.csproj|c:\\users\\shankar\\source\\repos\\wipro_abstract_factory_eg2\\wipro_abstract_factory_eg2\\moviefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8490BE7B-5287-4DB6-B8D2-9D7D4CC94EBE}|Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2.csproj|solutionrelative:wipro_abstract_factory_eg2\\moviefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8490BE7B-5287-4DB6-B8D2-9D7D4CC94EBE}|Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2.csproj|C:\\Users\\shankar\\source\\repos\\Wipro_Abstract_Factory_eg2\\wipro_abstract_factory_eg2\\bollywoodmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8490BE7B-5287-4DB6-B8D2-9D7D4CC94EBE}|Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2.csproj|solutionrelative:wipro_abstract_factory_eg2\\bollywoodmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8490BE7B-5287-4DB6-B8D2-9D7D4CC94EBE}|Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2.csproj|C:\\Users\\shankar\\source\\repos\\Wipro_Abstract_Factory_eg2\\wipro_abstract_factory_eg2\\hollywoodmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8490BE7B-5287-4DB6-B8D2-9D7D4CC94EBE}|Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2.csproj|solutionrelative:wipro_abstract_factory_eg2\\hollywoodmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8490BE7B-5287-4DB6-B8D2-9D7D4CC94EBE}|Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2.csproj|C:\\Users\\shankar\\source\\repos\\Wipro_Abstract_Factory_eg2\\wipro_abstract_factory_eg2\\bollywoodcomedy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8490BE7B-5287-4DB6-B8D2-9D7D4CC94EBE}|Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2.csproj|solutionrelative:wipro_abstract_factory_eg2\\bollywoodcomedy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8490BE7B-5287-4DB6-B8D2-9D7D4CC94EBE}|Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2.csproj|C:\\Users\\shankar\\source\\repos\\Wipro_Abstract_Factory_eg2\\wipro_abstract_factory_eg2\\hollywoodcomedy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8490BE7B-5287-4DB6-B8D2-9D7D4CC94EBE}|Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2.csproj|solutionrelative:wipro_abstract_factory_eg2\\hollywoodcomedy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8490BE7B-5287-4DB6-B8D2-9D7D4CC94EBE}|Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2.csproj|C:\\Users\\shankar\\source\\repos\\Wipro_Abstract_Factory_eg2\\wipro_abstract_factory_eg2\\comedyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8490BE7B-5287-4DB6-B8D2-9D7D4CC94EBE}|Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2.csproj|solutionrelative:wipro_abstract_factory_eg2\\comedyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8490BE7B-5287-4DB6-B8D2-9D7D4CC94EBE}|Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2.csproj|C:\\Users\\shankar\\source\\repos\\Wipro_Abstract_Factory_eg2\\wipro_abstract_factory_eg2\\animationmoviefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8490BE7B-5287-4DB6-B8D2-9D7D4CC94EBE}|Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2.csproj|solutionrelative:wipro_abstract_factory_eg2\\animationmoviefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8490BE7B-5287-4DB6-B8D2-9D7D4CC94EBE}|Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2.csproj|C:\\Users\\shankar\\source\\repos\\Wipro_Abstract_Factory_eg2\\wipro_abstract_factory_eg2\\bollywoodhorror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8490BE7B-5287-4DB6-B8D2-9D7D4CC94EBE}|Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2.csproj|solutionrelative:wipro_abstract_factory_eg2\\bollywoodhorror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8490BE7B-5287-4DB6-B8D2-9D7D4CC94EBE}|Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2.csproj|C:\\Users\\shankar\\source\\repos\\Wipro_Abstract_Factory_eg2\\wipro_abstract_factory_eg2\\bollywoodanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8490BE7B-5287-4DB6-B8D2-9D7D4CC94EBE}|Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2.csproj|solutionrelative:wipro_abstract_factory_eg2\\bollywoodanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8490BE7B-5287-4DB6-B8D2-9D7D4CC94EBE}|Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2.csproj|C:\\Users\\shankar\\source\\repos\\Wipro_Abstract_Factory_eg2\\wipro_abstract_factory_eg2\\hollywoodhorror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8490BE7B-5287-4DB6-B8D2-9D7D4CC94EBE}|Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2.csproj|solutionrelative:wipro_abstract_factory_eg2\\hollywoodhorror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8490BE7B-5287-4DB6-B8D2-9D7D4CC94EBE}|Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2.csproj|C:\\Users\\shankar\\source\\repos\\Wipro_Abstract_Factory_eg2\\wipro_abstract_factory_eg2\\hollywoodanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8490BE7B-5287-4DB6-B8D2-9D7D4CC94EBE}|Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2.csproj|solutionrelative:wipro_abstract_factory_eg2\\hollywoodanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieFactory.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2\\MovieFactory.cs",
+              "RelativeDocumentMoniker": "Wipro_Abstract_Factory_eg2\\MovieFactory.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2\\MovieFactory.cs",
+              "RelativeToolTip": "Wipro_Abstract_Factory_eg2\\MovieFactory.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T08:00:11.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2\\Program.cs",
+              "RelativeDocumentMoniker": "Wipro_Abstract_Factory_eg2\\Program.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2\\Program.cs",
+              "RelativeToolTip": "Wipro_Abstract_Factory_eg2\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T07:57:19.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HorrorFactory.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2\\HorrorFactory.cs",
+              "RelativeDocumentMoniker": "Wipro_Abstract_Factory_eg2\\HorrorFactory.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2\\HorrorFactory.cs",
+              "RelativeToolTip": "Wipro_Abstract_Factory_eg2\\HorrorFactory.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T08:13:46.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ComedyFactory.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2\\ComedyFactory.cs",
+              "RelativeDocumentMoniker": "Wipro_Abstract_Factory_eg2\\ComedyFactory.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2\\ComedyFactory.cs",
+              "RelativeToolTip": "Wipro_Abstract_Factory_eg2\\ComedyFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T08:12:32.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AnimationMovieFactory.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2\\AnimationMovieFactory.cs",
+              "RelativeDocumentMoniker": "Wipro_Abstract_Factory_eg2\\AnimationMovieFactory.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2\\AnimationMovieFactory.cs",
+              "RelativeToolTip": "Wipro_Abstract_Factory_eg2\\AnimationMovieFactory.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T08:10:29.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BollyWoodComedy.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2\\BollyWoodComedy.cs",
+              "RelativeDocumentMoniker": "Wipro_Abstract_Factory_eg2\\BollyWoodComedy.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2\\BollyWoodComedy.cs",
+              "RelativeToolTip": "Wipro_Abstract_Factory_eg2\\BollyWoodComedy.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T08:09:14.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BollyWoodHorror.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2\\BollyWoodHorror.cs",
+              "RelativeDocumentMoniker": "Wipro_Abstract_Factory_eg2\\BollyWoodHorror.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2\\BollyWoodHorror.cs",
+              "RelativeToolTip": "Wipro_Abstract_Factory_eg2\\BollyWoodHorror.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T08:08:32.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BollyWoodAnimation.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2\\BollyWoodAnimation.cs",
+              "RelativeDocumentMoniker": "Wipro_Abstract_Factory_eg2\\BollyWoodAnimation.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2\\BollyWoodAnimation.cs",
+              "RelativeToolTip": "Wipro_Abstract_Factory_eg2\\BollyWoodAnimation.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T08:07:00.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HollyWoodComedy.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2\\HollyWoodComedy.cs",
+              "RelativeDocumentMoniker": "Wipro_Abstract_Factory_eg2\\HollyWoodComedy.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2\\HollyWoodComedy.cs*",
+              "RelativeToolTip": "Wipro_Abstract_Factory_eg2\\HollyWoodComedy.cs*",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T08:06:17.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HollyWoodHorror.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2\\HollyWoodHorror.cs",
+              "RelativeDocumentMoniker": "Wipro_Abstract_Factory_eg2\\HollyWoodHorror.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2\\HollyWoodHorror.cs",
+              "RelativeToolTip": "Wipro_Abstract_Factory_eg2\\HollyWoodHorror.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T08:05:34.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HollyWoodAnimation.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2\\HollyWoodAnimation.cs",
+              "RelativeDocumentMoniker": "Wipro_Abstract_Factory_eg2\\HollyWoodAnimation.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2\\HollyWoodAnimation.cs",
+              "RelativeToolTip": "Wipro_Abstract_Factory_eg2\\HollyWoodAnimation.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T08:03:13.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BollyWoodMovie.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2\\BollyWoodMovie.cs",
+              "RelativeDocumentMoniker": "Wipro_Abstract_Factory_eg2\\BollyWoodMovie.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2\\BollyWoodMovie.cs",
+              "RelativeToolTip": "Wipro_Abstract_Factory_eg2\\BollyWoodMovie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T07:59:38.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HollyWoodMovie.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2\\HollyWoodMovie.cs",
+              "RelativeDocumentMoniker": "Wipro_Abstract_Factory_eg2\\HollyWoodMovie.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Abstract_Factory_eg2\\Wipro_Abstract_Factory_eg2\\HollyWoodMovie.cs",
+              "RelativeToolTip": "Wipro_Abstract_Factory_eg2\\HollyWoodMovie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T07:59:16.767Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

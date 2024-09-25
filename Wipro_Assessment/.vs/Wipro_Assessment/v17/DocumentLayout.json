@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shankar\\source\\repos\\Wipro_Assessment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB5B7E9-89E7-4676-816E-A19F3BCF2542}|Wipro_Assessment\\Wipro_Assessment.csproj|c:\\users\\shankar\\source\\repos\\wipro_assessment\\wipro_assessment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB5B7E9-89E7-4676-816E-A19F3BCF2542}|Wipro_Assessment\\Wipro_Assessment.csproj|solutionrelative:wipro_assessment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB9C16E-8D69-499C-ABBC-FFFC2800AA48}|Wipro_Assessment_dll\\Wipro_Assessment_dll.csproj|c:\\users\\shankar\\source\\repos\\wipro_assessment\\wipro_assessment_dll\\arithmetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB9C16E-8D69-499C-ABBC-FFFC2800AA48}|Wipro_Assessment_dll\\Wipro_Assessment_dll.csproj|solutionrelative:wipro_assessment_dll\\arithmetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB9C16E-8D69-499C-ABBC-FFFC2800AA48}|Wipro_Assessment_dll\\Wipro_Assessment_dll.csproj|c:\\users\\shankar\\source\\repos\\wipro_assessment\\wipro_assessment_dll\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB9C16E-8D69-499C-ABBC-FFFC2800AA48}|Wipro_Assessment_dll\\Wipro_Assessment_dll.csproj|solutionrelative:wipro_assessment_dll\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB9C16E-8D69-499C-ABBC-FFFC2800AA48}|Wipro_Assessment_dll\\Wipro_Assessment_dll.csproj|c:\\users\\shankar\\source\\repos\\wipro_assessment\\wipro_assessment_dll\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB9C16E-8D69-499C-ABBC-FFFC2800AA48}|Wipro_Assessment_dll\\Wipro_Assessment_dll.csproj|solutionrelative:wipro_assessment_dll\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB9C16E-8D69-499C-ABBC-FFFC2800AA48}|Wipro_Assessment_dll\\Wipro_Assessment_dll.csproj|c:\\users\\shankar\\source\\repos\\wipro_assessment\\wipro_assessment_dll\\stringoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB9C16E-8D69-499C-ABBC-FFFC2800AA48}|Wipro_Assessment_dll\\Wipro_Assessment_dll.csproj|solutionrelative:wipro_assessment_dll\\stringoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Assessment\\Wipro_Assessment_dll\\Customer.cs",
+              "RelativeDocumentMoniker": "Wipro_Assessment_dll\\Customer.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Assessment\\Wipro_Assessment_dll\\Customer.cs",
+              "RelativeToolTip": "Wipro_Assessment_dll\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:08:30.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StringOperation.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Assessment\\Wipro_Assessment_dll\\StringOperation.cs",
+              "RelativeDocumentMoniker": "Wipro_Assessment_dll\\StringOperation.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Assessment\\Wipro_Assessment_dll\\StringOperation.cs",
+              "RelativeToolTip": "Wipro_Assessment_dll\\StringOperation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:07:29.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Area.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Assessment\\Wipro_Assessment_dll\\Area.cs",
+              "RelativeDocumentMoniker": "Wipro_Assessment_dll\\Area.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Assessment\\Wipro_Assessment_dll\\Area.cs",
+              "RelativeToolTip": "Wipro_Assessment_dll\\Area.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:03:32.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Arithmetic.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Assessment\\Wipro_Assessment_dll\\Arithmetic.cs",
+              "RelativeDocumentMoniker": "Wipro_Assessment_dll\\Arithmetic.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Assessment\\Wipro_Assessment_dll\\Arithmetic.cs",
+              "RelativeToolTip": "Wipro_Assessment_dll\\Arithmetic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T06:06:28.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Assessment\\Wipro_Assessment\\Program.cs",
+              "RelativeDocumentMoniker": "Wipro_Assessment\\Program.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Assessment\\Wipro_Assessment\\Program.cs",
+              "RelativeToolTip": "Wipro_Assessment\\Program.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAwHIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T06:05:30.343Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

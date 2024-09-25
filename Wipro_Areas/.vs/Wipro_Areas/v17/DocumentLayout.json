@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shankar\\source\\repos\\Wipro_Areas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6956FCAB-14A8-466E-9D5C-5D98275D22B0}|Wipro_Areas.dll\\Wipro_Areas.dll.csproj|c:\\users\\shankar\\source\\repos\\wipro_areas\\wipro_areas.dll\\areas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6956FCAB-14A8-466E-9D5C-5D98275D22B0}|Wipro_Areas.dll\\Wipro_Areas.dll.csproj|solutionrelative:wipro_areas.dll\\areas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1E84AE-423A-4D55-B696-001A3EADE9EB}|Wipro_Areas\\Wipro_Areas.csproj|c:\\users\\shankar\\source\\repos\\wipro_areas\\wipro_areas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1E84AE-423A-4D55-B696-001A3EADE9EB}|Wipro_Areas\\Wipro_Areas.csproj|solutionrelative:wipro_areas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Areas.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Areas\\Wipro_Areas.dll\\Areas.cs",
+              "RelativeDocumentMoniker": "Wipro_Areas.dll\\Areas.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Areas\\Wipro_Areas.dll\\Areas.cs",
+              "RelativeToolTip": "Wipro_Areas.dll\\Areas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T10:01:48.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_Areas\\Wipro_Areas\\Program.cs",
+              "RelativeDocumentMoniker": "Wipro_Areas\\Program.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_Areas\\Wipro_Areas\\Program.cs",
+              "RelativeToolTip": "Wipro_Areas\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T10:01:20.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

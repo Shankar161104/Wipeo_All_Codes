@@ -1,0 +1,91 @@
+﻿@{
+    ViewData["Title"] = "Opening Page 1";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-image: url('https://i.pinimg.com/564x/02/42/32/02423280c5e6a3d92b44f49289259673.jpg'); /* Replace with your image */
+            background-size: cover;
+            background-position: center;
+            font-family: 'Roboto', sans-serif;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            color: #fff;
+        }
+
+        .overlay {
+            background-color: rgba(0, 0, 0, 0.6);
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            z-index: 1;
+        }
+
+        .content {
+            z-index: 2;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 4em;
+            letter-spacing: 5px;
+            text-transform: uppercase;
+            margin-bottom: 0.5em;
+        }
+
+        p {
+            font-size: 1.5em;
+            margin-bottom: 2em;
+        }
+
+        .button {
+            display: inline-block;
+            padding: 15px 30px;
+            margin: 10px;
+            font-size: 1.2em;
+            color: #fff;
+            background-color: #f56a79;
+            text-transform: uppercase;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+
+            .button:hover {
+                background-color: #ff3b58;
+            }
+    </style>
+</head>
+<body>
+
+    <div class="overlay"></div>
+
+    <div class="content">
+        <h1>Welcome to Page 1</h1>
+        <p>Select an option below:</p>
+
+        <!-- Navigation buttons -->
+        <a href="/User/Index" class="button">Manage Users</a>
+        <a href="/Song/Index" class="button">Discover Songs</a>
+        <a href="/Playlist/Index" class="button">Create Playlist</a>
+        <a href="/Home/OpeningPage" class="button">Back to Opening Page</a>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

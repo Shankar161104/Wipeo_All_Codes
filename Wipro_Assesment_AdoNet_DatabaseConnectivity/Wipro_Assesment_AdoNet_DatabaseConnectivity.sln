@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wipro_Assesment_AdoNet_DatabaseConnectivity", "Wipro_Assesment_AdoNet_DatabaseConnectivity\Wipro_Assesment_AdoNet_DatabaseConnectivity.csproj", "{28CC7353-076D-4BAC-840C-E046CF4F74DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28CC7353-076D-4BAC-840C-E046CF4F74DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28CC7353-076D-4BAC-840C-E046CF4F74DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28CC7353-076D-4BAC-840C-E046CF4F74DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28CC7353-076D-4BAC-840C-E046CF4F74DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B824E21-8FC6-48A7-97C8-AD429A3CC885}
+	EndGlobalSection
+EndGlobal

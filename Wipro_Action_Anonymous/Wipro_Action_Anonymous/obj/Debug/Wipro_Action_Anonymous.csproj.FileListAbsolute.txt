@@ -1,0 +1,7 @@
+C:\Users\shankar\source\repos\Wipro_Action_Anonymous\Wipro_Action_Anonymous\bin\Debug\Wipro_Action_Anonymous.exe.config
+C:\Users\shankar\source\repos\Wipro_Action_Anonymous\Wipro_Action_Anonymous\bin\Debug\Wipro_Action_Anonymous.exe
+C:\Users\shankar\source\repos\Wipro_Action_Anonymous\Wipro_Action_Anonymous\bin\Debug\Wipro_Action_Anonymous.pdb
+C:\Users\shankar\source\repos\Wipro_Action_Anonymous\Wipro_Action_Anonymous\obj\Debug\Wipro_Action_Anonymous.csproj.AssemblyReference.cache
+C:\Users\shankar\source\repos\Wipro_Action_Anonymous\Wipro_Action_Anonymous\obj\Debug\Wipro_Action_Anonymous.csproj.CoreCompileInputs.cache
+C:\Users\shankar\source\repos\Wipro_Action_Anonymous\Wipro_Action_Anonymous\obj\Debug\Wipro_Action_Anonymous.exe
+C:\Users\shankar\source\repos\Wipro_Action_Anonymous\Wipro_Action_Anonymous\obj\Debug\Wipro_Action_Anonymous.pdb

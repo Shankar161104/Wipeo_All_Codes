@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shankar\\source\\repos\\Wipro_MVC_TempData_02nd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B31CEB61-A8CC-4DB1-B519-475D52368E94}|Wipro_MVC_TempData_02nd\\Wipro_MVC_TempData_02nd.csproj|c:\\users\\shankar\\source\\repos\\wipro_mvc_tempdata_02nd\\wipro_mvc_tempdata_02nd\\controllers\\countryc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B31CEB61-A8CC-4DB1-B519-475D52368E94}|Wipro_MVC_TempData_02nd\\Wipro_MVC_TempData_02nd.csproj|solutionrelative:wipro_mvc_tempdata_02nd\\controllers\\countryc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31CEB61-A8CC-4DB1-B519-475D52368E94}|Wipro_MVC_TempData_02nd\\Wipro_MVC_TempData_02nd.csproj|c:\\users\\shankar\\source\\repos\\wipro_mvc_tempdata_02nd\\wipro_mvc_tempdata_02nd\\views\\countryc\\passingdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B31CEB61-A8CC-4DB1-B519-475D52368E94}|Wipro_MVC_TempData_02nd\\Wipro_MVC_TempData_02nd.csproj|solutionrelative:wipro_mvc_tempdata_02nd\\views\\countryc\\passingdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PassingData.cshtml",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_MVC_TempData_02nd\\Wipro_MVC_TempData_02nd\\Views\\CountryC\\PassingData.cshtml",
+              "RelativeDocumentMoniker": "Wipro_MVC_TempData_02nd\\Views\\CountryC\\PassingData.cshtml",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_MVC_TempData_02nd\\Wipro_MVC_TempData_02nd\\Views\\CountryC\\PassingData.cshtml",
+              "RelativeToolTip": "Wipro_MVC_TempData_02nd\\Views\\CountryC\\PassingData.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T09:34:07.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CountryC.cs",
+              "DocumentMoniker": "C:\\Users\\shankar\\source\\repos\\Wipro_MVC_TempData_02nd\\Wipro_MVC_TempData_02nd\\Controllers\\CountryC.cs",
+              "RelativeDocumentMoniker": "Wipro_MVC_TempData_02nd\\Controllers\\CountryC.cs",
+              "ToolTip": "C:\\Users\\shankar\\source\\repos\\Wipro_MVC_TempData_02nd\\Wipro_MVC_TempData_02nd\\Controllers\\CountryC.cs",
+              "RelativeToolTip": "Wipro_MVC_TempData_02nd\\Controllers\\CountryC.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T09:29:11.627Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
